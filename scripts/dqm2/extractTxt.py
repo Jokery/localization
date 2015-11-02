@@ -19,7 +19,7 @@ E1 = "-ー"
 
 def unpack(fileName,useCheckMode = False):
 
-    testFile = "/Users/Joker/dqm2/Message/msg_"+ fileName + ".binJ"
+    testFile = "./Message/msg_"+ fileName + ".binJ"
 
     if useCheckMode:
         print(os.path.basename(testFile) + '*' * 50 + "\n")
@@ -36,7 +36,7 @@ def unpack(fileName,useCheckMode = False):
         pageItemCount = struct.unpack("<i",content[4 + 4 * page : 8+ 4*page])[0]
         totalItemCount += pageItemCount
 
-    toPath = os.path.join(os.path.dirname(testFile), "org_unpack/"+os.path.basename(testFile)+".txt")
+    toPath = os.path.join(os.path.dirname(testFile), "../_extract_Message/"+os.path.basename(testFile)+".txt")
     toFP = ""
     if not useCheckMode:
         toFP = open(toPath,"w+")
@@ -127,7 +127,7 @@ def unpack(fileName,useCheckMode = False):
     print(os.path.basename(testFile) + " Done.\n")
 
 def unpackAll():
-    files = os.listdir("/Users/Joker/dqm2/Message")
+    files = os.listdir("./Message")
     for file in files:
         if file.__contains__("binJ"):
             unpack(file.replace("msg_","").replace(".binJ",""))
