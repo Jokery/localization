@@ -1,0 +1,97 @@
+例子:
+# 从cci文件提取
+3dstool -xvt017f cci 0.cxi 1.cfa 7.cfa input.3ds --header ncsdheader.bin
+
+# 从cxi文件提取,过程中不用加密
+3dstool -xvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin
+
+# 从cxi文件提取,过程中用AES-CTR加密
+3dstool -xvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --key 00000000000000000000000000000000
+
+# 从cxi文件提取,过程中用异或加密
+3dstool -xvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --exh-xor 000400000XXXXX00.Main.exheader.xorpad --exefs-xor 000400000XXXXX00.Main.exefs_norm.xorpad --romfs-xor 000400000XXXXX00.Main.romfs.xorpad
+
+# 从cxi文件提取,过程中用7.x异或加密
+3dstool -xvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --exh-xor 000400000XXXXX00.Main.exheader.xorpad --exefs-xor 000400000XXXXX00.Main.exefs_norm.xorpad --exefs-top-xor 000400000XXXXX00.Main.exefs_7x.xorpad --romfs-xor 000400000XXXXX00.Main.romfs.xorpad
+
+# 从cfa文件提取,过程中不用加密
+3dstool -xvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin
+
+# 从cfa文件提取,过程中用AES-CTR加密
+3dstool -xvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin --key 00000000000000000000000000000000
+
+# 从cfa文件提取,过程中用异或加密
+3dstool -xvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin --romfs-xor 000400000XXXXX00.Manual.romfs.xorpad
+
+# 从exefs文件提取,过程中不用反向LZ77算法解压
+3dstool -xvtf exefs exefs.bin --header exefsheader.bin --exefs-dir exefs
+
+# 从exefs文件提取,过程中用反向LZ77算法解压
+3dstool -xuvtf exefs exefs.bin --header exefsheader.bin --exefs-dir exefs
+
+# 从romfs文件提取
+3dstool -xvtf romfs romfs.bin --romfs-dir romfs
+
+# 创建cci文件,并向尾部填充0xFF
+3dstool -cvt017f cci 0.cxi 1.cfa 7.cfa output.3ds --header ncsdheader.bin
+
+# 创建cci文件,不填充
+3dstool -cvt017f cci 0.cxi 1.cfa 7.cfa output.3ds --header ncsdheader.bin --not-pad
+
+# 创建cxi文件,过程中不用加密,但是计算校验
+3dstool -cvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin
+
+# 创建cxi文件,过程中不用加密,不计算校验
+3dstool -cvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --not-update-exh-hash --not-update-exefs-hash --not-update-romfs-hash
+
+# 创建cxi文件,过程中使用AES-CTR加密,并计算校验
+3dstool -cvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --key 00000000000000000000000000000000
+
+# 创建cxi文件,过程中使用异或加密,并计算校验
+3dstool -cvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --exh-xor 000400000XXXXX00.Main.exheader.xorpad --exefs-xor 000400000XXXXX00.Main.exefs_norm.xorpad --romfs-xor 000400000XXXXX00.Main.romfs.xorpad
+
+# 创建cxi文件,过程中使用7.x异或加密,并计算校验
+3dstool -cvtf cxi 0.cxi --header ncchheader.bin --exh exh.bin --logo logo.bcma.lz --plain plain.bin --exefs exefs.bin --romfs romfs.bin --exh-xor 000400000XXXXX00.Main.exheader.xorpad --exefs-xor 000400000XXXXX00.Main.exefs_norm.xorpad --exefs-top-xor 000400000XXXXX00.Main.exefs_7x.xorpad --romfs-xor 000400000XXXXX00.Main.romfs.xorpad
+
+# 创建cfa文件,过程中不用加密,但是计算校验
+3dstool -cvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin
+
+# 创建cfa文件,过程中不用加密,不计算校验
+3dstool -cvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin --not-update-romfs-hash
+
+# 创建cfa文件,过程中使用AES-CTR加密,并计算校验
+3dstool -cvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin --key 00000000000000000000000000000000
+
+# 创建cfa文件,过程中使用异或加密,并计算校验
+3dstool -cvtf cfa 1.cfa --header ncchheader.bin --romfs romfs.bin --romfs-xor 000400000XXXXX00.Main.romfs.xorpad
+
+# 创建exefs文件,过程中不用反向LZ77算法压缩
+3dstool -cvtf exefs exefs.bin --header exefsheader.bin --exefs-dir exefs
+
+# 创建exefs文件,过程中使用反向LZ77算法压缩
+3dstool -czvtf exefs exefs.bin --header exefsheader.bin --exefs-dir exefs
+
+# 创建romfs
+3dstool -cvtf romfs romfs.bin --romfs-dir romfs
+
+# 单独使用AES-CTR加密文件
+3dstool -evf file.bin --key 00000000000000000000000000000000 --counter 00000000000000000000000000000000
+
+# 单独使用异或加密文件
+3dstool -evf file.bin --xor xor.bin
+
+# 单独使用反向LZ77算法解压文件
+3dstool -uvf code.bin --compress-out code.bin
+
+# 单独使用反向LZ77算法压缩文件
+3dstool -zvf code.bin --compress-out code.bin
+
+# 缩减掉cci文件最后的填充数据
+3dstool -vtf cci input.3ds --trim
+
+# 缩减cci文件,只保留0~2分区
+3dstool -vtf cci input.3ds --trim --trim-after-partition 2
+
+# 向cci文件尾部填充0xFF
+3dstool -vtf cci input.3ds --pad
+

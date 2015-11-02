@@ -1,0 +1,102 @@
+3dstool 1.0 by dnasdw
+
+用法: 3dstool [选项...] [选项]...
+
+选项:
+功能:
+  -x, --extract 从目标文件提取
+  -c, --create  创建目标文件
+  -e, --encrypt 加密目标文件
+  -u, --uncompress
+                通过反向LZ77算法解压目标文件
+  -z, --compress
+                通过反向LZ77算法压缩目标文件
+  -r, --trim    缩减cci文件
+  -p, --pad     填充cci文件
+      --sample  查看例子
+  -h, --help    查看帮助
+
+通用:
+  -t, --type    [[card|cci|3ds]|[nand|exec|cxi]|[data|cfa]|exefs|romfs]
+		文件类型,可选的
+  -f, --file    目标文件,必需的
+  -v, --verbose 显示信息
+ cci/cxi/cfa/exefs:
+  提取/创建:
+      --header  目标文件的头文件
+ 加密:
+      --key0    --key 00000000000000000000000000000000的缩写
+      --key     使用AES-CTR加密时的十六进制写法的key
+      --counter 使用AES-CTR加密时的十六进制写法的counter
+      --xor     使用异或加密时的异或数据文件
+ 解压/压缩:
+      --compress-out
+                解压或压缩时的输出文件
+
+cci:
+ 提取/创建:
+  -0, --partition0
+                位于cci文件第0分区的cxi文件
+  -1, --partition1
+                位于cci文件第1分区的cfa文件
+  -2, --partition2
+                位于cci文件第2分区的cfa文件
+  -3, --partition3
+                位于cci文件第3分区的cfa文件
+  -4, --partition4
+                位于cci文件第4分区的cfa文件
+  -5, --partition5
+                位于cci文件第5分区的cfa文件
+  -6, --partition6
+                位于cci文件第6分区的cfa文件
+  -7, --partition7
+                位于cci文件第7分区的cfa文件
+ 缩减:
+      --trim-after-partition
+                [0~7], 保留的最后分区号,可选的
+
+cxi:
+ 创建:
+      --not-update-exh-hash
+      --not-update-extendedheader-hash
+                不更新extendedheader的校验值
+      --not-update-exefs-hash
+                不更新exefs头部的校验值
+      --not-update-romfs-hash
+                不更新romfs头部的校验值
+      --not-pad 不追加填充数据
+  提取:
+      --exh     
+      --extendedheader
+                cxi文件的extendedheader文件
+      --logo    
+      --logoregion
+                cxi文件的logoregion文件
+      --plain   
+      --plainregion
+                cxi文件的plainregion文件
+      --exefs   cxi文件的exefs文件
+   加密:
+      --exh-xor 
+      --extendedheader-xor
+                加密cxi文件的extendedheader部分用的异或数据文件
+      --exefs-xor
+                加密cxi文件的exefs部分用的异或数据文件
+      --exefs-top-xor
+                加密cxi文件的exefs第一段用的异或数据文件
+ cfa:
+  提取/创建:
+      --romfs   cxi或cfa文件的romfs文件
+   encrypt:
+      --romfs-xor
+                加密cxi或cfa文件的romfs部分用的异或数据文件
+
+exefs:
+ 提取/创建:
+      --exefs-dir
+                组成exefs文件的文件夹
+
+romfs:
+ 提取/创建:
+      --romfs-dir
+                组成romfs文件的文件夹
