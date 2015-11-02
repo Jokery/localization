@@ -8,10 +8,13 @@ if len(sys.argv) != 2:
     print("arg not correct.!")
     exit(0)
 '''
-fileName = "actionname"   #sys.argv[1]
+fileName = sys.argv[1]
+# fileName = "actionname"
 
-orgFile = "/Users/aidoo/Documents/translate/Message/msg_"+fileName+".binJ"
-transFile = os.path.join(os.path.dirname(orgFile), "trans/"+os.path.basename(orgFile)+".txt")
+orgFile = "./Message/msg_"+fileName+".binJ"
+transFile = os.path.join(os.path.dirname(orgFile), "../_extract_Message/"+os.path.basename(orgFile)+".txt")
+print(orgFile)
+print(transFile)
 
 content = []
 with open(transFile) as transHandler:
