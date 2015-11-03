@@ -93,7 +93,7 @@ for line in content:
     lineIdx +=1
 
 if(totalItemCount == lineIdx):
-    resultFile = transFile = os.path.join(os.path.dirname(orgFile), "../pack/"+os.path.basename(orgFile))
+    resultFile = transFile = os.path.join(os.path.dirname(orgFile), "../_repack_Message/"+os.path.basename(orgFile))
     resultHandler = open(resultFile,"wb+")
     resultHandler.write(header)
     resultHandler.write(resultContent)
