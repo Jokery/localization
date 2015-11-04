@@ -1,0 +1,1 @@
+解决提示mfc71u.dll找不到或缺少的问题，下载后拷贝到windows/system32下即可
