@@ -12,7 +12,7 @@ fileName = sys.argv[1]
 # fileName = "actionname"
 
 orgFile = "./Message/msg_"+fileName+".binJ"
-transFile = os.path.join(os.path.dirname(orgFile), "../_trans_Message/"+os.path.basename(orgFile)+".txt")
+transFile = os.path.join(os.path.dirname(orgFile), "../_trans_Message_txt/"+os.path.basename(orgFile)+".txt")
 print(orgFile)
 print(transFile)
 

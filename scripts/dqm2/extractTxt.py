@@ -36,7 +36,7 @@ def unpack(fileName,useCheckMode = False):
         pageItemCount = struct.unpack("<i",content[4 + 4 * page : 8+ 4*page])[0]
         totalItemCount += pageItemCount
 
-    toPath = os.path.join(os.path.dirname(testFile), "../_extract_Message/"+os.path.basename(testFile)+".txt")
+    toPath = os.path.join(os.path.dirname(testFile), "../_extract_Message_txt/"+os.path.basename(testFile)+".txt")
     toFP = ""
     if not useCheckMode:
         toFP = open(toPath,"w+")
