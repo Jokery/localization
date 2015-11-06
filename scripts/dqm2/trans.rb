@@ -2,6 +2,8 @@ EXTRA_DIR = File.expand_path('../../_extract_Message_txt', __FILE__)
 TRANS_DIR = File.expand_path('../../_trans_Message_txt', __FILE__)
 DICT_DIR = File.expand_path('../../dict', __FILE__)
 
+RETURN_CODE = "{?e3-15}"
+
 
 def trans_desc(dict, namefile, descfile)
   hash = get_hash(dict)
