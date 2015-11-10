@@ -27,7 +27,7 @@ def trans_name(dict, file)
     File.readlines(File.join(EXTRA_DIR, "msg_#{file}.binJ.txt")).each do |line|
       if not line.count('{') >= 2
         name = line[/^[^\{]*/]
-        if ( in_dict = hash[name] )
+        if ( in_dict = hash[name] ) && in_dict[:cn] && in_dict[:cn].strip.length != 0
           line.sub!(name, in_dict[:cn])
         end
       end
