@@ -4,6 +4,9 @@ TRANS_DIR = File.expand_path('../../_trans_Message_txt', __FILE__)
 DICT_DIR = File.expand_path('../../dict', __FILE__)
 
 RETURN_CODE = "{?e3-15}"
+SUBS = {
+  '%' => '{?e1-5e}'
+}
 
 def trans_desc(dict, namefile, descfile)
   hash = get_hash(dict)
@@ -38,6 +41,9 @@ def get_hash(dict)
   hash = { }
   File.readlines(File.join(DICT_DIR, dict)).each do |line|
     jp, cn, desc = line.chomp.split(',')
+    SUBS.each do |k, v|
+      jp.gsub!(k, v)
+    end
     hash[jp] = { cn: cn, desc: desc }
   end
   hash
