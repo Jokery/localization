@@ -1,20 +1,18 @@
+#encoding: utf-8
 EXTRA_DIR = File.expand_path('../../_extract_Message_txt', __FILE__)
 TRANS_DIR = File.expand_path('../../_trans_Message_txt', __FILE__)
 DICT_DIR = File.expand_path('../../dict', __FILE__)
 
 RETURN_CODE = "{?e3-15}"
 
-
 def trans_desc(dict, namefile, descfile)
   hash = get_hash(dict)
   File.open(File.join(TRANS_DIR, "msg_#{descfile}.binJ.txt"), 'w') do |trans_file|
     names = File.readlines(File.join(EXTRA_DIR, "msg_#{namefile}.binJ.txt"))
     File.readlines(File.join(EXTRA_DIR, "msg_#{descfile}.binJ.txt")).each_with_index do |line, i|
-      if !( line.count('{') >= 2 ) and !( names[i].count('{') >= 2 )
-        name = names[i][/^[^\{]*/]
-        if ( in_dict = hash[name] )
-          line = in_dict[:desc] + "{TR}\n"
-        end
+      name = names[i][/^[^\{]*/]
+      if ( in_dict = hash[name] )
+        line = in_dict[:desc] + "{TR}\n"
       end
       trans_file.write line
     end
@@ -39,7 +37,7 @@ end
 def get_hash(dict)
   hash = { }
   File.readlines(File.join(DICT_DIR, dict)).each do |line|
-    jp, cn, desc = line.split(',')
+    jp, cn, desc = line.chomp.split(',')
     hash[jp] = { cn: cn, desc: desc }
   end
   hash
