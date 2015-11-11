@@ -8,8 +8,8 @@ SUBS = {
   '%' => '{?e1-5e}'
 }
 
-def trans_desc(dict, namefile, descfile)
-  hash = get_hash(dict)
+def trans_desc(dicts, namefile, descfile)
+  hash = get_hash(dicts)
   File.open(File.join(TRANS_DIR, "msg_#{descfile}.binJ.txt"), 'w') do |trans_file|
     names = File.readlines(File.join(EXTRA_DIR, "msg_#{namefile}.binJ.txt"))
     File.readlines(File.join(EXTRA_DIR, "msg_#{descfile}.binJ.txt")).each_with_index do |line, i|
@@ -22,8 +22,8 @@ def trans_desc(dict, namefile, descfile)
   end
 end
 
-def trans_name(dict, file)
-  hash = get_hash(dict)
+def trans_name(dicts, file)
+  hash = get_hash(dicts)
   File.open(File.join(TRANS_DIR, "msg_#{file}.binJ.txt"), 'w') do |trans_file|
     File.readlines(File.join(EXTRA_DIR, "msg_#{file}.binJ.txt")).each do |line|
       if not line.count('{') >= 2
@@ -37,14 +37,17 @@ def trans_name(dict, file)
   end
 end
 
-def get_hash(dict)
+def get_hash(dicts)
+  dicts = [ dicts ] unless dicts.is_a?(Array)
   hash = { }
-  File.readlines(File.join(DICT_DIR, dict)).each do |line|
-    jp, cn, desc = line.chomp.split(',')
-    SUBS.each do |k, v|
-      jp.gsub!(k, v)
+  dicts.each do |dict|
+    File.readlines(File.join(DICT_DIR, dict)).each do |line|
+      jp, cn, desc = line.chomp.split(',')
+      SUBS.each do |k, v|
+        jp.gsub!(k, v)
+      end
+      hash[jp] = { cn: cn, desc: desc }
     end
-    hash[jp] = { cn: cn, desc: desc }
   end
   hash
 end
