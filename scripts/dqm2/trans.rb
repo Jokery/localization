@@ -15,7 +15,9 @@ def trans_desc(dicts, namefile, descfile)
     File.readlines(File.join(EXTRA_DIR, "msg_#{descfile}.binJ.txt")).each_with_index do |line, i|
       name = names[i][/^[^\{]*/]
       if ( in_dict = hash[name] )
-        line = in_dict[:desc] + "{TR}\n"
+        if in_dict[:desc].length > 2
+          line = in_dict[:desc] + "{TR}\n"
+        end
       end
       trans_file.write line
     end
