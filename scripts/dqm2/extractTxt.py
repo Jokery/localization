@@ -79,7 +79,6 @@ def unpack(fileName,useCheckMode = False):
 
             if c == 0xE4:
                 c2 = struct.unpack(">H", itemData[scanIndex +1 : scanIndex + 3])[0]
-                print(c2)
                 str +=  chr(c2)
                 scanIndex += 3
                 continue
