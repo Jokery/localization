@@ -12,21 +12,18 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
     if sub_count > 0
       offset = content[ 4 + index * 8 + 4, 4 ].unpack('I*')[0]
 
-      _sub_count = 0
-      scan_pos = 0
-      while _sub_count < sub_count
-        _sub_count += 1
-
-        sub_item_offset = content[offset, 4].unpack('I*')[0]
-        # sub_item_offset = ( content[offset, 2] + "\x00\x00").unpack('I*')[0]
+      scan_pos = offset
+      sub_count.times do
+        sub_item_offset = content[scan_pos, 4].unpack('I*')[0]
         scan_pos += 4
         sub_item_name = ''
-        while ( c = content[offset + scan_pos] ) != "\x00"
+        while ( c = content[scan_pos] ) != "\x00"
           sub_item_name += c
           scan_pos += 1
         end
-        while content[offset + scan_pos] == "\x00"
-          scan_pos += 1
+        scan_pos += 4 - scan_pos % 4
+        while content[scan_pos, 4] == "\x00\x00\x00\x00"
+          scan_pos += 4
         end
 
         str = ''
@@ -41,6 +38,7 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
     end
   end
 
-  File.open(fname.sub(MESSAGE_DIR, IDX_DIR) + '.idx', 'w') { |f| f.write items.map(&:first).join("\n") }
-  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map(&:last).join("\n") }
+  items.sort_by!(&:first)
+  File.open(fname.sub(MESSAGE_DIR, IDX_DIR) + '.idx', 'w') { |f| f.write items.map{ |item| item[0].gsub("\n", '<NEWLINE>') }.join("\n") }
+  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1].gsub("\n", '<NEWLINE>') }.join("\n") }
 end
