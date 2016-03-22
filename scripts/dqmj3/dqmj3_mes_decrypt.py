@@ -1,6 +1,6 @@
 import os,sys,struct
 
-filePath = "/Users/aidoo/Downloads/dqm3_message/ReactorFndMessage.mes"
+filePath = "./Message/MonsterKindMessage.mes"
 content=[]
 with open(filePath,"rb") as sk:
 	content = sk.read()
