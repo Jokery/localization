@@ -1,6 +1,6 @@
-symbol_get_some
+box_get_gold
+box_get_one
+box_get_some
 symbol_get_gold
 symbol_get_one
-box_get_some
-box_get_one
-box_get_gold
+symbol_get_some
