@@ -17,7 +17,8 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
       while _sub_count < sub_count
         _sub_count += 1
 
-        sub_item_offset = ( content[offset, 2] + "\x00\x00").unpack('I*')[0]
+        sub_item_offset = content[offset, 4].unpack('I*')[0]
+        # sub_item_offset = ( content[offset, 2] + "\x00\x00").unpack('I*')[0]
         scan_pos += 4
         sub_item_name = ''
         while ( c = content[offset + scan_pos] ) != "\x00"
