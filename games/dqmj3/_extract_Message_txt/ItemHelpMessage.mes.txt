@@ -1,1024 +1,1024 @@
-［無し］
-味方1体の<NEWLINE>HPを30回復
-味方1体の<NEWLINE>HPを60回復
-味方1体の<NEWLINE>HPを120回復
-味方1体の<NEWLINE>HPを240回復
-味方全体の<NEWLINE>HPを100～120回復
-味方全体の<NEWLINE>HPを50～60回復
-味方1体の<NEWLINE>MPを30回復
-味方1体の<NEWLINE>MPを90回復
-味方1体の<NEWLINE>MPを　完全に回復
-死んでいる味方1体を<NEWLINE>復活させる
-死んでいる味方全員を　復活させ<NEWLINE>HPとMPを　完全に回復する
-4ラウンドの間　味方1体の<NEWLINE>攻撃力を　かなり上げる
-4ラウンドの間　味方全体の<NEWLINE>攻撃力を上げる
-4ラウンドの間　敵1体の<NEWLINE>攻撃力を　かなり下げる
-4ラウンドの間　敵全体の<NEWLINE>攻撃力を下げる
-4ラウンドの間　味方1体の<NEWLINE>守備力を　かなり上げる
-4ラウンドの間　味方全体の<NEWLINE>守備力を上げる
-4ラウンドの間　敵1体の<NEWLINE>守備力を　かなり下げる
-4ラウンドの間　敵全体の<NEWLINE>守備力を下げる
-4ラウンドの間　味方1体の<NEWLINE>すばやさを　かなり上げる
-4ラウンドの間　味方全体の<NEWLINE>すばやさを上げる
-4ラウンドの間　敵1体の<NEWLINE>すばやさを　かなり下げる
-4ラウンドの間　敵全体の<NEWLINE>すばやさを下げる
-4ラウンドの間　味方1体の<NEWLINE>かしこさを　かなり上げる
-4ラウンドの間　味方全体の<NEWLINE>かしこさを上げる
-4ラウンドの間　敵1体の<NEWLINE>かしこさを　かなり下げる
-4ラウンドの間　敵全体の<NEWLINE>かしこさを下げる
-味方全体の<NEWLINE>テンションを上げる
-味方1体の<NEWLINE>あらゆる耐性が高くなる
-味方全体の<NEWLINE>あらゆる耐性が高くなる
-味方1体の<NEWLINE>ねむりや　こんらんを治す
-味方1体の<NEWLINE>マヒを治す
-味方1体の<NEWLINE>どくや　もうどくを治す
-味方１体の<NEWLINE>悪い状態を治す
-敵1体に　なにか<NEWLINE>悪い状態変化をもたらす
-味方1体の<NEWLINE>最大HPが　2～4　上がる
-味方1体の<NEWLINE>最大MPが　2～4　上がる
-味方1体の<NEWLINE>攻撃力が　1～2　上がる
-味方1体の<NEWLINE>すばやさが　1～2　上がる
-味方1体の<NEWLINE>守備力が　1～2　上がる
-味方1体の<NEWLINE>かしこさが　1～2　上がる
-味方1体の<NEWLINE>スキルポイントが　3　増える
-味方1体の<NEWLINE>Lvが1上がる
-スカウトが成功しやすくなる<NEWLINE>モンスターが　好きな肉
-スカウトが成功しやすくなる<NEWLINE>モンスターが　大好きな肉
-スカウトが成功しやすくなる<NEWLINE>モンスターが　とっても大好きな肉
-スカウトが成功しやすくなる<NEWLINE>モンスターが　最高に大好きな肉
-スカウトが　必ず　成功する<NEWLINE>モンスターが　究極に愛する肉
-くさった　あやしい肉<NEWLINE>相手を　どくにさせることもあるが<NEWLINE>一応　スカウトが成功しやすくなる
-かぐわしい　においがする　落とし物<NEWLINE>戦闘中に　投げつけることができる<NEWLINE>0～1のダメージしか与えないが<NEWLINE>メタルボディに効果てきめん
-戦闘中に　投げつけて使う<NEWLINE>あたるとイタイ　石ころ<NEWLINE>0～1のダメージしか与えないが<NEWLINE>メタルボディに効果てきめん
-戦闘中に　投げつけて使う<NEWLINE>メチャクチャかたい　めずらしい石<NEWLINE>1～3のダメージしか与えないが<NEWLINE>メタルボディに効果てきめん
-戦闘中に　投げつけて使う<NEWLINE>あたると爆発する　キケンな石<NEWLINE>敵1体の　HPを1にする<NEWLINE>即死耐性のある敵には　効果がない
-味方1体の<NEWLINE>最大HPが　100　上がる
-味方1体の<NEWLINE>最大MPが　200　上がる
-味方1体の<NEWLINE>攻撃力が　100　上がる
-味方1体の<NEWLINE>すばやさが　200　上がる
-味方1体の<NEWLINE>守備力が　200　上がる
-味方1体の<NEWLINE>かしこさが　200　上がる
-キングが集めているメダル<NEWLINE>たくさん集めて　キングに渡すと<NEWLINE>いろいろな　ごほうびがもらえる
-お店で　買い物をするとき<NEWLINE>売り物の値段が　安くなる
-味方1体の<NEWLINE>スキルポイントが　100　増える
-見たこともない　技術で作られている<NEWLINE>ハイテクサポートガジェット
-使うと　大空に　飛び立つ
-凶悪なオーラを　まとった<NEWLINE>マデュライト
-使うと　戦闘で入手する<NEWLINE>経験値やゴールドが　2倍になる<NEWLINE>10回　戦闘すると<NEWLINE>元気玉の効果は　消える
-超しもふりにくと　交換できる券
-使うと　戦闘で入手する<NEWLINE>経験値やゴールドが　2倍になる<NEWLINE>1回　戦闘すると<NEWLINE>小元気玉の効果は　消える
-ＭＡＰなディスクを　まとめるファイル
-10回のあいだ　戦闘で入手する<NEWLINE>経験値やゴールドが　2倍になる<NEWLINE>なお　スタンバイや預かり所の仲間も<NEWLINE>パーティと同量の経験値を　入手できる
-
-
-
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-緑色に　かがやく<NEWLINE>スターシードのカケラのひとつ
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-青色に　かがやく<NEWLINE>スターシードのカケラのひとつ
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-赤色に　かがやく<NEWLINE>スターシードのカケラのひとつ
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-
-ノチョーラ族に伝わる　秘伝書<NEWLINE>本屋に　持っていくと<NEWLINE>売っている証が　増える
-地獄の帝王を呼び出すカケラ<NEWLINE>5つ集めると……
-地獄の帝王を呼び出すカケラ<NEWLINE>5つ集めると……
-地獄の帝王を呼び出すカケラ<NEWLINE>5つ集めると……
-地獄の帝王を呼び出すカケラ<NEWLINE>5つ集めると……
-地獄の帝王を呼び出すカケラ<NEWLINE>5つ集めると……
-センタービル　29階の<NEWLINE>セキュリティを　解除する
-センタービル　30階の<NEWLINE>セキュリティを　解除する
-モノリスの<NEWLINE>セキュリティを　解除する
-アクセサリーや　刻印を作る　専用素材<NEWLINE>かすかにチカラを宿した　鉱石のかけら
-アクセサリーや　刻印を作る　専用素材<NEWLINE>鉄を含んだ　ありふれた鉱石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>古い地層から出た　小さめの化石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>銅を含んだ　ありふれた鉱石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>銀を含んだ　ありふれた鉱石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>古い地層から出た　大きな化石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>ひときわ重い　金属のかたまり
-アクセサリーや　刻印を作る　専用素材<NEWLINE>大いなる精霊の　チカラを宿す石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>金のまじった　貴重な鉱石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>プラチナのまじった　貴重な鉱石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>まばゆい光を放つ　聖なる石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>異界の幻魔が　魔力を込めた石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>マ素を含んだ　とても硬い結晶
-アクセサリーや　刻印を作る　専用素材<NEWLINE>久遠の時を経て　生成された水晶
-アクセサリーや　刻印を作る　専用素材<NEWLINE>正体不明の　金属のかけら
--
--
--
--
--
-アクセサリーや　刻印を作る　専用素材<NEWLINE>かすかに　チカラを宿した　生物の痕跡
-アクセサリーや　刻印を作る　専用素材<NEWLINE>スライムのような　プルプルゼリー
-アクセサリーや　刻印を作る　専用素材<NEWLINE>色あざやかな　チョウチョの羽
-アクセサリーや　刻印を作る　専用素材<NEWLINE>浜辺に落ちている　小さめの貝がら
-アクセサリーや　刻印を作る　専用素材<NEWLINE>人のツメくらいの　小さいうろこ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>魔物が落とす　じょうぶな皮
-アクセサリーや　刻印を作る　専用素材<NEWLINE>魔物が落とす　とがったキバ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>やわらかくて　あたたかい毛皮
-アクセサリーや　刻印を作る　専用素材<NEWLINE>なかなか見かけない　大きめの貝がら
-アクセサリーや　刻印を作る　専用素材<NEWLINE>少し厚みのある　大きいうろこ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>ミイラに巻かれた　うす汚れた包帯
-アクセサリーや　刻印を作る　専用素材<NEWLINE>魔獣が落とす　頑丈な皮
-アクセサリーや　刻印を作る　専用素材<NEWLINE>ドラゴンが落とす　めずらしい皮
-アクセサリーや　刻印を作る　専用素材<NEWLINE>風を切って飛ぶ　巨鳥の羽根
-アクセサリーや　刻印を作る　専用素材<NEWLINE>幻獣が落とす　神秘的な皮
--
--
--
--
--
-アクセサリーや　刻印を作る　専用素材<NEWLINE>かすかに　チカラを宿した　植物の痕跡
-アクセサリーや　刻印を作る　専用素材<NEWLINE>こぶしの形をした　変わったキノコ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>まるで　石のように　かたいくるみ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>さわろうとすると　よけるほど軽い草
-アクセサリーや　刻印を作る　専用素材<NEWLINE>人々を　さとりに導くという草
-アクセサリーや　刻印を作る　専用素材<NEWLINE>花の甘い香りが　ただようみつ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>海辺にただよう　謎めいた海草
-アクセサリーや　刻印を作る　専用素材<NEWLINE>炎のように熱い　真っ赤な樹木
-アクセサリーや　刻印を作る　専用素材<NEWLINE>冷気をまとう　ひんやりした樹木
-アクセサリーや　刻印を作る　専用素材<NEWLINE>キラキラかがやく　神秘的な草
-アクセサリーや　刻印を作る　専用素材<NEWLINE>暗黒の木を宿した　ただならぬ樹木
-アクセサリーや　刻印を作る　専用素材<NEWLINE>トゲまで大きい　新種のサボテン
-アクセサリーや　刻印を作る　専用素材<NEWLINE>魔力を宿した　ふしぎな樹木
-アクセサリーや　刻印を作る　専用素材<NEWLINE>月夜に光る木の　樹液を集めたもの
-アクセサリーや　刻印を作る　専用素材<NEWLINE>妖精が育てた　めずらしい綿花
--
--
--
--
--
-アクセサリーや　刻印を作る　専用素材<NEWLINE>かすかに　チカラを宿した　魔導の痕跡
-アクセサリーや　刻印を作る　専用素材<NEWLINE>冷えて固まった　溶岩のかたまり
-アクセサリーや　刻印を作る　専用素材<NEWLINE>きれいにすんだ　自然のわき水
-アクセサリーや　刻印を作る　専用素材<NEWLINE>ようせいの羽ばたきで　ふりそそぐ粒子
-アクセサリーや　刻印を作る　専用素材<NEWLINE>魔力を宿した　土のかたまり
-アクセサリーや　刻印を作る　専用素材<NEWLINE>静かに　揺れつづける　熱くない火
-アクセサリーや　刻印を作る　専用素材<NEWLINE>雷のチカラが　結晶化した玉
-アクセサリーや　刻印を作る　専用素材<NEWLINE>冷気をまとった　きれいな結晶
-アクセサリーや　刻印を作る　専用素材<NEWLINE>毒まみれの　ドロのかたまり
-アクセサリーや　刻印を作る　専用素材<NEWLINE>星がかがやく夜に　光を集めたしずく
-アクセサリーや　刻印を作る　専用素材<NEWLINE>糸に水が流れる　神秘のせんい
-アクセサリーや　刻印を作る　専用素材<NEWLINE>千夜をかけて　染めぬいた黒い布
-アクセサリーや　刻印を作る　専用素材<NEWLINE>徳をつんだ　聖者の遺灰
-アクセサリーや　刻印を作る　専用素材<NEWLINE>天使のチカラが　宿った液体
-アクセサリーや　刻印を作る　専用素材<NEWLINE>共に戦い過ごした　装備品たちの結晶
--
--
--
--
--
-アクセサリーや　刻印を作る　専用素材<NEWLINE>かすかに　チカラを宿した　宝石のかけら
-アクセサリーや　刻印を作る　専用素材<NEWLINE>赤い光を放つ　貴重な石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>青い光を放つ　貴重な石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>黄色い光を放つ　貴重な石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>緑の光を放つ　貴重な石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>紫の光を放つ　貴重な石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>情熱を秘めた　赤色の宝石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>感覚をとぎすます　青色の宝石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>幸福をもたらす　黄色の宝石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>心が落ち着く　緑色の宝石
-アクセサリーや　刻印を作る　専用素材<NEWLINE>とても貴重な　赤いオーブ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>とても貴重な　青いオーブ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>とても貴重な　黄色いオーブ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>とても貴重な　緑のオーブ
-アクセサリーや　刻印を作る　専用素材<NEWLINE>とても貴重な　紫のオーブ
--
--
--
--
--
-攻撃力　＋10
-攻撃力　＋30
-攻撃力　＋60
-攻撃力　＋100
-守備力　＋20
-守備力　＋60
-守備力　＋120
-守備力　＋200
-すばやさ＋20
-すばやさ＋60
-すばやさ＋120
-すばやさ＋200
-かしこさ＋20
-かしこさ＋60
-かしこさ＋120
-かしこさ＋200
-最大ＨＰ＋40<NEWLINE>攻撃力　＋20<NEWLINE>特性「地ガード小」
-最大ＨＰ＋40<NEWLINE>守備力　＋40<NEWLINE>特性「風ガード小」
-最大ＨＰ＋40<NEWLINE>かしこさ＋40<NEWLINE>特性「水ガード小」
-攻撃力　＋10<NEWLINE>守備力　＋20<NEWLINE>特性「自動ＨＰ回復小」
-最大ＭＰ＋20<NEWLINE>かしこさ＋20<NEWLINE>特性「呪文会心率アップ小」
-最大ＭＰ＋20<NEWLINE>守備力　＋10<NEWLINE>かしこさ＋10<NEWLINE>特性「自動ＭＰ回復小」
-攻撃力　＋10<NEWLINE>すばやさ＋20<NEWLINE>特性「会心率アップ小」
-最大ＨＰ＋10<NEWLINE>すばやさ＋20<NEWLINE>特性「アイテム％アップ小」
-最大ＭＰ＋10<NEWLINE>すばやさ＋20<NEWLINE>かしこさ＋10<NEWLINE>特性「経験値アップ小」
-最大ＨＰ＋10<NEWLINE>攻撃力　＋10<NEWLINE>特性「スカウト％アップ＋」
-守備力　＋20<NEWLINE>特性「こんらんガード小」
-守備力　＋20<NEWLINE>特性「マヒガード小」
-守備力　＋20<NEWLINE>特性「ねむりガード小」
-守備力　＋20<NEWLINE>特性「休みガード小」
-守備力　＋20<NEWLINE>特性「どくガード小」
-守備力　＋20<NEWLINE>特性「呪いガード小」
-守備力　＋20<NEWLINE>特性「即死ガード小」
-守備力　＋80<NEWLINE>特性「こんらんガード小」
-守備力　＋80<NEWLINE>特性「マヒガード小」
-守備力　＋80<NEWLINE>特性「ねむりガード小」
-守備力　＋80<NEWLINE>特性「休みガード小」
-守備力　＋80<NEWLINE>特性「どくガード小」
-守備力　＋80<NEWLINE>特性「呪いガード小」
-守備力　＋80<NEWLINE>特性「即死ガード小」
-最大ＨＰ＋10<NEWLINE>攻撃力　＋10<NEWLINE>守備力　＋20
-最大ＨＰ＋20<NEWLINE>攻撃力　＋20<NEWLINE>守備力　＋40
-最大ＨＰ＋30<NEWLINE>攻撃力　＋30<NEWLINE>守備力　＋80
-最大ＨＰ＋10<NEWLINE>攻撃力　＋10<NEWLINE>すばやさ＋20
-最大ＨＰ＋20<NEWLINE>攻撃力　＋20<NEWLINE>すばやさ＋40
-最大ＨＰ＋30<NEWLINE>攻撃力　＋30<NEWLINE>すばやさ＋80<NEWLINE>特性「アンチみかわしアップ」
-最大ＭＰ＋20<NEWLINE>すばやさ＋20<NEWLINE>かしこさ＋20
-最大ＭＰ＋40<NEWLINE>すばやさ＋40<NEWLINE>かしこさ＋40
-最大ＭＰ＋60<NEWLINE>すばやさ＋60<NEWLINE>かしこさ＋80
-最大ＨＰ＋10<NEWLINE>守備力　＋20<NEWLINE>すばやさ＋20
-最大ＨＰ＋20<NEWLINE>守備力　＋40<NEWLINE>すばやさ＋40
-最大ＨＰ＋40<NEWLINE>守備力　＋60<NEWLINE>すばやさ＋60
-最大ＭＰ＋20<NEWLINE>守備力　＋20<NEWLINE>かしこさ＋20
-最大ＭＰ＋40<NEWLINE>守備力　＋40<NEWLINE>かしこさ＋40
-最大ＭＰ＋80<NEWLINE>守備力　＋60<NEWLINE>かしこさ＋60
-最大ＨＰ＋40<NEWLINE>守備力　＋40<NEWLINE>特性「自動ＨＰ回復小」
-最大ＭＰ＋80<NEWLINE>かしこさ＋40<NEWLINE>特性「自動ＭＰ回復小」
-攻撃力　＋10<NEWLINE>すばやさ＋20<NEWLINE>かしこさ＋20<NEWLINE>特性「スモールキラー」
-攻撃力　＋10<NEWLINE>守備力　＋20<NEWLINE>かしこさ＋20<NEWLINE>特性「ギガキラー」
-攻撃力　＋10<NEWLINE>守備力　＋20<NEWLINE>すばやさ＋20<NEWLINE>特性「メタルキラー」
-特性「ラッキー」
-すばやさ＋20<NEWLINE>特性「せんせいりつアップ」
-攻撃力　＋10<NEWLINE>特性「ときどきバイキルト小」
-守備力　＋20<NEWLINE>特性「ときどきスカラ小」
-すばやさ＋20<NEWLINE>特性「ときどきピオラ小」
-かしこさ＋20<NEWLINE>特性「ときどきインテ小」
-最大ＨＰ＋10<NEWLINE>特性「まれにテンション」
-最大ＭＰ＋20<NEWLINE>特性「しょうひＭＰせつやく」
-攻撃力　＋4<NEWLINE>守備力　＋4<NEWLINE>すばやさ＋4<NEWLINE>かしこさ＋4
-攻撃力　＋12<NEWLINE>守備力　＋12<NEWLINE>すばやさ＋12<NEWLINE>かしこさ＋12
-攻撃力　＋24<NEWLINE>守備力　＋24<NEWLINE>すばやさ＋24<NEWLINE>かしこさ＋24
-特性「にげあし」
-特性「経験値アップ小」
-特性「経験値アップ中」
-特性「経験値アップ大」
-特性「アイテム％アップ小」
-特性「アイテム％アップ中」
-特性「アイテム％アップ大」
-特性「ゴールドアップ小」
-特性「ゴールドアップ中」
-特性「ゴールドアップ大」
-特性「スカウトアタック小」
-特性「スカウトアタック中」
-特性「スカウトアタック大」
-最大MP　＋10<NEWLINE>すばやさ＋10<NEWLINE>かしこさ＋20<NEWLINE>特性「みかわしアップ」
-最大HP　＋5<NEWLINE>攻撃力　＋10<NEWLINE>すばやさ＋10<NEWLINE>特性「せんせいりつアップ」
-最大HP　＋5<NEWLINE>守備力　＋20<NEWLINE>すばやさ＋10<NEWLINE>特性「クスリのちしき」
-最大HP　＋10<NEWLINE>最大MP　＋10<NEWLINE>かしこさ＋10<NEWLINE>特性「ツッコミ」
--
--
--
--
--
--
--
--
--
--
--
--
--
-特性「火ブレイク小」
-特性「水ブレイク小」
-特性「風ブレイク小」
-特性「地ブレイク小」
-特性「爆発ブレイク小」
-特性「氷結ブレイク小」
-特性「電撃ブレイク小」
-特性「重力ブレイク小」
-特性「光ブレイク小」
-特性「闇ブレイク小」
-特性「こんらんブレイク小」
-特性「マヒブレイク小」
-特性「ねむりブレイク小」
-特性「休みブレイク小」
-特性「どくブレイク小」
-特性「呪いブレイク小」
-特性「即死ブレイク小」
-特性「パラメータブレイク小」
-特性「ジャミングブレイク小」
-特性「火ガード小」
-特性「水ガード小」
-特性「風ガード小」
-特性「地ガード小」
-特性「爆発ガード小」
-特性「氷結ガード小」
-特性「電撃ガード小」
-特性「重力ガード小」
-特性「光ガード小」
-特性「闇ガード小」
-特性「攻撃力ガード小」
-特性「守備力ガード小」
-特性「すばやさガード小」
-特性「かしこさガード小」
-特性「命中ガード小」
-特性「耐性ガード小」
-特性「ＭＰ吸収ガード小」
-特性「気力吸収ガード小」
-特性「こんらんガード小」
-特性「マヒガード小」
-特性「ねむりガード小」
-特性「休みガード小」
-特性「どくガード小」
-特性「呪いガード小」
-特性「即死ガード小」
-特性「ＨＰ成長力アップ小」
-特性「ＭＰ成長力アップ小」
-特性「攻撃力成長力アップ小」
-特性「守備力成長力アップ小」
-特性「素早さ成長力アップ小」
-特性「賢さ成長力アップ小」
-特性「スキル成長力アップ小」
-特性「ＨＰ成長力アップ」
-特性「ＭＰ成長力アップ」
-特性「攻撃力成長力アップ」
-特性「守備力成長力アップ」
-特性「素早さ成長力アップ」
-特性「賢さ成長力アップ」
-特性「スキル成長力アップ」
--
--
--
--
--
--
-特性「ダメージ＋1」
-特性「ダメージ＋2」
-特性「ダメージ＋3」
-特性「会心率アップ小」
-特性「会心率アップ中」
-特性「会心率アップ大」
-特性「呪文会心率アップ小」
-特性「呪文会心率アップ中」
-特性「呪文会心率アップ大」
-特性「テンションバーン小」
-特性「テンションバーン中」
-特性「テンションバーン大」
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-スキル「火の使い手」で<NEWLINE>メラ<NEWLINE>最大ＭＰ＋４<NEWLINE>火炎斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>メラミ<NEWLINE>を覚える
-スキル「火の名手」で<NEWLINE>火炎斬り<NEWLINE>メラミ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>やいばくだき<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「火の探究者」で<NEWLINE>メラゾーマ<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>火ガード＋<NEWLINE>メラマータ<NEWLINE>などを覚える
-スキル「火の達人」で<NEWLINE>火炎斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>やいばくだき<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>火ガード＋<NEWLINE>などを覚える
-スキル「水の使い手」で<NEWLINE>ザバ<NEWLINE>最大ＭＰ＋４<NEWLINE>水流斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ザバラ<NEWLINE>を覚える
-スキル「水の名手」で<NEWLINE>水流斬り<NEWLINE>ザバラ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>テンプルブロー<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「水の探究者」で<NEWLINE>ザバラーン<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>水ガード＋<NEWLINE>ザバマータ<NEWLINE>などを覚える
-スキル「水の達人」で<NEWLINE>水流斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>テンプルブロー<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>水ガード＋<NEWLINE>などを覚える
-スキル「風の使い手」で<NEWLINE>バギ<NEWLINE>最大ＭＰ＋４<NEWLINE>真空斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>バギマ<NEWLINE>を覚える
-スキル「風の名手」で<NEWLINE>真空斬り<NEWLINE>バギマ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>すねくだき<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「風の探究者」で<NEWLINE>バギクロス<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>風ガード＋<NEWLINE>バギマータ<NEWLINE>などを覚える
-スキル「風の達人」で<NEWLINE>真空斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>やいばくだき<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>風ガード＋<NEWLINE>などを覚える
-スキル「地の使い手」で<NEWLINE>ジバリア<NEWLINE>最大ＭＰ＋４<NEWLINE>岩石斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ジバリカ<NEWLINE>を覚える
-スキル「地の名手」で<NEWLINE>岩石斬り<NEWLINE>ジバリカ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>かぶとわり<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「地の探究者」で<NEWLINE>ジバリーナ<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>地ガード＋<NEWLINE>ジバマータ<NEWLINE>などを覚える
-スキル「地の達人」で<NEWLINE>岩石斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>かぶとわり<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>地ガード＋<NEWLINE>などを覚える
-スキル「爆発の使い手」で<NEWLINE>イオ<NEWLINE>最大ＭＰ＋４<NEWLINE>爆砕斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>イオラ<NEWLINE>を覚える
-スキル「爆発の名手」で<NEWLINE>爆砕斬り<NEWLINE>イオラ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>やいばくだき<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「爆発の探究者」で<NEWLINE>イオナズン<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>爆発ガード＋<NEWLINE>イオマータ<NEWLINE>などを覚える
-スキル「爆発の達人」で<NEWLINE>爆砕斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>やいばくだき<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>爆発ガード＋<NEWLINE>などを覚える
-スキル「氷結の使い手」で<NEWLINE>ヒャド<NEWLINE>最大ＭＰ＋４<NEWLINE>零度斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ヒャダルコ<NEWLINE>を覚える
-スキル「氷結の名手」で<NEWLINE>零度斬り<NEWLINE>ヒャダルコ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>テンプルブロー<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「氷結の探究者」で<NEWLINE>マヒャド<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>氷結ガード＋<NEWLINE>ヒャドマータ<NEWLINE>などを覚える
-スキル「氷結の達人」で<NEWLINE>零度斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>テンプルブロー<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>氷結ガード＋<NEWLINE>などを覚える
-スキル「電撃の使い手」で<NEWLINE>デイン<NEWLINE>最大ＭＰ＋４<NEWLINE>雷鳴斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ライデイン<NEWLINE>を覚える
-スキル「電撃の名手」で<NEWLINE>雷鳴斬り<NEWLINE>ライデイン<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>すねくだき<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「電撃の探究者」で<NEWLINE>ギガデイン<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>電撃ガード＋<NEWLINE>デイナマータ<NEWLINE>などを覚える
-スキル「電撃の達人」で<NEWLINE>雷鳴斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>テンプルブロー<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>電撃ガード＋<NEWLINE>などを覚える
-スキル「重力の使い手」で<NEWLINE>ベタン<NEWLINE>最大ＭＰ＋４<NEWLINE>圧縮斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ベタドロン<NEWLINE>を覚える
-スキル「重力の名手」で<NEWLINE>圧縮斬り<NEWLINE>ベタドロン<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>かぶとわり<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「重力の探究者」で<NEWLINE>ベタロール<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>重力ガード＋<NEWLINE>ベタナマータ<NEWLINE>などを覚える
-スキル「重力の達人」で<NEWLINE>圧縮斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>かぶとわり<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>重力ガード＋<NEWLINE>などを覚える
-スキル「光の使い手」で<NEWLINE>ギラ<NEWLINE>最大ＭＰ＋４<NEWLINE>光明斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ベギラマ<NEWLINE>を覚える
-スキル「光の名手」で<NEWLINE>光明斬り<NEWLINE>ベギラマ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>修羅の獄<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「光の探究者」で<NEWLINE>ベギラゴン<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>光ガード＋<NEWLINE>ギラマータ<NEWLINE>などを覚える
-スキル「光の達人」で<NEWLINE>光明斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>修羅の獄<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>光ガード＋<NEWLINE>などを覚える
-スキル「闇の使い手」で<NEWLINE>ドルマ<NEWLINE>最大ＭＰ＋４<NEWLINE>無明斬り<NEWLINE>攻撃力＋２<NEWLINE>かしこさ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>ドルクマ<NEWLINE>を覚える
-スキル「闇の名手」で<NEWLINE>無明斬り<NEWLINE>ドルクマ<NEWLINE>かしこさ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋１６<NEWLINE>幻魔の獄<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「闇の探究者」で<NEWLINE>ドルモーア<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋１６<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>闇ガード＋<NEWLINE>ドルマータ<NEWLINE>などを覚える
-スキル「闇の達人」で<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋４０<NEWLINE>修羅の獄<NEWLINE>攻撃力＋８<NEWLINE>自動ＭＰ回復<NEWLINE>最大ＭＰ＋６０<NEWLINE>攻撃力＋１２<NEWLINE>闇ガード＋<NEWLINE>などを覚える
-スキル「火と爆発の名手」で<NEWLINE>火炎斬り<NEWLINE>メラミ<NEWLINE>爆砕斬り<NEWLINE>イオラ<NEWLINE>攻撃力＋１６<NEWLINE>かしこさ＋３２<NEWLINE>最大ＭＰ＋４８<NEWLINE>メラゾーマ<NEWLINE>などを覚える
-スキル「火と爆発の探究者」で<NEWLINE>メラゾーマ<NEWLINE>イオナズン<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「火と爆発の達人」で<NEWLINE>火炎斬り<NEWLINE>爆砕斬り<NEWLINE>やいばくだき<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>などを覚える
-スキル「水と氷結の名手」で<NEWLINE>水流斬り<NEWLINE>ザバラ<NEWLINE>零度斬り<NEWLINE>ヒャダルコ<NEWLINE>攻撃力＋１６<NEWLINE>かしこさ＋３２<NEWLINE>最大ＭＰ＋４８<NEWLINE>ザバラーン<NEWLINE>などを覚える
-スキル「水と氷結の探究者」で<NEWLINE>ザバラーン<NEWLINE>マヒャド<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「水と氷結の達人」で<NEWLINE>水流斬り<NEWLINE>零度斬り<NEWLINE>テンプルブロー<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>などを覚える
-スキル「風と電撃の名手」で<NEWLINE>真空斬り<NEWLINE>バギマ<NEWLINE>雷鳴斬り<NEWLINE>ライデイン<NEWLINE>攻撃力＋１６<NEWLINE>かしこさ＋３２<NEWLINE>最大ＭＰ＋４８<NEWLINE>バギクロス<NEWLINE>などを覚える
-スキル「風と電撃の探究者」で<NEWLINE>バギクロス<NEWLINE>ギガデイン<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「風と電撃の達人」で<NEWLINE>真空斬り<NEWLINE>雷鳴斬り<NEWLINE>すねくだき<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>などを覚える
-スキル「地と重力の名手」で<NEWLINE>岩石斬り<NEWLINE>ジバリカ<NEWLINE>圧縮斬り<NEWLINE>ベタドロン<NEWLINE>攻撃力＋１６<NEWLINE>かしこさ＋３２<NEWLINE>最大ＭＰ＋４８<NEWLINE>ジバリーナ<NEWLINE>などを覚える
-スキル「地と重力の探究者」で<NEWLINE>ジバリーナ<NEWLINE>ベタロール<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「地と重力の達人」で<NEWLINE>岩石斬り<NEWLINE>圧縮斬り<NEWLINE>かぶとわり<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>などを覚える
-スキル「目覚めし爆発の力」で<NEWLINE>火炎斬り<NEWLINE>メラミ<NEWLINE>岩石斬り<NEWLINE>ジバリカ<NEWLINE>爆砕斬り<NEWLINE>イオラ<NEWLINE>メラゾーマ<NEWLINE>ジバリーナ<NEWLINE>などを覚える
-スキル「目覚めし爆発の探究者」で<NEWLINE>メラゾーマ<NEWLINE>ジバリーナ<NEWLINE>イオナズン<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>メラガイアー<NEWLINE>などを覚える
-スキル「目覚めし爆発の達人」で<NEWLINE>火炎斬り<NEWLINE>岩石斬り<NEWLINE>爆砕斬り<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋６０<NEWLINE>日輪斬<NEWLINE>などを覚える
-スキル「目覚めし氷結の力」で<NEWLINE>水流斬り<NEWLINE>ザバラ<NEWLINE>真空斬り<NEWLINE>バギマ<NEWLINE>零度斬り<NEWLINE>ヒャダルコ<NEWLINE>ザバラーン<NEWLINE>バギクロス<NEWLINE>などを覚える
-スキル「目覚めし氷結の探究者」で<NEWLINE>ザバラーン<NEWLINE>バギクロス<NEWLINE>マヒャド<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>ザバトローム<NEWLINE>などを覚える
-スキル「目覚めし氷結の達人」で<NEWLINE>水流斬り<NEWLINE>真空斬り<NEWLINE>零度斬り<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋６０<NEWLINE>海破斬<NEWLINE>などを覚える
-スキル「目覚めし電撃の力」で<NEWLINE>真空斬り<NEWLINE>バギマ<NEWLINE>火炎斬り<NEWLINE>メラミ<NEWLINE>雷鳴斬り<NEWLINE>ライデイン<NEWLINE>バギクロス<NEWLINE>メラゾーマ<NEWLINE>などを覚える
-スキル「目覚めし電撃の探究者」で<NEWLINE>バギクロス<NEWLINE>メラゾーマ<NEWLINE>ギガデイン<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>バギムーチョ<NEWLINE>などを覚える
-スキル「目覚めし電撃の達人」で<NEWLINE>真空斬り<NEWLINE>火炎斬り<NEWLINE>雷鳴斬り<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋６０<NEWLINE>空裂斬<NEWLINE>などを覚える
-スキル「目覚めし重力の力」で<NEWLINE>岩石斬り<NEWLINE>ジバリカ<NEWLINE>水流斬り<NEWLINE>ザバラ<NEWLINE>圧縮斬り<NEWLINE>ベタドロン<NEWLINE>ジバリーナ<NEWLINE>ザバラーン<NEWLINE>などを覚える
-スキル「目覚めし重力の探究者」で<NEWLINE>ジバリーナ<NEWLINE>ザバラーン<NEWLINE>ベタロール<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋４０<NEWLINE>かしこさ＋２４<NEWLINE>最大ＭＰ＋６０<NEWLINE>ジバルンバ<NEWLINE>などを覚える
-スキル「目覚めし重力の達人」で<NEWLINE>岩石斬り<NEWLINE>水流斬り<NEWLINE>圧縮斬り<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋４０<NEWLINE>攻撃力＋１２<NEWLINE>最大ＭＰ＋６０<NEWLINE>大地斬<NEWLINE>などを覚える
-スキル「火ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>火ガード＋<NEWLINE>攻撃力＋８<NEWLINE>攻撃力ガード＋<NEWLINE>を覚える
-スキル「火ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「火ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「水ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>水ガード＋<NEWLINE>かしこさ＋１６<NEWLINE>かしこさガード＋<NEWLINE>を覚える
-スキル「水ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「水ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「風ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>風ガード＋<NEWLINE>すばやさ＋１６<NEWLINE>すばやさガード＋<NEWLINE>を覚える
-スキル「風ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「風ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「地ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>地ガード＋<NEWLINE>守備力＋１６<NEWLINE>守備力ガード＋<NEWLINE>を覚える
-スキル「地ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>守備力ガード＋<NEWLINE>などを覚える
-スキル「地ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「爆発ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>爆発ガード＋<NEWLINE>攻撃力＋８<NEWLINE>攻撃力ガード＋<NEWLINE>を覚える
-スキル「爆発ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>爆発ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「爆発ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>爆発ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「氷結ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>氷結ガード＋<NEWLINE>かしこさ＋１６<NEWLINE>かしこさガード＋<NEWLINE>を覚える
-スキル「氷結ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>氷結ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「氷結ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>氷結ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「電撃ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>電撃ガード＋<NEWLINE>すばやさ＋１６<NEWLINE>すばやさガード＋<NEWLINE>を覚える
-スキル「電撃ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>電撃ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「電撃ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>電撃ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「重力ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>重力ガード＋<NEWLINE>守備力＋１６<NEWLINE>守備力ガード＋<NEWLINE>を覚える
-スキル「重力ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>重力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>守備力ガード＋<NEWLINE>などを覚える
-スキル「重力ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>重力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「光ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>光ガード＋<NEWLINE>最大ＨＰ＋８<NEWLINE>命中ガード＋<NEWLINE>を覚える
-スキル「光ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>光ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>命中ガード＋<NEWLINE>などを覚える
-スキル「光ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>光ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「闇ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>闇ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>を覚える
-スキル「闇ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>闇ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>耐性ガード＋<NEWLINE>などを覚える
-スキル「闇ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>闇ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「攻撃力ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>攻撃力＋８<NEWLINE>気力吸収ガード＋<NEWLINE>を覚える
-スキル「攻撃力ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>気力吸収ガード＋<NEWLINE>などを覚える
-スキル「攻撃力ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「守備力ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力ガード＋<NEWLINE>守備力＋１６<NEWLINE>耐性ガード＋<NEWLINE>を覚える
-スキル「守備力ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>耐性ガード＋<NEWLINE>などを覚える
-スキル「守備力ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「すばやさガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさガード＋<NEWLINE>すばやさ＋１６<NEWLINE>命中ガード＋<NEWLINE>を覚える
-スキル「すばやさガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>命中ガード＋<NEWLINE>などを覚える
-スキル「すばやさガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「かしこさガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさガード＋<NEWLINE>かしこさ＋１６<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>を覚える
-スキル「かしこさガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>などを覚える
-スキル「かしこさガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「命中ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>命中ガード＋<NEWLINE>すばやさ＋１６<NEWLINE>すばやさガード＋<NEWLINE>を覚える
-スキル「命中ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「命中ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「耐性ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>守備力＋１６<NEWLINE>守備力ガード＋<NEWLINE>を覚える
-スキル「耐性ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>守備力ガード＋<NEWLINE>などを覚える
-スキル「耐性ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「ＭＰ吸収ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>かしこさ＋１６<NEWLINE>かしこさガード＋<NEWLINE>を覚える
-スキル「ＭＰ吸収ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「ＭＰ吸収ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「気力吸収ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>気力吸収ガード＋<NEWLINE>攻撃力＋８<NEWLINE>攻撃力ガード＋<NEWLINE>を覚える
-スキル「気力吸収ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「気力吸収ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「こんらんガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>こんらんガード＋<NEWLINE>攻撃力＋８<NEWLINE>攻撃力ガード＋<NEWLINE>を覚える
-スキル「こんらんガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>こんらんガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「こんらんガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>こんらんガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「ねむりガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>ねむりガード＋<NEWLINE>かしこさ＋１６<NEWLINE>かしこさガード＋<NEWLINE>を覚える
-スキル「ねむりガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>ねむりガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「ねむりガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>ねむりガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「マヒガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>マヒガード＋<NEWLINE>守備力＋１６<NEWLINE>守備力ガード＋<NEWLINE>を覚える
-スキル「マヒガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>マヒガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>守備力ガード＋<NEWLINE>などを覚える
-スキル「マヒガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>マヒガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「休みガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>休みガード＋<NEWLINE>すばやさ＋１６<NEWLINE>すばやさガード＋<NEWLINE>を覚える
-スキル「休みガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>休みガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「休みガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>休みガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「どくガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>どくガード＋<NEWLINE>最大ＨＰ＋８<NEWLINE>命中ガード＋<NEWLINE>を覚える
-スキル「どくガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>どくガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>命中ガード＋<NEWLINE>などを覚える
-スキル「どくガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>どくガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「呪いガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>呪いガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>を覚える
-スキル「呪いガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>呪いガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>耐性ガード＋<NEWLINE>などを覚える
-スキル「呪いガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>呪いガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「即死ガード」で<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>即死ガード＋<NEWLINE>最大ＨＰ＋８<NEWLINE>気力吸収ガード＋<NEWLINE>を覚える
-スキル「即死ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>即死ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>気力吸収ガード＋<NEWLINE>などを覚える
-スキル「即死ガードSP」で<NEWLINE>最大ＨＰ＋１２<NEWLINE>即死ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>しょうひＭＰせつやく<NEWLINE>最大ＨＰ＋１６<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「火＆爆発ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>爆発ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「火＆爆発ガードSP」で<NEWLINE>攻撃力＋１２<NEWLINE>火ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>爆発ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１６<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「水＆氷結ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>氷結ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「水＆氷結ガードSP」で<NEWLINE>かしこさ＋２４<NEWLINE>水ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>氷結ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋３２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「風＆電撃ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>電撃ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「風＆電撃ガードSP」で<NEWLINE>すばやさ＋２４<NEWLINE>風ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>電撃ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋３２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「地＆重力ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>重力ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「地＆重力ガードSP」で<NEWLINE>守備力＋２４<NEWLINE>地ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>重力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋３２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「溶岩ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>攻撃力＋８<NEWLINE>地ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>爆発ガード＋<NEWLINE>などを覚える
-スキル「溶岩ガードSP」で<NEWLINE>攻撃力＋１２<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>地ガード＋<NEWLINE>攻撃力＋１６<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「吹雪ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>かしこさ＋１６<NEWLINE>風ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>氷結ガード＋<NEWLINE>などを覚える
-スキル「吹雪ガードSP」で<NEWLINE>かしこさ＋２４<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋２０<NEWLINE>風ガード＋<NEWLINE>かしこさ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「雷火ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>すばやさ＋１６<NEWLINE>火ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>電撃ガード＋<NEWLINE>などを覚える
-スキル「雷火ガードSP」で<NEWLINE>すばやさ＋２４<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋２０<NEWLINE>火ガード＋<NEWLINE>すばやさ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「深海ガード＋」で<NEWLINE>最大ＨＰ＋８<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>守備力＋１６<NEWLINE>水ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>重力ガード＋<NEWLINE>などを覚える
-スキル「深海ガードSP」で<NEWLINE>守備力＋２４<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋２０<NEWLINE>水ガード＋<NEWLINE>守備力＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「こんらんの力＋」で<NEWLINE>まどいの息<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>こんらんガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>ヒュプノスハント<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「こんらんの力SP」で<NEWLINE>こんらんガード＋<NEWLINE>まどいの息<NEWLINE>攻撃力＋２０<NEWLINE>ヒュプノスハント<NEWLINE>メダパーニャ<NEWLINE>フバハック<NEWLINE>乱心のかまえ<NEWLINE>攻撃力＋２４<NEWLINE>などを覚える
-スキル「ねむりの力＋」で<NEWLINE>あまい息<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>ねむりガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>ヒュプノスハント<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「ねむりの力SP」で<NEWLINE>ねむりガード＋<NEWLINE>あまい息<NEWLINE>すばやさ＋４０<NEWLINE>ヒュプノスハント<NEWLINE>ラリホーマ<NEWLINE>フバハック<NEWLINE>夢想のかまえ<NEWLINE>すばやさ＋４８<NEWLINE>などを覚える
-スキル「マヒの力＋」で<NEWLINE>やけつく息<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>マヒガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>タナトスハント<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「マヒの力SP」で<NEWLINE>マヒガード＋<NEWLINE>やけつく息<NEWLINE>すばやさ＋４０<NEWLINE>タナトスハント<NEWLINE>やけつく踊り<NEWLINE>フバハック<NEWLINE>背水のかまえ<NEWLINE>すばやさ＋４８<NEWLINE>などを覚える
-スキル「休みの力＋」で<NEWLINE>おたけび<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>休みガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>さみだれ斬り<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「休みの力SP」で<NEWLINE>休みガード＋<NEWLINE>おたけび<NEWLINE>かしこさ＋４０<NEWLINE>なめまわし<NEWLINE>さそう踊り<NEWLINE>フバハック<NEWLINE>晩成のかまえ<NEWLINE>かしこさ＋４８<NEWLINE>などを覚える
-スキル「どくの力＋」で<NEWLINE>どくの息<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>どくガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>タナトスハント<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「どくの力SP」で<NEWLINE>どくガード＋<NEWLINE>もうどくの息<NEWLINE>攻撃力＋２０<NEWLINE>タナトスハント<NEWLINE>ポイズンステップ<NEWLINE>フバハック<NEWLINE>狂気のかまえ<NEWLINE>攻撃力＋２４<NEWLINE>などを覚える
-スキル「呪いの力＋」で<NEWLINE>呪いのことば<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>呪いガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>さみだれ斬り<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「呪いの力SP」で<NEWLINE>呪いガード＋<NEWLINE>じゅそのこえ<NEWLINE>かしこさ＋４０<NEWLINE>悪夢のよびごえ<NEWLINE>呪いのルンバ<NEWLINE>フバハック<NEWLINE>盲信のかまえ<NEWLINE>かしこさ＋４８<NEWLINE>などを覚える
-スキル「ＨＰアップ１」で<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>を覚える
-スキル「ＨＰアップ２」で<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>などを覚える
-スキル「ＨＰアップ３」で<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＨＰ＋１６<NEWLINE>最大ＨＰ＋２０<NEWLINE>などを覚える
-スキル「ＨＰアップSP」で<NEWLINE>最大ＨＰ＋２<NEWLINE>最大ＨＰ＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＨＰ＋１６<NEWLINE>最大ＨＰ＋２０<NEWLINE>最大ＨＰ＋２４<NEWLINE>最大ＨＰ＋３０<NEWLINE>などを覚える
-スキル「ＭＰアップ１」で<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋２４<NEWLINE>を覚える
-スキル「ＭＰアップ２」で<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「ＭＰアップ３」で<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋４０<NEWLINE>などを覚える
-スキル「ＭＰアップSP」で<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>最大ＭＰ＋４０<NEWLINE>最大ＭＰ＋４８<NEWLINE>最大ＭＰ＋６０<NEWLINE>などを覚える
-スキル「攻撃力アップ１」で<NEWLINE>攻撃力＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>攻撃力＋１２<NEWLINE>最大ＨＰ＋８<NEWLINE>を覚える
-スキル「攻撃力アップ２」で<NEWLINE>攻撃力＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋４<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋１２<NEWLINE>最大ＨＰ＋８<NEWLINE>などを覚える
-スキル「攻撃力アップ３」で<NEWLINE>攻撃力＋２<NEWLINE>最大ＨＰ＋２<NEWLINE>攻撃力＋４<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋１２<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋２０<NEWLINE>最大ＨＰ＋１６<NEWLINE>などを覚える
-スキル「攻撃力アップSP」で<NEWLINE>攻撃力＋２<NEWLINE>攻撃力＋４<NEWLINE>攻撃力＋８<NEWLINE>攻撃力＋１２<NEWLINE>攻撃力＋１６<NEWLINE>攻撃力＋２０<NEWLINE>攻撃力＋２４<NEWLINE>攻撃力＋３０<NEWLINE>などを覚える
-スキル「守備力アップ１」で<NEWLINE>守備力＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>守備力＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>を覚える
-スキル「守備力アップ２」で<NEWLINE>守備力＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>などを覚える
-スキル「守備力アップ３」で<NEWLINE>守備力＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>守備力＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋４０<NEWLINE>最大ＨＰ＋１６<NEWLINE>などを覚える
-スキル「守備力アップSP」で<NEWLINE>守備力＋４<NEWLINE>守備力＋８<NEWLINE>守備力＋１６<NEWLINE>守備力＋２４<NEWLINE>守備力＋３２<NEWLINE>守備力＋４０<NEWLINE>守備力＋４８<NEWLINE>守備力＋６０<NEWLINE>などを覚える
-スキル「すばやさアップ１」で<NEWLINE>すばやさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>すばやさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>を覚える
-スキル「すばやさアップ２」で<NEWLINE>すばやさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>などを覚える
-スキル「すばやさアップ３」で<NEWLINE>すばやさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>すばやさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋４０<NEWLINE>最大ＨＰ＋１６<NEWLINE>などを覚える
-スキル「すばやさアップSP」で<NEWLINE>すばやさ＋４<NEWLINE>すばやさ＋８<NEWLINE>すばやさ＋１６<NEWLINE>すばやさ＋２４<NEWLINE>すばやさ＋３２<NEWLINE>すばやさ＋４０<NEWLINE>すばやさ＋４８<NEWLINE>すばやさ＋６０<NEWLINE>などを覚える
-スキル「かしこさアップ１」で<NEWLINE>かしこさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>かしこさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>を覚える
-スキル「かしこさアップ２」で<NEWLINE>かしこさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋４<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>などを覚える
-スキル「かしこさアップ３」で<NEWLINE>かしこさ＋４<NEWLINE>最大ＨＰ＋２<NEWLINE>かしこさ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋２４<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋４０<NEWLINE>最大ＨＰ＋１６<NEWLINE>などを覚える
-スキル「かしこさアップSP」で<NEWLINE>かしこさ＋４<NEWLINE>かしこさ＋８<NEWLINE>かしこさ＋１６<NEWLINE>かしこさ＋２４<NEWLINE>かしこさ＋３２<NEWLINE>かしこさ＋４０<NEWLINE>かしこさ＋４８<NEWLINE>かしこさ＋６０<NEWLINE>などを覚える
-スキル「戦士」で<NEWLINE>かぶとわり<NEWLINE>最大ＨＰ＋４<NEWLINE>さみだれ斬り<NEWLINE>攻撃力＋１２<NEWLINE>メタル斬り<NEWLINE>守備力＋２４<NEWLINE>魔神斬り<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「魔法使い」で<NEWLINE>メラミ<NEWLINE>ヒャダルコ<NEWLINE>バギマ<NEWLINE>かしこさ＋２４<NEWLINE>ラリホー<NEWLINE>ベタドロン<NEWLINE>メダパニ<NEWLINE>かしこさ＋３２<NEWLINE>などを覚える
-スキル「僧侶」で<NEWLINE>ベホイミ<NEWLINE>スクルト<NEWLINE>フバーハ<NEWLINE>最大ＭＰ＋２４<NEWLINE>ザオラル<NEWLINE>ザキ<NEWLINE>ベホマラー<NEWLINE>かしこさ＋３２<NEWLINE>などを覚える
-スキル「武闘家」で<NEWLINE>たいあたり<NEWLINE>攻撃力＋４<NEWLINE>みかわしきゃく<NEWLINE>すばやさ＋２４<NEWLINE>せいけんづき<NEWLINE>攻撃力＋１２<NEWLINE>ばくれつけん<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「盗賊」で<NEWLINE>ピオラ<NEWLINE>マヌーサ<NEWLINE>ぬすっと斬り<NEWLINE>すばやさ＋２４<NEWLINE>すねくだき<NEWLINE>ゴールドアタック<NEWLINE>ミラクルソード<NEWLINE>すばやさ＋３２<NEWLINE>などを覚える
-スキル「旅芸人」で<NEWLINE>やいばくだき<NEWLINE>バイキルト<NEWLINE>ザバラ<NEWLINE>サゲサゲチョップ<NEWLINE>ジバリカ<NEWLINE>遊び人のマイム<NEWLINE>ハッスルダンス<NEWLINE>つるぎのまい<NEWLINE>などを覚える
-スキル「魔法戦士」で<NEWLINE>雷鳴斬り<NEWLINE>イオラ<NEWLINE>ライデイン<NEWLINE>攻撃力＋３６<NEWLINE>かしこさ＋７２<NEWLINE>ラリホーマ<NEWLINE>ギガスラッシュ<NEWLINE>イオナズン<NEWLINE>などを覚える
-スキル「パラディン」で<NEWLINE>みがわり<NEWLINE>スカラ<NEWLINE>リベホイム<NEWLINE>最大ＨＰ＋３６<NEWLINE>守備力＋７２<NEWLINE>光明斬り<NEWLINE>ザオリク<NEWLINE>守備力ガード＋<NEWLINE>などを覚える
-スキル「賢者」で<NEWLINE>ザオラル<NEWLINE>ギラグレイド<NEWLINE>フバーハ<NEWLINE>最大ＭＰ＋７２<NEWLINE>かしこさ＋７２<NEWLINE>ドルマドン<NEWLINE>アストロン<NEWLINE>しょうひＭＰせつやく<NEWLINE>などを覚える
-スキル「バトルマスター」で<NEWLINE>魔神斬り<NEWLINE>におう斬り<NEWLINE>ちょうはつ<NEWLINE>最大ＨＰ＋３６<NEWLINE>攻撃力＋３６<NEWLINE>ゆうきの斬舞<NEWLINE>てんいむほう斬<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「魔闘士」で<NEWLINE>ルカナン<NEWLINE>ヘナトール<NEWLINE>タメトラ<NEWLINE>最大ＭＰ＋７２<NEWLINE>攻撃力＋２４<NEWLINE>修羅の獄<NEWLINE>幻魔の獄<NEWLINE>自動ＭＰ回復<NEWLINE>などを覚える
-スキル「モンク」で<NEWLINE>すてみ<NEWLINE>スクルト<NEWLINE>ベホマラー<NEWLINE>かしこさ＋７２<NEWLINE>攻撃力＋３６<NEWLINE>ゆうきの斬舞<NEWLINE>ばくれつけん<NEWLINE>しょうひＭＰせつやく<NEWLINE>などを覚える
-スキル「レンジャー」で<NEWLINE>しっぷうづき<NEWLINE>メダパーニャ<NEWLINE>マヌーサ<NEWLINE>すばやさ＋７２<NEWLINE>すばやさ＋７２<NEWLINE>バイシオン<NEWLINE>バイメリト<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「怪盗」で<NEWLINE>リバース<NEWLINE>シャッフル<NEWLINE>バイメリト<NEWLINE>ヘルメリト<NEWLINE>スキップ<NEWLINE>アストロン<NEWLINE>チェンジ<NEWLINE>ゼロのしょうげき<NEWLINE>などを覚える
-スキル「商人」で<NEWLINE>おたけび<NEWLINE>メタルハンター<NEWLINE>スカウト％アップ＋<NEWLINE>せんせいりつアップ<NEWLINE>ＨＰバブル<NEWLINE>ＭＰバブル<NEWLINE>しょうひＭＰせつやく<NEWLINE>てんしのきまぐれ<NEWLINE>などを覚える
-スキル「海賊」で<NEWLINE>ゴールドアタック<NEWLINE>ぬすっと斬り<NEWLINE>さみだれ斬り<NEWLINE>もろば斬り<NEWLINE>ステルスアタック<NEWLINE>かくらんの叫び<NEWLINE>ギガスラッシュ<NEWLINE>ちょうはつ<NEWLINE>などを覚える
-スキル「羊飼い」で<NEWLINE>マホトラ踊り<NEWLINE>あまい息<NEWLINE>ぎゃくふう<NEWLINE>最大ＨＰ＋３６<NEWLINE>すばやさ＋７２<NEWLINE>いやしの雨<NEWLINE>まもりの霧<NEWLINE>自動ＭＰ回復<NEWLINE>などを覚える
-スキル「占い師」で<NEWLINE>かくれる<NEWLINE>テンションパサー<NEWLINE>踊りよそく<NEWLINE>息よそく<NEWLINE>体技よそく<NEWLINE>呪文よそく<NEWLINE>物理よそく<NEWLINE>てんびんのタンゴ<NEWLINE>などを覚える
-スキル「吟遊詩人」で<NEWLINE>まもりの霧<NEWLINE>ちしきのふえ<NEWLINE>ハヤブサのふえ<NEWLINE>最大ＭＰ＋７２<NEWLINE>最大ＭＰ＋７２<NEWLINE>たたかいのふえ<NEWLINE>まもりのふえ<NEWLINE>いやしのふえ<NEWLINE>などを覚える
-スキル「踊り子」で<NEWLINE>つるぎのまい<NEWLINE>ハッスルダンス<NEWLINE>死の踊り<NEWLINE>タメトラ踊り<NEWLINE>マホトラ踊り<NEWLINE>王様のロンド<NEWLINE>遊び人のマイム<NEWLINE>せいれいのうた<NEWLINE>などを覚える
-スキル「遊び人」で<NEWLINE>なめまわし<NEWLINE>ちょうはつ<NEWLINE>タメトラ踊り<NEWLINE>かくらんの叫び<NEWLINE>大きなため息<NEWLINE>遊び人のマイム<NEWLINE>ラウンドゼロ<NEWLINE>まねまね<NEWLINE>などを覚える
-スキル「剣豪」で<NEWLINE>爆砕斬り<NEWLINE>零度斬り<NEWLINE>雷鳴斬り<NEWLINE>圧縮斬り<NEWLINE>光明斬り<NEWLINE>無明斬り<NEWLINE>もろば斬り<NEWLINE>てんいむほう斬<NEWLINE>などを覚える
-スキル「大魔道士」で<NEWLINE>バギクロス<NEWLINE>メラゾーマ<NEWLINE>インテ<NEWLINE>かしこさ＋７２<NEWLINE>かしこさ＋７２<NEWLINE>マヒャド<NEWLINE>ベタロール<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「司祭」で<NEWLINE>ベホマラー<NEWLINE>フバーハ<NEWLINE>最大ＭＰ＋７２<NEWLINE>最大ＭＰ＋７２<NEWLINE>バイメリト<NEWLINE>マホターン<NEWLINE>ベホマズン<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>などを覚える
-スキル「チャンピオン」で<NEWLINE>たいあたり<NEWLINE>だいぼうぎょ<NEWLINE>攻撃力＋３６<NEWLINE>攻撃力＋３６<NEWLINE>アンカーナックル<NEWLINE>みなごろし<NEWLINE>めいそう<NEWLINE>自動ＨＰ回復<NEWLINE>などを覚える
-スキル「アサシン」で<NEWLINE>しっぷうづき<NEWLINE>かくれる<NEWLINE>大きなため息<NEWLINE>死神の息吹<NEWLINE>フバハック<NEWLINE>ステルスアタック<NEWLINE>サゲサゲチョップ<NEWLINE>せんせいりつアップ<NEWLINE>などを覚える
-スキル「スーパースター」で<NEWLINE>タメトラ踊り<NEWLINE>バイメリト<NEWLINE>テンションシフト<NEWLINE>ゆうきの斬舞<NEWLINE>遊び人のマイム<NEWLINE>テンションパサー<NEWLINE>王様のロンド<NEWLINE>気力吸収ガード＋<NEWLINE>などを覚える
-スキル「スラフォース」で<NEWLINE>メラ<NEWLINE>ホイミ<NEWLINE>デイン<NEWLINE>スカラ<NEWLINE>キアラル<NEWLINE>たいあたり<NEWLINE>ピオラ<NEWLINE>ヘナトス<NEWLINE>を覚える
-スキル「スラフォース＋」で<NEWLINE>メラミ<NEWLINE>ベホイミ<NEWLINE>ライデイン<NEWLINE>スクルト<NEWLINE>キアラル<NEWLINE>たいあたり<NEWLINE>ピオリム<NEWLINE>ヘナトール<NEWLINE>などを覚える
-スキル「スラフォースSP」で<NEWLINE>メラゾーマ<NEWLINE>ベホイマ<NEWLINE>ギガデイン<NEWLINE>スクルト<NEWLINE>キアラル<NEWLINE>たいあたり<NEWLINE>メラガイアー<NEWLINE>ジゴデイン<NEWLINE>などを覚える
-スキル「ドラゴフォース」で<NEWLINE>火の息<NEWLINE>攻撃力＋２<NEWLINE>つめたい息<NEWLINE>最大ＨＰ＋８<NEWLINE>発火<NEWLINE>おたけび<NEWLINE>攻撃力＋８<NEWLINE>やけつく息<NEWLINE>を覚える
-スキル「ドラゴフォース＋」で<NEWLINE>おたけび<NEWLINE>攻撃力＋１６<NEWLINE>火炎の息<NEWLINE>最大ＨＰ＋２４<NEWLINE>こおりの息<NEWLINE>やけつく息<NEWLINE>攻撃力＋２４<NEWLINE>おにび<NEWLINE>などを覚える
-スキル「ドラゴフォースSP」で<NEWLINE>おたけび<NEWLINE>攻撃力＋２４<NEWLINE>やけつく息<NEWLINE>最大ＨＰ＋３６<NEWLINE>しゃくねつ<NEWLINE>かがやく息<NEWLINE>攻撃力＋３６<NEWLINE>バイシオン<NEWLINE>などを覚える
-スキル「ビーストフォース」で<NEWLINE>しっぷうづき<NEWLINE>攻撃力＋２<NEWLINE>すねくだき<NEWLINE>すばやさ＋１６<NEWLINE>すなけむり<NEWLINE>なめまわし<NEWLINE>攻撃力＋８<NEWLINE>魔神斬り<NEWLINE>を覚える
-スキル「ビーストフォース＋」で<NEWLINE>しっぷうづき<NEWLINE>攻撃力＋１６<NEWLINE>すねくだき<NEWLINE>すばやさ＋４８<NEWLINE>すなけむり<NEWLINE>なめまわし<NEWLINE>攻撃力＋２４<NEWLINE>魔神斬り<NEWLINE>などを覚える
-スキル「ビーストフォースSP」で<NEWLINE>しっぷうづき<NEWLINE>攻撃力＋２４<NEWLINE>すねくだき<NEWLINE>すばやさ＋７２<NEWLINE>魔神斬り<NEWLINE>ばくれつけん<NEWLINE>攻撃力＋３６<NEWLINE>すてみ<NEWLINE>などを覚える
-スキル「ワイルドフォース」で<NEWLINE>ホイミ<NEWLINE>かしこさ＋４<NEWLINE>インテ<NEWLINE>かしこさ＋１６<NEWLINE>キアリク<NEWLINE>いわなげ<NEWLINE>かしこさ＋１６<NEWLINE>ベホイミ<NEWLINE>を覚える
-スキル「ワイルドフォース＋」で<NEWLINE>ベホイミ<NEWLINE>かしこさ＋３２<NEWLINE>キアリク<NEWLINE>かしこさ＋４８<NEWLINE>インテラ<NEWLINE>じひびき<NEWLINE>かしこさ＋４８<NEWLINE>ベホイマ<NEWLINE>などを覚える
-スキル「ワイルドフォースSP」で<NEWLINE>インテラ<NEWLINE>かしこさ＋４８<NEWLINE>キアリク<NEWLINE>かしこさ＋７２<NEWLINE>ベホイマ<NEWLINE>がんせきおとし<NEWLINE>かしこさ＋７２<NEWLINE>いやしのふえ<NEWLINE>などを覚える
-スキル「デビルフォース」で<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋４<NEWLINE>ドルマ<NEWLINE>かしこさ＋１６<NEWLINE>ルカニ<NEWLINE>呪いのことば<NEWLINE>最大ＭＰ＋１６<NEWLINE>もろば斬り<NEWLINE>を覚える
-スキル「デビルフォース＋」で<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋３２<NEWLINE>ドルクマ<NEWLINE>かしこさ＋４８<NEWLINE>ルカナン<NEWLINE>じゅそのこえ<NEWLINE>最大ＭＰ＋４８<NEWLINE>もろば斬り<NEWLINE>などを覚える
-スキル「デビルフォースSP」で<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋４８<NEWLINE>ドルモーア<NEWLINE>かしこさ＋７２<NEWLINE>ルカナン<NEWLINE>ドルマドン<NEWLINE>最大ＭＰ＋７２<NEWLINE>もろば斬り<NEWLINE>などを覚える
-スキル「ゾンビフォース」で<NEWLINE>どくの息<NEWLINE>ザキ<NEWLINE>ぶきみな光<NEWLINE>フール<NEWLINE>なめまわし<NEWLINE>ヘナトス<NEWLINE>ルカニ<NEWLINE>ザラキ<NEWLINE>を覚える
-スキル「ゾンビフォース＋」で<NEWLINE>ぶきみな光<NEWLINE>なめまわし<NEWLINE>もうどくの息<NEWLINE>ザラキ<NEWLINE>マフール<NEWLINE>ヘナトール<NEWLINE>ルカナン<NEWLINE>ヘルメリト<NEWLINE>などを覚える
-スキル「ゾンビフォースSP」で<NEWLINE>ぶきみな光<NEWLINE>ザラキ<NEWLINE>マフール<NEWLINE>ヘナトール<NEWLINE>ルカナン<NEWLINE>ヘルメリト<NEWLINE>ゼロのしょうげき<NEWLINE>ひょういのポルカ<NEWLINE>などを覚える
-スキル「マテリアフォース」で<NEWLINE>スカラ<NEWLINE>守備力＋４<NEWLINE>みがわり<NEWLINE>最大ＨＰ＋８<NEWLINE>ヘナトス<NEWLINE>バーハ<NEWLINE>守備力＋１６<NEWLINE>ベホイミ<NEWLINE>を覚える
-スキル「マテリアフォース＋」で<NEWLINE>みがわり<NEWLINE>守備力＋３２<NEWLINE>スクルト<NEWLINE>最大ＨＰ＋２４<NEWLINE>ヘナトール<NEWLINE>フバーハ<NEWLINE>守備力＋４８<NEWLINE>ベホイミ<NEWLINE>などを覚える
-スキル「マテリアフォースSP」で<NEWLINE>みがわり<NEWLINE>守備力＋４８<NEWLINE>スクルト<NEWLINE>最大ＨＰ＋３６<NEWLINE>ヘナトール<NEWLINE>フバーハ<NEWLINE>守備力＋７２<NEWLINE>ベホイミ<NEWLINE>などを覚える
-スキル「ブレイクフォース」で<NEWLINE>たいあたり<NEWLINE>最大ＨＰ＋２<NEWLINE>ちょうはつ<NEWLINE>最大ＨＰ＋８<NEWLINE>ぶきみな光<NEWLINE>すてみ<NEWLINE>最大ＨＰ＋８<NEWLINE>特攻<NEWLINE>を覚える
-スキル「ブレイクフォース＋」で<NEWLINE>たいあたり<NEWLINE>最大ＨＰ＋１６<NEWLINE>ちょうはつ<NEWLINE>最大ＨＰ＋２４<NEWLINE>ぶきみな光<NEWLINE>すてみ<NEWLINE>最大ＨＰ＋２４<NEWLINE>特攻<NEWLINE>などを覚える
-スキル「ブレイクフォースSP」で<NEWLINE>たいあたり<NEWLINE>最大ＨＰ＋２４<NEWLINE>ちょうはつ<NEWLINE>最大ＨＰ＋３６<NEWLINE>ぶきみな光<NEWLINE>すてみ<NEWLINE>最大ＨＰ＋３６<NEWLINE>特攻<NEWLINE>などを覚える
-スキル「ワンダーフォース」で<NEWLINE>ギラ<NEWLINE>最大ＭＰ＋４<NEWLINE>ドルマ<NEWLINE>最大ＭＰ＋１６<NEWLINE>光明斬り<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋１６<NEWLINE>フバーハ<NEWLINE>を覚える
-スキル「ワンダーフォース＋」で<NEWLINE>光明斬り<NEWLINE>最大ＭＰ＋３２<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋４８<NEWLINE>ベギラマ<NEWLINE>ドルクマ<NEWLINE>最大ＭＰ＋４８<NEWLINE>フバーハ<NEWLINE>などを覚える
-スキル「ワンダーフォースSP」で<NEWLINE>光明斬り<NEWLINE>最大ＭＰ＋４８<NEWLINE>無明斬り<NEWLINE>最大ＭＰ＋７２<NEWLINE>ギラグレイド<NEWLINE>ドルマドン<NEWLINE>最大ＭＰ＋７２<NEWLINE>フバーハ<NEWLINE>などを覚える
-スキル「死の力＋」で<NEWLINE>死神の息吹<NEWLINE>最大ＭＰ＋８<NEWLINE>バハック<NEWLINE>即死ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>うらみぶし<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋３２<NEWLINE>などを覚える
-スキル「死の力SP」で<NEWLINE>即死ガード＋<NEWLINE>死神の息吹<NEWLINE>かしこさ＋４０<NEWLINE>うらみぶし<NEWLINE>死の踊り<NEWLINE>フバハック<NEWLINE>ひょういのポルカ<NEWLINE>かしこさ＋４８<NEWLINE>などを覚える
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
-スキル「炎の息吹」で<NEWLINE>火の息<NEWLINE>攻撃力＋２<NEWLINE>攻撃力＋４<NEWLINE>おたけび<NEWLINE>やけつく息<NEWLINE>攻撃力＋８<NEWLINE>火ガード＋<NEWLINE>火炎の息<NEWLINE>を覚える
-スキル「炎の息吹＋」で<NEWLINE>火炎の息<NEWLINE>攻撃力＋８<NEWLINE>攻撃力＋１２<NEWLINE>おたけび<NEWLINE>やけつく息<NEWLINE>攻撃力＋２０<NEWLINE>火ガード＋<NEWLINE>息をすいこむ<NEWLINE>などを覚える
-スキル「炎の息吹SP」で<NEWLINE>おたけび<NEWLINE>やけつく息<NEWLINE>しゃくねつ<NEWLINE>攻撃力＋２４<NEWLINE>たたかいのふえ<NEWLINE>息をすいこむ<NEWLINE>攻撃力＋３６<NEWLINE>火ガード＋<NEWLINE>などを覚える
-スキル「氷の息吹」で<NEWLINE>つめたい息<NEWLINE>かしこさ＋４<NEWLINE>かしこさ＋８<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>かしこさ＋１６<NEWLINE>氷結ガード＋<NEWLINE>こおりの息<NEWLINE>を覚える
-スキル「氷の息吹＋」で<NEWLINE>こおりの息<NEWLINE>かしこさ＋１６<NEWLINE>かしこさ＋２４<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>かしこさ＋４０<NEWLINE>氷結ガード＋<NEWLINE>息をすいこむ<NEWLINE>などを覚える
-スキル「氷の息吹SP」で<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>かがやく息<NEWLINE>かしこさ＋４８<NEWLINE>ちしきのふえ<NEWLINE>息をすいこむ<NEWLINE>かしこさ＋７２<NEWLINE>氷結ガード＋<NEWLINE>などを覚える
-スキル「炎と氷の息吹＋」で<NEWLINE>はげしい炎<NEWLINE>こごえる吹雪<NEWLINE>攻撃力＋２４<NEWLINE>たたかいのふえ<NEWLINE>かしこさ＋４８<NEWLINE>ちしきのふえ<NEWLINE>息をすいこむ<NEWLINE>しゃくねつ<NEWLINE>などを覚える
-スキル「炎と氷の息吹SP」で<NEWLINE>しゃくねつ<NEWLINE>かがやく息<NEWLINE>攻撃力＋３６<NEWLINE>たたかいのふえ<NEWLINE>かしこさ＋７２<NEWLINE>ちしきのふえ<NEWLINE>息をすいこむ<NEWLINE>れんごく火炎<NEWLINE>などを覚える
-スキル「よどんだ息吹」で<NEWLINE>おたけび<NEWLINE>どくの息<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>やけつく息<NEWLINE>呪いのことば<NEWLINE>ぶきみな光<NEWLINE>死神の息吹<NEWLINE>を覚える
-スキル「よどんだ息吹＋」で<NEWLINE>おたけび<NEWLINE>もうどくの息<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>やけつく息<NEWLINE>じゅそのこえ<NEWLINE>ぶきみな光<NEWLINE>死神の息吹<NEWLINE>などを覚える
-スキル「よどんだ息吹SP」で<NEWLINE>おたけび<NEWLINE>もうどくの息<NEWLINE>あまい息<NEWLINE>まどいの息<NEWLINE>やけつく息<NEWLINE>じゅそのこえ<NEWLINE>ぶきみな光<NEWLINE>死神の息吹<NEWLINE>などを覚える
-スキル「きらめく息吹」で<NEWLINE>たたかいのふえ<NEWLINE>まもりのふえ<NEWLINE>ハヤブサのふえ<NEWLINE>ちしきのふえ<NEWLINE>ゆうきの旋風<NEWLINE>息をすいこむ<NEWLINE>いやしのふえ<NEWLINE>やすらぎのふえ<NEWLINE>を覚える
-スキル「きらめく息吹＋」で<NEWLINE>たたかいのふえ<NEWLINE>まもりのふえ<NEWLINE>ハヤブサのふえ<NEWLINE>ちしきのふえ<NEWLINE>ゆうきの旋風<NEWLINE>息をすいこむ<NEWLINE>いやしのふえ<NEWLINE>やすらぎのふえ<NEWLINE>などを覚える
-スキル「きらめく息吹SP」で<NEWLINE>たたかいのふえ<NEWLINE>まもりのふえ<NEWLINE>ハヤブサのふえ<NEWLINE>ちしきのふえ<NEWLINE>ゆうきの旋風<NEWLINE>息をすいこむ<NEWLINE>いやしのふえ<NEWLINE>やすらぎのふえ<NEWLINE>などを覚える
-スキル「スモールパワー」で<NEWLINE>ピオラ<NEWLINE>メダパニ<NEWLINE>すねくだき<NEWLINE>マヌーサ<NEWLINE>なめまわし<NEWLINE>みかわしきゃく<NEWLINE>ピオリム<NEWLINE>チェイン<NEWLINE>を覚える
-スキル「スモールパワーSP」で<NEWLINE>マヌーサ<NEWLINE>すねくだき<NEWLINE>ピオリム<NEWLINE>メダパーニャ<NEWLINE>みかわしきゃく<NEWLINE>てんしのきまぐれ<NEWLINE>バイメリト<NEWLINE>チェイン<NEWLINE>などを覚える
-スキル「ノーマルパワー」で<NEWLINE>バイシオン<NEWLINE>インテラ<NEWLINE>ピオリム<NEWLINE>スクルト<NEWLINE>フバーハ<NEWLINE>マホターン<NEWLINE>パイルハンマー<NEWLINE>ベホマラー<NEWLINE>を覚える
-スキル「ノーマルパワーSP」で<NEWLINE>バイシオン<NEWLINE>インテラ<NEWLINE>ピオリム<NEWLINE>スクルト<NEWLINE>フバーハ<NEWLINE>マホターン<NEWLINE>パイルハンマー<NEWLINE>ベホマズン<NEWLINE>などを覚える
-スキル「メガパワー」で<NEWLINE>みかわしきゃく<NEWLINE>かぶとわり<NEWLINE>たいあたり<NEWLINE>すてみ<NEWLINE>かくれる<NEWLINE>におう斬り<NEWLINE>アンカーナックル<NEWLINE>アタカンタ<NEWLINE>を覚える
-スキル「メガパワーSP」で<NEWLINE>みかわしきゃく<NEWLINE>かぶとわり<NEWLINE>たいあたり<NEWLINE>すてみ<NEWLINE>かくれる<NEWLINE>におう斬り<NEWLINE>アンカーナックル<NEWLINE>アタカンタ<NEWLINE>などを覚える
-スキル「ギガパワー」で<NEWLINE>テンプルブロー<NEWLINE>魔神斬り<NEWLINE>バーハ<NEWLINE>雷鳴斬り<NEWLINE>ハッスルダンス<NEWLINE>もろば斬り<NEWLINE>無心のかまえ<NEWLINE>リザオラル<NEWLINE>を覚える
-スキル「ギガパワーSP」で<NEWLINE>テンプルブロー<NEWLINE>魔神斬り<NEWLINE>バーハ<NEWLINE>もろば斬り<NEWLINE>ハッスルダンス<NEWLINE>自動ＨＰ回復<NEWLINE>無心のかまえ<NEWLINE>リザオラル<NEWLINE>などを覚える
-スキル「超ギガパワー」で<NEWLINE>やいばくだき<NEWLINE>ミラクルソード<NEWLINE>マホカンタ<NEWLINE>幻魔の獄<NEWLINE>ハッスルダンス<NEWLINE>修羅の獄<NEWLINE>サゲサゲチョップ<NEWLINE>ギガ・タメトラ<NEWLINE>を覚える
-スキル「超ギガパワーSP」で<NEWLINE>やいばくだき<NEWLINE>マホカンタ<NEWLINE>幻魔の獄<NEWLINE>ハッスルダンス<NEWLINE>修羅の獄<NEWLINE>自動ＭＰ回復<NEWLINE>サゲサゲチョップ<NEWLINE>ギガ・タメトラ<NEWLINE>などを覚える
-スキル「ＨＰ回復」で<NEWLINE>ホイミ<NEWLINE>スカラ<NEWLINE>リホイミ<NEWLINE>シャナク<NEWLINE>バーハ<NEWLINE>まもりの霧<NEWLINE>ベホイミ<NEWLINE>ザオラル<NEWLINE>を覚える
-スキル「ＨＰ回復SP」で<NEWLINE>ベホイミ<NEWLINE>リベホイミ<NEWLINE>ザオラル<NEWLINE>フバーハ<NEWLINE>まもりの霧<NEWLINE>ベホイマ<NEWLINE>リベホイム<NEWLINE>めいそう<NEWLINE>などを覚える
-スキル「全体回復」で<NEWLINE>ホイミ<NEWLINE>スクルト<NEWLINE>キアリク<NEWLINE>フバーハ<NEWLINE>ベホマラー<NEWLINE>バイメリト<NEWLINE>ザオラル<NEWLINE>マホターン<NEWLINE>などを覚える
-スキル「全体回復SP」で<NEWLINE>ベホマラー<NEWLINE>ザオラル<NEWLINE>フバーハ<NEWLINE>マホターン<NEWLINE>いやしの雨<NEWLINE>バイメリト<NEWLINE>いやしのふえ<NEWLINE>せいれいのうた<NEWLINE>などを覚える
-スキル「異常回復」で<NEWLINE>キアラル<NEWLINE>キアリク<NEWLINE>キアリー<NEWLINE>シャナク<NEWLINE>バーハ<NEWLINE>かくれる<NEWLINE>アタカンタ<NEWLINE>アストロン<NEWLINE>を覚える
-スキル「異常回復SP」で<NEWLINE>キアラル<NEWLINE>キアリク<NEWLINE>キアリー<NEWLINE>シャナク<NEWLINE>フバーハ<NEWLINE>バイメリト<NEWLINE>アタカンタ<NEWLINE>アストロン<NEWLINE>などを覚える
-スキル「ＭＰ回復」で<NEWLINE>マホトラ<NEWLINE>バハック<NEWLINE>マホトラ踊り<NEWLINE>マホターン<NEWLINE>フバハック<NEWLINE>マホカンタ<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>やすらぎのふえ<NEWLINE>などを覚える
-スキル「ＭＰ回復SP」で<NEWLINE>マホトラ<NEWLINE>バハック<NEWLINE>マホトラ踊り<NEWLINE>マホターン<NEWLINE>フバハック<NEWLINE>マホカンタ<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>やすらぎのふえ<NEWLINE>などを覚える
-スキル「黒い霧マスター」で<NEWLINE>やいばくだき<NEWLINE>かぶとわり<NEWLINE>すねくだき<NEWLINE>テンプルブロー<NEWLINE>ミラクルソード<NEWLINE>ぶきみな光<NEWLINE>めいそう<NEWLINE>いやしの雨<NEWLINE>などを覚える
-スキル「黒い霧マスターSP」で<NEWLINE>やいばくだき<NEWLINE>かぶとわり<NEWLINE>すねくだき<NEWLINE>テンプルブロー<NEWLINE>黒い霧<NEWLINE>ぶきみな光<NEWLINE>めいそう<NEWLINE>いやしの雨<NEWLINE>などを覚える
-スキル「赤い霧マスター」で<NEWLINE>おにび<NEWLINE>しんくうは<NEWLINE>てっぽう水<NEWLINE>じひびき<NEWLINE>フバハック<NEWLINE>ヘルメリト<NEWLINE>まもりの霧<NEWLINE>やみのはもん<NEWLINE>などを覚える
-スキル「赤い霧マスターSP」で<NEWLINE>火炎竜<NEWLINE>トルネード<NEWLINE>つなみ<NEWLINE>がんせきおとし<NEWLINE>赤い霧<NEWLINE>フバハック<NEWLINE>ヘルメリト<NEWLINE>まもりの霧<NEWLINE>などを覚える
-スキル「白い霧マスター」で<NEWLINE>メラミ<NEWLINE>バギマ<NEWLINE>ジバリカ<NEWLINE>ザバラ<NEWLINE>大きなため息<NEWLINE>死の踊り<NEWLINE>マホターン<NEWLINE>つるぎのまい<NEWLINE>などを覚える
-スキル「白い霧マスターSP」で<NEWLINE>メラガイアー<NEWLINE>バギムーチョ<NEWLINE>ジバルンバ<NEWLINE>ザバトローム<NEWLINE>白い霧<NEWLINE>大きなため息<NEWLINE>死の踊り<NEWLINE>マホターン<NEWLINE>などを覚える
-スキル「冥界の霧マスター」で<NEWLINE>ぎゃくふう<NEWLINE>天地のかまえ<NEWLINE>無心のかまえ<NEWLINE>ミラーステップ<NEWLINE>マホターン<NEWLINE>ステルスアタック<NEWLINE>アストロン<NEWLINE>ひょういのポルカ<NEWLINE>などを覚える
-スキル「冥界の霧マスターSP」で<NEWLINE>ぎゃくふう<NEWLINE>天地のかまえ<NEWLINE>無心のかまえ<NEWLINE>ミラーステップ<NEWLINE>冥界の霧<NEWLINE>マホターン<NEWLINE>ステルスアタック<NEWLINE>アストロン<NEWLINE>などを覚える
-スキル「青天の霧マスター」で<NEWLINE>すてみ<NEWLINE>バイキルト<NEWLINE>インテ<NEWLINE>つるぎのまい<NEWLINE>ルカニ<NEWLINE>ばくれつけん<NEWLINE>ゆうきの旋風<NEWLINE>アンカーナックル<NEWLINE>などを覚える
-スキル「青天の霧マスターSP」で<NEWLINE>すてみ<NEWLINE>バイシオン<NEWLINE>インテラ<NEWLINE>つるぎのまい<NEWLINE>青天の霧<NEWLINE>ルカナン<NEWLINE>ばくれつけん<NEWLINE>アンカーナックル<NEWLINE>などを覚える
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
-スキル「さいみん」で<NEWLINE>ラリホー<NEWLINE>マヌーサ<NEWLINE>バハック<NEWLINE>メダパニ<NEWLINE>まどいの息<NEWLINE>なめまわし<NEWLINE>ラリホーマ<NEWLINE>メダパーニャ<NEWLINE>などを覚える
-スキル「どくが」で<NEWLINE>どくの息<NEWLINE>すなけむり<NEWLINE>やけつく息<NEWLINE>ぎゃくふう<NEWLINE>もうどくの息<NEWLINE>狂気のかまえ<NEWLINE>キアリー<NEWLINE>キアリク<NEWLINE>などを覚える
-スキル「ホラー」で<NEWLINE>やけつく息<NEWLINE>マヌーサ<NEWLINE>呪いのルンバ<NEWLINE>ぶきみな光<NEWLINE>じゅそのこえ<NEWLINE>うらみぶし<NEWLINE>みなごろし<NEWLINE>レクイエムのふえ<NEWLINE>などを覚える
-スキル「じごく」で<NEWLINE>メダパニ<NEWLINE>発火<NEWLINE>ベタン<NEWLINE>ザキ<NEWLINE>みなごろし<NEWLINE>ステルスアタック<NEWLINE>おにび<NEWLINE>無明斬り<NEWLINE>などを覚える
-スキル「じこぎせい」で<NEWLINE>もろば斬り<NEWLINE>たいあたり<NEWLINE>すてみ<NEWLINE>ちょうはつ<NEWLINE>特攻<NEWLINE>みがわり<NEWLINE>メガンテ<NEWLINE>ひょういのポルカ<NEWLINE>などを覚える
-スキル「インスパイア」で<NEWLINE>マホトラ踊り<NEWLINE>ぶきみな光<NEWLINE>さそう踊り<NEWLINE>ミラーステップ<NEWLINE>ぎゃくふう<NEWLINE>なめまわし<NEWLINE>みかわしきゃく<NEWLINE>ハヤブサのふえ<NEWLINE>などを覚える
-スキル「ナイトメア」で<NEWLINE>マホトラ<NEWLINE>マヌーサ<NEWLINE>あまい息<NEWLINE>ぶきみな光<NEWLINE>死の踊り<NEWLINE>ねむりガード＋<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>やみのはもん<NEWLINE>などを覚える
-スキル「コールドスリープ」で<NEWLINE>ラリホー<NEWLINE>つめたい息<NEWLINE>バーハ<NEWLINE>ザキ<NEWLINE>こおりの息<NEWLINE>ラリホーマ<NEWLINE>ねむりガード＋<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「ゆうき」で<NEWLINE>ライデイン<NEWLINE>リベホイミ<NEWLINE>におう斬り<NEWLINE>ベホマラー<NEWLINE>ギガデイン<NEWLINE>ギガスラッシュ<NEWLINE>グランドクロス<NEWLINE>電撃ガード＋<NEWLINE>などを覚える
-スキル「みずげい」で<NEWLINE>水しぶき<NEWLINE>ベホイミ<NEWLINE>さそう踊り<NEWLINE>てっぽう水<NEWLINE>まもりの霧<NEWLINE>いやしの雨<NEWLINE>つなみ<NEWLINE>自動ＭＰ回復<NEWLINE>などを覚える
-スキル「巨大モンスターつぶし」で<NEWLINE>踊りよそく<NEWLINE>呪文よそく<NEWLINE>息よそく<NEWLINE>マホターン<NEWLINE>アタカンタ<NEWLINE>物理よそく<NEWLINE>ギガ・タメトラ<NEWLINE>ギガ・マホトラ<NEWLINE>などを覚える
-スキル「ゴースト」で<NEWLINE>ラリホー<NEWLINE>ドルマ<NEWLINE>バハック<NEWLINE>インテ<NEWLINE>マホトラ踊り<NEWLINE>なめまわし<NEWLINE>マヌーサ<NEWLINE>しょうひＭＰせつやく<NEWLINE>を覚える
-スキル「スライムナイト」で<NEWLINE>雷鳴斬り<NEWLINE>マホトラ<NEWLINE>攻撃力＋１２<NEWLINE>ベホイミ<NEWLINE>さみだれ斬り<NEWLINE>攻撃力＋１６<NEWLINE>タナトスハント<NEWLINE>ギガスラッシュ<NEWLINE>を覚える
-スキル「さまようよろい」で<NEWLINE>リホイミ<NEWLINE>守備力＋８<NEWLINE>攻撃力＋４<NEWLINE>スカラ<NEWLINE>魔神斬り<NEWLINE>守備力＋１６<NEWLINE>攻撃力＋８<NEWLINE>ギガブレイク<NEWLINE>を覚える
-スキル「キラーマシン」で<NEWLINE>火炎斬り<NEWLINE>水流斬り<NEWLINE>真空斬り<NEWLINE>岩石斬り<NEWLINE>ヒュプノスハント<NEWLINE>さみだれ斬り<NEWLINE>におう斬り<NEWLINE>ばくれつけん<NEWLINE>を覚える
-スキル「おばけきのこ」で<NEWLINE>あまい息<NEWLINE>キアラル<NEWLINE>キアリク<NEWLINE>星くず<NEWLINE>キアリー<NEWLINE>シャナク<NEWLINE>もうどくの息<NEWLINE>ハッスルダンス<NEWLINE>を覚える
-スキル「あばれうしどり」で<NEWLINE>やいばくだき<NEWLINE>かぶとわり<NEWLINE>攻撃力＋８<NEWLINE>まわしげり<NEWLINE>守備力＋１６<NEWLINE>たいあたり<NEWLINE>最大ＨＰ＋８<NEWLINE>パイルハンマー<NEWLINE>を覚える
-スキル「ギガンテス」で<NEWLINE>魔神斬り<NEWLINE>たいあたり<NEWLINE>狂気のかまえ<NEWLINE>ギガスラッシュ<NEWLINE>アンカーナックル<NEWLINE>みなごろし<NEWLINE>ギガブレイク<NEWLINE>大地斬<NEWLINE>を覚える
-スキル「ボストロール」で<NEWLINE>かぶとわり<NEWLINE>たいあたり<NEWLINE>攻撃力＋１２<NEWLINE>すてみ<NEWLINE>じひびき<NEWLINE>攻撃力＋１２<NEWLINE>特攻<NEWLINE>守滅の刻<NEWLINE>を覚える
-スキル「バトルレックス」で<NEWLINE>火炎の息<NEWLINE>魔神斬り<NEWLINE>せいけんづき<NEWLINE>攻撃力＋１２<NEWLINE>おにび<NEWLINE>守備力＋２４<NEWLINE>ギガスラッシュ<NEWLINE>はげしい炎<NEWLINE>を覚える
-スキル「リザードマン」で<NEWLINE>さみだれ斬り<NEWLINE>ちょうはつ<NEWLINE>守備力＋１６<NEWLINE>タナトスハント<NEWLINE>アンカーナックル<NEWLINE>守備力＋２４<NEWLINE>せいけんづき<NEWLINE>魔神斬り<NEWLINE>を覚える
-スキル「アッパー」で<NEWLINE>ホイミ<NEWLINE>バイキルト<NEWLINE>スカラ<NEWLINE>ピオラ<NEWLINE>インテ<NEWLINE>バイシオン<NEWLINE>スクルト<NEWLINE>ピオリム<NEWLINE>などを覚える
-スキル「ダウナー」で<NEWLINE>バハック<NEWLINE>ヘナトス<NEWLINE>ルカニ<NEWLINE>ボミエ<NEWLINE>フール<NEWLINE>ヘナトール<NEWLINE>ルカナン<NEWLINE>ボミオス<NEWLINE>などを覚える
-スキル「大魔王ゾーマ」で<NEWLINE>こごえる吹雪<NEWLINE>マヒャド<NEWLINE>ベホイマ<NEWLINE>ぶきみな光<NEWLINE>ビッグバン<NEWLINE>かがやく息<NEWLINE>マヒャデドス<NEWLINE>ヘルメリト<NEWLINE>などを覚える
-スキル「竜王」で<NEWLINE>マホターン<NEWLINE>こごえる吹雪<NEWLINE>はげしい炎<NEWLINE>ラリホーマ<NEWLINE>ベホイマ<NEWLINE>ぶきみな光<NEWLINE>かがやく息<NEWLINE>しゃくねつ<NEWLINE>などを覚える
-スキル「破壊神シドー」で<NEWLINE>ラリホーマ<NEWLINE>はげしい炎<NEWLINE>自動ＨＰ回復<NEWLINE>スクルト<NEWLINE>バイメリト<NEWLINE>守備力ガード＋<NEWLINE>ザオリク<NEWLINE>フバーハ<NEWLINE>などを覚える
-スキル「エスターク」で<NEWLINE>メラゾーマ<NEWLINE>イオナズン<NEWLINE>もろば斬り<NEWLINE>さみだれ斬り<NEWLINE>ぶきみな光<NEWLINE>メラガイアー<NEWLINE>イオグランデ<NEWLINE>かがやく息<NEWLINE>などを覚える
-スキル「デスピサロ」で<NEWLINE>スクルト<NEWLINE>あまい息<NEWLINE>ベギラマ<NEWLINE>ヒャダルコ<NEWLINE>はげしい炎<NEWLINE>ベギラゴン<NEWLINE>ゼロのしょうげき<NEWLINE>めいそう<NEWLINE>などを覚える
-スキル「ミルドラース」で<NEWLINE>メラゾーマ<NEWLINE>ぎゃくふう<NEWLINE>インテラ<NEWLINE>ルカナン<NEWLINE>イオナズン<NEWLINE>自動ＨＰ回復<NEWLINE>いてつくはもん<NEWLINE>みなごろし<NEWLINE>などを覚える
-スキル「デスタムーア」で<NEWLINE>もうどくの息<NEWLINE>魔神斬り<NEWLINE>いてつくはもん<NEWLINE>たいあたり<NEWLINE>イオナズン<NEWLINE>はげしい炎<NEWLINE>自動ＭＰ回復<NEWLINE>めいそう<NEWLINE>などを覚える
-スキル「オルゴ・デミーラ」で<NEWLINE>おたけび<NEWLINE>マホターン<NEWLINE>あまい息<NEWLINE>メラゾーマ<NEWLINE>しんくうは<NEWLINE>たいあたり<NEWLINE>ギガブレイク<NEWLINE>メラガイアー<NEWLINE>などを覚える
-スキル「ラプソーン」で<NEWLINE>マホトラ<NEWLINE>マフール<NEWLINE>ラリホーマ<NEWLINE>アストロン<NEWLINE>ぶきみな光<NEWLINE>こごえる吹雪<NEWLINE>盲信のかまえ<NEWLINE>バギクロス<NEWLINE>などを覚える
-スキル「堕天使エルギオス」で<NEWLINE>ばくれつけん<NEWLINE>やけつく息<NEWLINE>いてつくはもん<NEWLINE>メラガイアー<NEWLINE>かがやく息<NEWLINE>ジゴスパーク<NEWLINE>てんしのきまぐれ<NEWLINE>マダンテ<NEWLINE>などを覚える
-スキル「冥獣王ネルゲル」で<NEWLINE>おたけび<NEWLINE>流星<NEWLINE>いてつくはもん<NEWLINE>マホターン<NEWLINE>天地のかまえ<NEWLINE>マヒャデドス<NEWLINE>ドルマドン<NEWLINE>イオグランデ<NEWLINE>などを覚える
-スキル「真・災厄の王」で<NEWLINE>ばくれつけん<NEWLINE>じひびき<NEWLINE>乱心のかまえ<NEWLINE>盲信のかまえ<NEWLINE>ジゴデイン<NEWLINE>みなごろし<NEWLINE>守滅の刻<NEWLINE>ジゴスパーク<NEWLINE>などを覚える
-スキル「魔勇者アンルシア」で<NEWLINE>魔神斬り<NEWLINE>さみだれ斬り<NEWLINE>乱心のかまえ<NEWLINE>ジゴデイン<NEWLINE>もろば斬り<NEWLINE>ジバルンバ<NEWLINE>シャイニングボウ<NEWLINE>しんらばんしょう斬<NEWLINE>などを覚える
-スキル「JOKER」で<NEWLINE>火炎竜<NEWLINE>つなみ<NEWLINE>物理よそく<NEWLINE>がんせきおとし<NEWLINE>マヒガード＋<NEWLINE>ジゴスパーク<NEWLINE>ハッスルダンス<NEWLINE>トルネード<NEWLINE>などを覚える
-スキル「デモンスペーディオ」で<NEWLINE>ドルモーア<NEWLINE>無明斬り<NEWLINE>やみのはもん<NEWLINE>物理よそく<NEWLINE>闇ガード＋<NEWLINE>早滅の刻<NEWLINE>ドルマドン<NEWLINE>呪いガード＋<NEWLINE>などを覚える
-スキル「キングスペーディオ」で<NEWLINE>ベギラゴン<NEWLINE>光明斬り<NEWLINE>光のはもん<NEWLINE>物理よそく<NEWLINE>光ガード＋<NEWLINE>攻滅の刻<NEWLINE>ギラグレイド<NEWLINE>こんらんガード＋<NEWLINE>などを覚える
-スキル「ガルマッゾ」で<NEWLINE>おたけび<NEWLINE>やみのはもん<NEWLINE>アストロン<NEWLINE>ヘナトール<NEWLINE>もうどくの息<NEWLINE>ジゴスパーク<NEWLINE>めいそう<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「闘神レオソード」で<NEWLINE>おたけび<NEWLINE>ルカナン<NEWLINE>めいそう<NEWLINE>自動ＭＰ回復<NEWLINE>マヒャデドス<NEWLINE>メラガイアー<NEWLINE>てんしのきまぐれ<NEWLINE>しんらばんしょう斬<NEWLINE>などを覚える
-スキル「ヒヒュドラード」で<NEWLINE>ハッスルダンス<NEWLINE>かくらんの叫び<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>こんらんガード＋<NEWLINE>いてつくはもん<NEWLINE>ヘルメリト<NEWLINE>ラウンドゼロ<NEWLINE>ミラーステップ<NEWLINE>などを覚える
-スキル「聖竜ミラクレア」で<NEWLINE>バイキルト<NEWLINE>修羅の獄<NEWLINE>自動ＨＰ回復<NEWLINE>グランドクロス<NEWLINE>自動ＭＰ回復<NEWLINE>オーロラブレス<NEWLINE>光ガード＋<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>などを覚える
-スキル「名もなき闇の王」で<NEWLINE>ヘルメリト<NEWLINE>マホターン<NEWLINE>ゼロのしょうげき<NEWLINE>ギガ・マホトラ<NEWLINE>冥界の霧<NEWLINE>星のきせき<NEWLINE>青天の霧<NEWLINE>修羅の獄<NEWLINE>などを覚える
-スキル「ジャハガロス」で<NEWLINE>バイキルト<NEWLINE>バギクロス<NEWLINE>やけつく息<NEWLINE>ばくれつけん<NEWLINE>空裂斬<NEWLINE>せいけんづき<NEWLINE>電撃ガード＋<NEWLINE>シャイニングボウ<NEWLINE>などを覚える
-スキル「闇竜シャムダ」で<NEWLINE>冥界の霧<NEWLINE>まもりの霧<NEWLINE>ステルスアタック<NEWLINE>ブラックホール<NEWLINE>スモールキラー<NEWLINE>ドルマータ<NEWLINE>闇ガード＋<NEWLINE>トルネード<NEWLINE>などを覚える
-スキル「闇の王ヴラート」で<NEWLINE>冥界の霧<NEWLINE>やみのはもん<NEWLINE>天地のかまえ<NEWLINE>じごくの踊り<NEWLINE>ギガキラー<NEWLINE>ドルマータ<NEWLINE>闇ガード＋<NEWLINE>ジゴスパーク<NEWLINE>などを覚える
-スキル「ラーミア」で<NEWLINE>光のはもん<NEWLINE>マホカンタ<NEWLINE>ベホイマ<NEWLINE>シャイニングボウ<NEWLINE>星うらない<NEWLINE>せいれいのうた<NEWLINE>ザオリク<NEWLINE>メガザル<NEWLINE>などを覚える
-スキル「神鳥レティス」で<NEWLINE>フバーハ<NEWLINE>ベホマラー<NEWLINE>リバース<NEWLINE>キアラル<NEWLINE>いてつくはもん<NEWLINE>インテラ<NEWLINE>ギガデイン<NEWLINE>ゆうきの旋風<NEWLINE>などを覚える
-スキル「竜神王」で<NEWLINE>マホターン<NEWLINE>かがやく息<NEWLINE>しゃくねつ<NEWLINE>おたけび<NEWLINE>ゆうきの旋風<NEWLINE>ギガデイン<NEWLINE>光の旋風<NEWLINE>守滅の刻<NEWLINE>などを覚える
-スキル「メタルハンター」で<NEWLINE>ピオラ<NEWLINE>メタル斬り<NEWLINE>かぶとわり<NEWLINE>すばやさ＋３２<NEWLINE>魔神斬り<NEWLINE>メタルハンター<NEWLINE>ばくれつけん<NEWLINE>せいけんづき<NEWLINE>などを覚える
-スキル「キラーマジンガ」で<NEWLINE>かぶとわり<NEWLINE>もろば斬り<NEWLINE>魔神斬り<NEWLINE>タナトスハント<NEWLINE>ヒュプノスハント<NEWLINE>つるぎのまい<NEWLINE>さみだれ斬り<NEWLINE>パイルハンマー<NEWLINE>などを覚える
-スキル「ファイナルウェポン」で<NEWLINE>かぶとわり<NEWLINE>狂気のかまえ<NEWLINE>アタカンタ<NEWLINE>乱心のかまえ<NEWLINE>ルカナン<NEWLINE>攻撃力ガード＋<NEWLINE>シャイニングボウ<NEWLINE>特攻<NEWLINE>などを覚える
-スキル「にじくじゃく」で<NEWLINE>はげしい炎<NEWLINE>こごえる吹雪<NEWLINE>ベギラゴン<NEWLINE>光のはもん<NEWLINE>だいぼうぎょ<NEWLINE>もろば斬り<NEWLINE>マダンテ<NEWLINE>無心のかまえ<NEWLINE>などを覚える
-スキル「こうじちゅう」で<NEWLINE>いわなげ<NEWLINE>発火<NEWLINE>かまいたち<NEWLINE>水しぶき<NEWLINE>地ガード＋<NEWLINE>重力ガード＋<NEWLINE>たいあたり<NEWLINE>じひびき<NEWLINE>などを覚える
-スキル「ダイナマイト」で<NEWLINE>いわなげ<NEWLINE>岩石斬り<NEWLINE>ジバリア<NEWLINE>じひびき<NEWLINE>爆砕斬り<NEWLINE>イオナズン<NEWLINE>メガンテ<NEWLINE>ビッグバン<NEWLINE>などを覚える
-スキル「ミミック」で<NEWLINE>ザキ<NEWLINE>マホトラ<NEWLINE>即死ガード＋<NEWLINE>星のきせき<NEWLINE>じゅそのこえ<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>みちづれのワルツ<NEWLINE>ザラキ<NEWLINE>などを覚える
-スキル「若葉の精霊」で<NEWLINE>バギクロス<NEWLINE>風ガード＋<NEWLINE>ベホイミ<NEWLINE>地ガード＋<NEWLINE>リベホイミ<NEWLINE>かまいたち<NEWLINE>たいあたり<NEWLINE>バギマータ<NEWLINE>などを覚える
-スキル「暗黒大樹の番人」で<NEWLINE>ドルクマ<NEWLINE>マヌーサ<NEWLINE>闇ガード＋<NEWLINE>バハック<NEWLINE>呪いの鉄槌<NEWLINE>ドルモーア<NEWLINE>呪いガード＋<NEWLINE>うらみぶし<NEWLINE>などを覚える
-スキル「密林の守人」で<NEWLINE>バギクロス<NEWLINE>イオナズン<NEWLINE>ドルモーア<NEWLINE>スクルト<NEWLINE>まわしげり<NEWLINE>におう斬り<NEWLINE>守備力ガード＋<NEWLINE>バギムーチョ<NEWLINE>などを覚える
-スキル「水竜ギルギッシュ」で<NEWLINE>ザバラーン<NEWLINE>水ガード＋<NEWLINE>インテラ<NEWLINE>マホターン<NEWLINE>かしこさガード＋<NEWLINE>ザオラル<NEWLINE>つなみ<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>などを覚える
-スキル「青天竜バルケロス」で<NEWLINE>ザバラーン<NEWLINE>マヒャド<NEWLINE>マホターン<NEWLINE>水ガード＋<NEWLINE>氷結ガード＋<NEWLINE>フバーハ<NEWLINE>リザオラル<NEWLINE>青天の霧<NEWLINE>などを覚える
-スキル「大怨霊マアモン」で<NEWLINE>じゅそのこえ<NEWLINE>メラゾーマ<NEWLINE>攻滅の刻<NEWLINE>テンションシフト<NEWLINE>かくらんの叫び<NEWLINE>星のきせき<NEWLINE>やみのはもん<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「けがれの渦」で<NEWLINE>盲信のかまえ<NEWLINE>じゅそのこえ<NEWLINE>死神の息吹<NEWLINE>即死ガード＋<NEWLINE>ドルモーア<NEWLINE>呪いガード＋<NEWLINE>白い霧<NEWLINE>ザラキ<NEWLINE>などを覚える
-スキル「どくどくバルーン」で<NEWLINE>もうどくの息<NEWLINE>フバハック<NEWLINE>どくガード＋<NEWLINE>盲信のかまえ<NEWLINE>星うらない<NEWLINE>テンションパサー<NEWLINE>息をすいこむ<NEWLINE>心機一転<NEWLINE>などを覚える
-スキル「ウルベア魔神兵」で<NEWLINE>ジバリカ<NEWLINE>岩石斬り<NEWLINE>さみだれ斬り<NEWLINE>すねくだき<NEWLINE>守備力ガード＋<NEWLINE>魔神斬り<NEWLINE>パイルハンマー<NEWLINE>ばくれつけん<NEWLINE>などを覚える
-スキル「獣魔将ガルレイ」で<NEWLINE>ジゴデイン<NEWLINE>たいあたり<NEWLINE>攻撃力ガード＋<NEWLINE>バイキルト<NEWLINE>スカラ<NEWLINE>守備力ガード＋<NEWLINE>ギガブレイク<NEWLINE>マホカンタ<NEWLINE>などを覚える
-スキル「魔軍師イッド」で<NEWLINE>やけつく踊り<NEWLINE>フバハック<NEWLINE>ラリホーマ<NEWLINE>メラガイアー<NEWLINE>イオグランデ<NEWLINE>休みガード＋<NEWLINE>マフール<NEWLINE>光のはもん<NEWLINE>などを覚える
-スキル「幻魔将ファズマ」で<NEWLINE>インテ<NEWLINE>ラリホーマ<NEWLINE>メダパーニャ<NEWLINE>マヌーサ<NEWLINE>ねむりガード＋<NEWLINE>バギムーチョ<NEWLINE>ドルマドン<NEWLINE>ヘルメリト<NEWLINE>などを覚える
-スキル「怪蟲アラグネ」で<NEWLINE>ボミオス<NEWLINE>もうどくの息<NEWLINE>光のはもん<NEWLINE>いてつくはもん<NEWLINE>ルカナン<NEWLINE>メダパーニャ<NEWLINE>どくガード＋<NEWLINE>悪夢のよびごえ<NEWLINE>などを覚える
-スキル「妖魔将ゲジュラ」で<NEWLINE>ボミオス<NEWLINE>もうどくの息<NEWLINE>フバハック<NEWLINE>やみのはもん<NEWLINE>ルカナン<NEWLINE>ザラキ<NEWLINE>即死ガード＋<NEWLINE>悪夢のよびごえ<NEWLINE>などを覚える
-スキル「妖魔ジュリアンテ」で<NEWLINE>バイキルト<NEWLINE>すなけむり<NEWLINE>ぶきみな光<NEWLINE>ぎゃくふう<NEWLINE>さそう踊り<NEWLINE>メダパーニャ<NEWLINE>遊び人のマイム<NEWLINE>ヘルメリト<NEWLINE>などを覚える
-スキル「舞踏魔プレシアンナ」で<NEWLINE>バギクロス<NEWLINE>さそう踊り<NEWLINE>マホカンタ<NEWLINE>ミラーステップ<NEWLINE>天地のかまえ<NEWLINE>無心のかまえ<NEWLINE>ハッスルダンス<NEWLINE>アタカンタ<NEWLINE>などを覚える
-スキル「呪術師マリーン」で<NEWLINE>魔神斬り<NEWLINE>なめまわし<NEWLINE>ルカナン<NEWLINE>呪いのルンバ<NEWLINE>呪いガード＋<NEWLINE>光のはもん<NEWLINE>いてつくはもん<NEWLINE>じひびき<NEWLINE>などを覚える
-スキル「豪魔将ベリンダ」で<NEWLINE>雷鳴斬り<NEWLINE>零度斬り<NEWLINE>テンプルブロー<NEWLINE>さみだれ斬り<NEWLINE>におう斬り<NEWLINE>マホカンタ<NEWLINE>まわしげり<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「豪魔将ブレンダ」で<NEWLINE>ルカナン<NEWLINE>マヒャド<NEWLINE>イオナズン<NEWLINE>マフール<NEWLINE>フバハック<NEWLINE>アタカンタ<NEWLINE>リザオラル<NEWLINE>かしこさガード＋<NEWLINE>などを覚える
-スキル「妖剣士オーレン」で<NEWLINE>魔神斬り<NEWLINE>やいばくだき<NEWLINE>かぶとわり<NEWLINE>すねくだき<NEWLINE>テンプルブロー<NEWLINE>攻撃力ガード＋<NEWLINE>ぬすっと斬り<NEWLINE>ゴールドアタック<NEWLINE>などを覚える
-スキル「月夜の将」で<NEWLINE>爆砕斬り<NEWLINE>零度斬り<NEWLINE>雷鳴斬り<NEWLINE>圧縮斬り<NEWLINE>ギガスラッシュ<NEWLINE>攻撃力ガード＋<NEWLINE>タナトスハント<NEWLINE>ヒュプノスハント<NEWLINE>などを覚える
-スキル「悪魔ザイガス」で<NEWLINE>しっぷうづき<NEWLINE>ぶきみな光<NEWLINE>メラミ<NEWLINE>イオラ<NEWLINE>パイルハンマー<NEWLINE>特攻<NEWLINE>チェイン<NEWLINE>やみのはもん<NEWLINE>などを覚える
-スキル「魔人ゼクセン」で<NEWLINE>魔神斬り<NEWLINE>うらみぶし<NEWLINE>ステルスアタック<NEWLINE>ザラキ<NEWLINE>マホカンタ<NEWLINE>シャッフル<NEWLINE>ベタロール<NEWLINE>メラガイアー<NEWLINE>などを覚える
-スキル「悪魔長ジウギス」で<NEWLINE>ドルモーア<NEWLINE>ジバリーナ<NEWLINE>じゅそのこえ<NEWLINE>もうどくの息<NEWLINE>やみのはもん<NEWLINE>ドルマータ<NEWLINE>ジバマータ<NEWLINE>レクイエムのふえ<NEWLINE>などを覚える
-スキル「黒き花婿」で<NEWLINE>かくらんの叫び<NEWLINE>背水のかまえ<NEWLINE>ぎゃくふう<NEWLINE>星のきせき<NEWLINE>ばくれつけん<NEWLINE>天地のかまえ<NEWLINE>悪夢のよびごえ<NEWLINE>みちづれのワルツ<NEWLINE>などを覚える
-スキル「深海の守護者」で<NEWLINE>ザバラーン<NEWLINE>背水のかまえ<NEWLINE>ばくれつけん<NEWLINE>心機一転<NEWLINE>まもりの霧<NEWLINE>ザバマータ<NEWLINE>アイアンゲイザー<NEWLINE>つなみ<NEWLINE>などを覚える
-スキル「キャット・リベリオ」で<NEWLINE>爆発ガード＋<NEWLINE>耐性ガード＋<NEWLINE>攻撃力ガード＋<NEWLINE>黒い霧<NEWLINE>白い霧<NEWLINE>赤い霧<NEWLINE>光のはもん<NEWLINE>ゼロのしょうげき<NEWLINE>などを覚える
-スキル「怪獣プスゴン」で<NEWLINE>たいあたり<NEWLINE>だいぼうぎょ<NEWLINE>乱心のかまえ<NEWLINE>やけつく息<NEWLINE>特攻<NEWLINE>息をすいこむ<NEWLINE>ハッスルダンス<NEWLINE>守滅の刻<NEWLINE>などを覚える
-スキル「覚醒プスゴン」で<NEWLINE>爆発ガード＋<NEWLINE>ギガデイン<NEWLINE>イオナズン<NEWLINE>まわしげり<NEWLINE>チェンジ<NEWLINE>特攻<NEWLINE>パルプンテ<NEWLINE>デイナマータ<NEWLINE>などを覚える
-スキル「破戒王ベルムド」で<NEWLINE>バギクロス<NEWLINE>おたけび<NEWLINE>におう斬り<NEWLINE>たいあたり<NEWLINE>せいけんづき<NEWLINE>狂気のかまえ<NEWLINE>スキップ<NEWLINE>バギマータ<NEWLINE>などを覚える
-スキル「魔元帥ゼルドラド」で<NEWLINE>いてつくはもん<NEWLINE>天地のかまえ<NEWLINE>物理よそく<NEWLINE>ぎゃくふう<NEWLINE>心機一転<NEWLINE>スキップ<NEWLINE>ジゴデイン<NEWLINE>イオグランデ<NEWLINE>などを覚える
-スキル「魔女グレイツェル」で<NEWLINE>タメトラ踊り<NEWLINE>マホトラ踊り<NEWLINE>やけつく踊り<NEWLINE>さそう踊り<NEWLINE>ポイズンステップ<NEWLINE>呪いのルンバ<NEWLINE>死の踊り<NEWLINE>ミラーステップ<NEWLINE>などを覚える
-スキル「暴君バサグランデ」で<NEWLINE>おたけび<NEWLINE>ベギラゴン<NEWLINE>光のはもん<NEWLINE>いてつくはもん<NEWLINE>デイナマータ<NEWLINE>ギラマータ<NEWLINE>攻撃力＋２０<NEWLINE>守備力＋４０<NEWLINE>などを覚える
-スキル「天魔クァバルナ」で<NEWLINE>まわしげり<NEWLINE>メラゾーマ<NEWLINE>光のはもん<NEWLINE>ドルモーア<NEWLINE>いてつくはもん<NEWLINE>イオナズン<NEWLINE>自動ＨＰ回復<NEWLINE>自動ＭＰ回復<NEWLINE>などを覚える
-スキル「守護者ラズバーン」で<NEWLINE>さみだれ斬り<NEWLINE>せいけんづき<NEWLINE>光のはもん<NEWLINE>いてつくはもん<NEWLINE>れんごく火炎<NEWLINE>星のきせき<NEWLINE>ゆうきの斬舞<NEWLINE>最大ＨＰ＋２０<NEWLINE>などを覚える
-スキル「赤飛竜」で<NEWLINE>しゃくねつ<NEWLINE>おたけび<NEWLINE>攻撃力ガード＋<NEWLINE>やいばくだき<NEWLINE>つるぎのまい<NEWLINE>さみだれ斬り<NEWLINE>攻撃力＋２０<NEWLINE>火炎竜<NEWLINE>などを覚える
-スキル「青飛竜」で<NEWLINE>かがやく息<NEWLINE>おたけび<NEWLINE>かしこさガード＋<NEWLINE>テンプルブロー<NEWLINE>つるぎのまい<NEWLINE>さみだれ斬り<NEWLINE>かしこさ＋４０<NEWLINE>つなみ<NEWLINE>などを覚える
-スキル「黄飛竜」で<NEWLINE>しんくうは<NEWLINE>おたけび<NEWLINE>すばやさガード＋<NEWLINE>すねくだき<NEWLINE>つるぎのまい<NEWLINE>さみだれ斬り<NEWLINE>すばやさ＋４０<NEWLINE>トルネード<NEWLINE>などを覚える
-スキル「凶鳥フレス」で<NEWLINE>インテ<NEWLINE>賢滅の刻<NEWLINE>マフール<NEWLINE>ドルモーア<NEWLINE>かしこさガード＋<NEWLINE>ゼロのしょうげき<NEWLINE>かくらんの叫び<NEWLINE>冥界の霧<NEWLINE>などを覚える
-スキル「大食王ボーショック」で<NEWLINE>タメトラ<NEWLINE>魔神斬り<NEWLINE>気力吸収ガード＋<NEWLINE>王様のロンド<NEWLINE>リバース<NEWLINE>無心のかまえ<NEWLINE>ばくれつけん<NEWLINE>ハッスルダンス<NEWLINE>などを覚える
-スキル「強奪王ブンドルド」で<NEWLINE>タメトラ<NEWLINE>マホトラ<NEWLINE>ザキ<NEWLINE>気力吸収ガード＋<NEWLINE>ミラクルソード<NEWLINE>ザラキ<NEWLINE>みちづれのワルツ<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>などを覚える
-スキル「狡猾王アーザムーク」で<NEWLINE>かくらんの叫び<NEWLINE>マホトラ踊り<NEWLINE>メダパーニャ<NEWLINE>ラリホーマ<NEWLINE>ぶきみな光<NEWLINE>ゼロのしょうげき<NEWLINE>ラウンドゼロ<NEWLINE>チェンジ<NEWLINE>などを覚える
-スキル「拷問王イッタブル」で<NEWLINE>もうどくの息<NEWLINE>じゅそのこえ<NEWLINE>おたけび<NEWLINE>自動ＨＰ回復<NEWLINE>自動ＭＰ回復<NEWLINE>ヘルメリト<NEWLINE>攻滅の刻<NEWLINE>賢滅の刻<NEWLINE>などを覚える
-スキル「ガルマザード」で<NEWLINE>無明斬り<NEWLINE>ばくれつけん<NEWLINE>みなごろし<NEWLINE>ゆうきの斬舞<NEWLINE>乱心のかまえ<NEWLINE>天地のかまえ<NEWLINE>ドルマータ<NEWLINE>やみのはもん<NEWLINE>などを覚える
-スキル「ダグジャガルマ」で<NEWLINE>圧縮斬り<NEWLINE>ハッスルダンス<NEWLINE>ブラックホール<NEWLINE>夢想のかまえ<NEWLINE>ベタナマータ<NEWLINE>てんびんのタンゴ<NEWLINE>やみのはもん<NEWLINE>いてつくはもん<NEWLINE>などを覚える
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
-スキル「火ガードEX」で<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「水ガードEX」で<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「風ガードEX」で<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「地ガードEX」で<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「爆発ガードEX」で<NEWLINE>爆発ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「氷結ガードEX」で<NEWLINE>氷結ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「電撃ガードEX」で<NEWLINE>電撃ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「重力ガードEX」で<NEWLINE>重力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「光ガードEX」で<NEWLINE>光ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>などを覚える
-スキル「闇ガードEX」で<NEWLINE>闇ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「攻撃力ガードEX」で<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「守備力ガードEX」で<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「すばやさガードEX」で<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「かしこさガードEX」で<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「命中ガードEX」で<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「耐性ガードEX」で<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「ＭＰ吸収ガードEX」で<NEWLINE>ＭＰ吸収ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「気力吸収ガードEX」で<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「こんらんガードEX」で<NEWLINE>こんらんガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>攻撃力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>攻撃力＋１２<NEWLINE>などを覚える
-スキル「ねむりガードEX」で<NEWLINE>ねむりガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>かしこさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>かしこさ＋２４<NEWLINE>などを覚える
-スキル「マヒガードEX」で<NEWLINE>マヒガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>守備力ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>守備力＋２４<NEWLINE>などを覚える
-スキル「休みガードEX」で<NEWLINE>休みガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>すばやさガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>すばやさ＋２４<NEWLINE>などを覚える
-スキル「どくガードEX」で<NEWLINE>どくガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>命中ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>などを覚える
-スキル「呪いガードEX」で<NEWLINE>呪いガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>耐性ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「即死ガードEX」で<NEWLINE>即死ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>気力吸収ガード＋<NEWLINE>最大ＭＰ＋２４<NEWLINE>最大ＨＰ＋１２<NEWLINE>などを覚える
-スキル「火＆爆発ガードEX」で<NEWLINE>火ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力ガード＋<NEWLINE>攻撃力＋８<NEWLINE>火ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「水＆氷結ガードEX」で<NEWLINE>水ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさガード＋<NEWLINE>かしこさ＋１６<NEWLINE>水ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「風＆電撃ガードEX」で<NEWLINE>風ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさガード＋<NEWLINE>すばやさ＋１６<NEWLINE>風ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「地＆重力ガードEX」で<NEWLINE>地ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力ガード＋<NEWLINE>守備力＋１６<NEWLINE>地ガード＋<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「溶岩ガードEX」で<NEWLINE>火ガード＋<NEWLINE>地ガード＋<NEWLINE>爆発ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>攻撃力＋８<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「吹雪ガードEX」で<NEWLINE>水ガード＋<NEWLINE>風ガード＋<NEWLINE>氷結ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>かしこさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「雷火ガードEX」で<NEWLINE>風ガード＋<NEWLINE>火ガード＋<NEWLINE>電撃ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>すばやさ＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
-スキル「深海ガードEX」で<NEWLINE>地ガード＋<NEWLINE>水ガード＋<NEWLINE>重力ガード＋<NEWLINE>最大ＭＰ＋１６<NEWLINE>最大ＨＰ＋８<NEWLINE>守備力＋１６<NEWLINE>最大ＨＰ＋１２<NEWLINE>最大ＭＰ＋２４<NEWLINE>などを覚える
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
-スキル「見習い戦士」で<NEWLINE>火炎斬り<NEWLINE>最大ＨＰ＋２<NEWLINE>水流斬り<NEWLINE>攻撃力＋４<NEWLINE>やいばくだき<NEWLINE>守備力＋８<NEWLINE>魔神斬り<NEWLINE>を覚える
-スキル「戦士の知恵」で<NEWLINE>ルカニ<NEWLINE>攻撃力＋８<NEWLINE>バイキルト<NEWLINE>攻撃力＋８<NEWLINE>ルカナン<NEWLINE>攻撃力＋２０<NEWLINE>バイシオン<NEWLINE>攻撃力＋２４<NEWLINE>などを覚える
-スキル「戦士の裏技」で<NEWLINE>すなけむり<NEWLINE>たいあたり<NEWLINE>さそう踊り<NEWLINE>魔神斬り<NEWLINE>ハッスルダンス<NEWLINE>特攻<NEWLINE>アタカンタ<NEWLINE>ちょうはつ<NEWLINE>などを覚える
-スキル「見習い魔法使い」で<NEWLINE>ザバ<NEWLINE>最大ＭＰ＋４<NEWLINE>バギマ<NEWLINE>かしこさ＋８<NEWLINE>メラ<NEWLINE>最大ＭＰ＋８<NEWLINE>ジバリア<NEWLINE>を覚える
-スキル「魔法使いの知恵」で<NEWLINE>ドルモーア<NEWLINE>呪いガード＋<NEWLINE>呪いのルンバ<NEWLINE>ベタロール<NEWLINE>みなごろし<NEWLINE>ザラキ<NEWLINE>ドルマドン<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「魔法使いの裏技」で<NEWLINE>無明斬り<NEWLINE>闇ガード＋<NEWLINE>もろば斬り<NEWLINE>ドルモーア<NEWLINE>呪いの鉄槌<NEWLINE>ドルマドン<NEWLINE>みちづれのワルツ<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「見習い僧侶」で<NEWLINE>ホイミ<NEWLINE>デイン<NEWLINE>キアリー<NEWLINE>キアラル<NEWLINE>キアリク<NEWLINE>ギラ<NEWLINE>ベホイミ<NEWLINE>を覚える
-スキル「僧侶の知恵」で<NEWLINE>リベホイミ<NEWLINE>かしこさ＋３２<NEWLINE>踊りよそく<NEWLINE>息よそく<NEWLINE>ベホマラー<NEWLINE>体技よそく<NEWLINE>呪文よそく<NEWLINE>最大ＭＰ＋４８<NEWLINE>などを覚える
-スキル「僧侶の裏技」で<NEWLINE>ベギラマ<NEWLINE>気力吸収ガード＋<NEWLINE>光明斬り<NEWLINE>シャナク<NEWLINE>リベホイミ<NEWLINE>ベギラゴン<NEWLINE>リベホイム<NEWLINE>光ガード＋<NEWLINE>などを覚える
-スキル「見習い武闘家」で<NEWLINE>しっぷうづき<NEWLINE>攻撃力＋２<NEWLINE>みかわしきゃく<NEWLINE>すばやさ＋８<NEWLINE>テンプルブロー<NEWLINE>攻撃力＋４<NEWLINE>まわしげり<NEWLINE>を覚える
-スキル「武闘家の知恵」で<NEWLINE>もろば斬り<NEWLINE>すてみ<NEWLINE>かくらんの叫び<NEWLINE>狂気のかまえ<NEWLINE>特攻<NEWLINE>みなごろし<NEWLINE>乱心のかまえ<NEWLINE>攻撃力ガード＋<NEWLINE>などを覚える
-スキル「武闘家の裏技」で<NEWLINE>すねくだき<NEWLINE>攻撃力＋１６<NEWLINE>ジバリーナ<NEWLINE>テンションパサー<NEWLINE>バイキルト<NEWLINE>アンカーナックル<NEWLINE>ジバルンバ<NEWLINE>最大ＨＰ＋２４<NEWLINE>などを覚える
-スキル「見習い盗賊」で<NEWLINE>ピオラ<NEWLINE>すばやさ＋４<NEWLINE>ぬすっと斬り<NEWLINE>すばやさ＋８<NEWLINE>ベタン<NEWLINE>すばやさ＋８<NEWLINE>ゴールドアタック<NEWLINE>を覚える
-スキル「盗賊の知恵」で<NEWLINE>しっぷうづき<NEWLINE>ピオラ<NEWLINE>ボミエ<NEWLINE>ベホマラー<NEWLINE>ピオリム<NEWLINE>ハヤブサのふえ<NEWLINE>晩成のかまえ<NEWLINE>すばやさガード＋<NEWLINE>などを覚える
-スキル「盗賊の裏技」で<NEWLINE>こごえる吹雪<NEWLINE>氷結ガード＋<NEWLINE>ザラキ<NEWLINE>ステルスアタック<NEWLINE>死の踊り<NEWLINE>かがやく息<NEWLINE>レクイエムのふえ<NEWLINE>即死ガード＋<NEWLINE>などを覚える
-スキル「見習い旅芸人」で<NEWLINE>バギ<NEWLINE>にげあし<NEWLINE>ボミエ<NEWLINE>せんせいりつアップ<NEWLINE>フール<NEWLINE>スカウト％アップ＋<NEWLINE>ヒャド<NEWLINE>を覚える
-スキル「旅芸人の知恵」で<NEWLINE>タメトラ踊り<NEWLINE>もうどくの息<NEWLINE>さそう踊り<NEWLINE>まどいの息<NEWLINE>マホトラ踊り<NEWLINE>やけつく踊り<NEWLINE>ミラーステップ<NEWLINE>死神の息吹<NEWLINE>などを覚える
-スキル「旅芸人の裏技」で<NEWLINE>ボミオス<NEWLINE>もろば斬り<NEWLINE>マホトラ踊り<NEWLINE>テンションシフト<NEWLINE>マフール<NEWLINE>遊び人のマイム<NEWLINE>ぎゃくふう<NEWLINE>ミラーステップ<NEWLINE>などを覚える
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
--<NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE><NEWLINE>
-スキル「こんらんの力」で<NEWLINE>メダパニ<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>まどいの息<NEWLINE>最大ＭＰ＋８<NEWLINE>こんらんガード＋<NEWLINE>を覚える
-スキル「ねむりの力」で<NEWLINE>ラリホー<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>あまい息<NEWLINE>最大ＭＰ＋８<NEWLINE>ねむりガード＋<NEWLINE>を覚える
-スキル「マヒの力」で<NEWLINE>やけつく息<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>すねくだき<NEWLINE>最大ＭＰ＋８<NEWLINE>マヒガード＋<NEWLINE>を覚える
-スキル「休みの力」で<NEWLINE>なめまわし<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>おたけび<NEWLINE>最大ＭＰ＋８<NEWLINE>休みガード＋<NEWLINE>を覚える
-スキル「どくの力」で<NEWLINE>どくの息<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>やいばくだき<NEWLINE>最大ＭＰ＋８<NEWLINE>どくガード＋<NEWLINE>を覚える
-スキル「呪いの力」で<NEWLINE>呪いのことば<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>テンプルブロー<NEWLINE>最大ＭＰ＋８<NEWLINE>呪いガード＋<NEWLINE>を覚える
-スキル「死の力」で<NEWLINE>ザキ<NEWLINE>最大ＭＰ＋４<NEWLINE>最大ＭＰ＋４<NEWLINE>バハック<NEWLINE>かぶとわり<NEWLINE>最大ＭＰ＋８<NEWLINE>即死ガード＋<NEWLINE>を覚える
-スキル「大いなる東の力」で<NEWLINE>まどいの息<NEWLINE>夢想のかまえ<NEWLINE>ヒュプノスハント<NEWLINE>大きなため息<NEWLINE>光の旋風<NEWLINE>しゃくねつ<NEWLINE>だいぼうぎょ<NEWLINE>呪いの鉄槌<NEWLINE>などを覚える
-スキル「ふしぎな西の力」で<NEWLINE>サゲサゲチョップ<NEWLINE>ポイズンステップ<NEWLINE>テンションシフト<NEWLINE>王様のロンド<NEWLINE>チェンジ<NEWLINE>シャッフル<NEWLINE>じごくの踊り<NEWLINE>てんびんのタンゴ<NEWLINE>などを覚える
-スキル「火山の力」で<NEWLINE>火炎斬り<NEWLINE>発火<NEWLINE>爆砕斬り<NEWLINE>キアリー<NEWLINE>特攻<NEWLINE>ちょうはつ<NEWLINE>おにび<NEWLINE>を覚える
-スキル「氷海の力」で<NEWLINE>水流斬り<NEWLINE>水しぶき<NEWLINE>零度斬り<NEWLINE>キアラル<NEWLINE>ミラクルソード<NEWLINE>かくれる<NEWLINE>てっぽう水<NEWLINE>を覚える
-スキル「雷雲の力」で<NEWLINE>真空斬り<NEWLINE>かまいたち<NEWLINE>雷鳴斬り<NEWLINE>キアリク<NEWLINE>しっぷうづき<NEWLINE>みかわしきゃく<NEWLINE>しんくうは<NEWLINE>を覚える
-スキル「神々の力」で<NEWLINE>岩石斬り<NEWLINE>いわなげ<NEWLINE>圧縮斬り<NEWLINE>シャナク<NEWLINE>せいけんづき<NEWLINE>すなけむり<NEWLINE>じひびき<NEWLINE>を覚える
-スキル「深淵の力」で<NEWLINE>光明斬り<NEWLINE>星くず<NEWLINE>無明斬り<NEWLINE>バーハ<NEWLINE>パイルハンマー<NEWLINE>ぶきみな光<NEWLINE>流星<NEWLINE>を覚える
-スキル「火山の力SP」で<NEWLINE>火炎斬り<NEWLINE>爆砕斬り<NEWLINE>おにび<NEWLINE>ちょうはつ<NEWLINE>物理よそく<NEWLINE>もろば斬り<NEWLINE>天地のかまえ<NEWLINE>火炎竜<NEWLINE>などを覚える
-スキル「氷海の力SP」で<NEWLINE>水流斬り<NEWLINE>零度斬り<NEWLINE>てっぽう水<NEWLINE>かくれる<NEWLINE>呪文よそく<NEWLINE>ステルスアタック<NEWLINE>マホターン<NEWLINE>つなみ<NEWLINE>などを覚える
-スキル「雷雲の力SP」で<NEWLINE>真空斬り<NEWLINE>雷鳴斬り<NEWLINE>しんくうは<NEWLINE>みかわしきゃく<NEWLINE>体技よそく<NEWLINE>ばくれつけん<NEWLINE>無心のかまえ<NEWLINE>トルネード<NEWLINE>などを覚える
-スキル「神々の力SP」で<NEWLINE>岩石斬り<NEWLINE>圧縮斬り<NEWLINE>じひびき<NEWLINE>すなけむり<NEWLINE>息よそく<NEWLINE>ぎゃくふう<NEWLINE>におう斬り<NEWLINE>がんせきおとし<NEWLINE>などを覚える
-スキル「深淵の力SP」で<NEWLINE>光明斬り<NEWLINE>無明斬り<NEWLINE>流星<NEWLINE>すなけむり<NEWLINE>踊りよそく<NEWLINE>ミラーステップ<NEWLINE>呪いの鉄槌<NEWLINE>ブラックホール<NEWLINE>などを覚える
-スキル「王の力SP」で<NEWLINE>光明斬り<NEWLINE>光の旋風<NEWLINE>修羅の獄<NEWLINE>命中ガード＋<NEWLINE>光ガード＋<NEWLINE>じごくの踊り<NEWLINE>最大ＨＰ＋３０<NEWLINE>ギラグレイド<NEWLINE>などを覚える
-スキル「魔王の力SP」で<NEWLINE>無明斬り<NEWLINE>ぶきみな光<NEWLINE>幻魔の獄<NEWLINE>耐性ガード＋<NEWLINE>闇ガード＋<NEWLINE>呪いの鉄槌<NEWLINE>最大ＭＰ＋６０<NEWLINE>ドルマドン<NEWLINE>などを覚える
-スキル「ＤＱ３０周年SP」で<NEWLINE>リバース<NEWLINE>シャイニングボウ<NEWLINE>グランドネビュラ<NEWLINE>光ガード＋<NEWLINE>闇ガード＋<NEWLINE>グランドクロス<NEWLINE>最大ＨＰ＋３０<NEWLINE>メドローア<NEWLINE>などを覚える
--
--
--
--
--
--
--
--
--
--
--
--
--
-静寂の草原で<NEWLINE>空の遺跡を動かす　ふしぎな石
-崩落都市で<NEWLINE>空の遺跡を動かす　ふしぎな石
-歓楽の霊道で<NEWLINE>空の遺跡を動かす　ふしぎな石
-凍骨の氷原で<NEWLINE>空の遺跡を動かす　ふしぎな石
-黒鉄の監獄塔で<NEWLINE>空の遺跡を動かす　ふしぎな石
-焦熱の火山で<NEWLINE>空の遺跡を動かす　ふしぎな石
--
--
--
--
-肉屋に伝わる　秘伝書<NEWLINE>肉屋に　持っていくと<NEWLINE>しもふり肉を　売り出す
-商人に伝わる　秘伝書<NEWLINE>道具屋に　持っていくと<NEWLINE>貴重な道具を　売り出す
--
--
--
--
--
--
--
--
-凶スライムを　生み出す魂
-凶キメラを　生み出す魂
-凶だいおうイカを　生み出す魂
-凶キングリザードを　生み出す魂
-凶にじくじゃくを　生み出す魂
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-アンデッドガーデンの　扉のカギ
--
--
-黒鉄の監獄塔の　看守のあかし
-黒鉄の監獄塔の　ろうやのカギ
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+［無し］<TR>
+味方1体の{?e3-15}HPを30回復<TR>
+味方1体の{?e3-15}HPを60回復<TR>
+味方1体の{?e3-15}HPを120回復<TR>
+味方1体の{?e3-15}HPを240回復<TR>
+味方全体の{?e3-15}HPを100～120回復<TR>
+味方全体の{?e3-15}HPを50～60回復<TR>
+味方1体の{?e3-15}MPを30回復<TR>
+味方1体の{?e3-15}MPを90回復<TR>
+味方1体の{?e3-15}MPを　完全に回復<TR>
+死んでいる味方1体を{?e3-15}復活させる<TR>
+死んでいる味方全員を　復活させ{?e3-15}HPとMPを　完全に回復する<TR>
+4ラウンドの間　味方1体の{?e3-15}攻撃力を　かなり上げる<TR>
+4ラウンドの間　味方全体の{?e3-15}攻撃力を上げる<TR>
+4ラウンドの間　敵1体の{?e3-15}攻撃力を　かなり下げる<TR>
+4ラウンドの間　敵全体の{?e3-15}攻撃力を下げる<TR>
+4ラウンドの間　味方1体の{?e3-15}守備力を　かなり上げる<TR>
+4ラウンドの間　味方全体の{?e3-15}守備力を上げる<TR>
+4ラウンドの間　敵1体の{?e3-15}守備力を　かなり下げる<TR>
+4ラウンドの間　敵全体の{?e3-15}守備力を下げる<TR>
+4ラウンドの間　味方1体の{?e3-15}すばやさを　かなり上げる<TR>
+4ラウンドの間　味方全体の{?e3-15}すばやさを上げる<TR>
+4ラウンドの間　敵1体の{?e3-15}すばやさを　かなり下げる<TR>
+4ラウンドの間　敵全体の{?e3-15}すばやさを下げる<TR>
+4ラウンドの間　味方1体の{?e3-15}かしこさを　かなり上げる<TR>
+4ラウンドの間　味方全体の{?e3-15}かしこさを上げる<TR>
+4ラウンドの間　敵1体の{?e3-15}かしこさを　かなり下げる<TR>
+4ラウンドの間　敵全体の{?e3-15}かしこさを下げる<TR>
+味方全体の{?e3-15}テンションを上げる<TR>
+味方1体の{?e3-15}あらゆる耐性が高くなる<TR>
+味方全体の{?e3-15}あらゆる耐性が高くなる<TR>
+味方1体の{?e3-15}ねむりや　こんらんを治す<TR>
+味方1体の{?e3-15}マヒを治す<TR>
+味方1体の{?e3-15}どくや　もうどくを治す<TR>
+味方１体の{?e3-15}悪い状態を治す<TR>
+敵1体に　なにか{?e3-15}悪い状態変化をもたらす<TR>
+味方1体の{?e3-15}最大HPが　2～4　上がる<TR>
+味方1体の{?e3-15}最大MPが　2～4　上がる<TR>
+味方1体の{?e3-15}攻撃力が　1～2　上がる<TR>
+味方1体の{?e3-15}すばやさが　1～2　上がる<TR>
+味方1体の{?e3-15}守備力が　1～2　上がる<TR>
+味方1体の{?e3-15}かしこさが　1～2　上がる<TR>
+味方1体の{?e3-15}スキルポイントが　3　増える<TR>
+味方1体の{?e3-15}Lvが1上がる<TR>
+スカウトが成功しやすくなる{?e3-15}モンスターが　好きな肉<TR>
+スカウトが成功しやすくなる{?e3-15}モンスターが　大好きな肉<TR>
+スカウトが成功しやすくなる{?e3-15}モンスターが　とっても大好きな肉<TR>
+スカウトが成功しやすくなる{?e3-15}モンスターが　最高に大好きな肉<TR>
+スカウトが　必ず　成功する{?e3-15}モンスターが　究極に愛する肉<TR>
+くさった　あやしい肉{?e3-15}相手を　どくにさせることもあるが{?e3-15}一応　スカウトが成功しやすくなる<TR>
+かぐわしい　においがする　落とし物{?e3-15}戦闘中に　投げつけることができる{?e3-15}0～1のダメージしか与えないが{?e3-15}メタルボディに効果てきめん<TR>
+戦闘中に　投げつけて使う{?e3-15}あたるとイタイ　石ころ{?e3-15}0～1のダメージしか与えないが{?e3-15}メタルボディに効果てきめん<TR>
+戦闘中に　投げつけて使う{?e3-15}メチャクチャかたい　めずらしい石{?e3-15}1～3のダメージしか与えないが{?e3-15}メタルボディに効果てきめん<TR>
+戦闘中に　投げつけて使う{?e3-15}あたると爆発する　キケンな石{?e3-15}敵1体の　HPを1にする{?e3-15}即死耐性のある敵には　効果がない<TR>
+味方1体の{?e3-15}最大HPが　100　上がる<TR>
+味方1体の{?e3-15}最大MPが　200　上がる<TR>
+味方1体の{?e3-15}攻撃力が　100　上がる<TR>
+味方1体の{?e3-15}すばやさが　200　上がる<TR>
+味方1体の{?e3-15}守備力が　200　上がる<TR>
+味方1体の{?e3-15}かしこさが　200　上がる<TR>
+キングが集めているメダル{?e3-15}たくさん集めて　キングに渡すと{?e3-15}いろいろな　ごほうびがもらえる<TR>
+お店で　買い物をするとき{?e3-15}売り物の値段が　安くなる<TR>
+味方1体の{?e3-15}スキルポイントが　100　増える<TR>
+見たこともない　技術で作られている{?e3-15}ハイテクサポートガジェット<TR>
+使うと　大空に　飛び立つ<TR>
+凶悪なオーラを　まとった{?e3-15}マデュライト<TR>
+使うと　戦闘で入手する{?e3-15}経験値やゴールドが　2倍になる{?e3-15}10回　戦闘すると{?e3-15}元気玉の効果は　消える<TR>
+超しもふりにくと　交換できる券<TR>
+使うと　戦闘で入手する{?e3-15}経験値やゴールドが　2倍になる{?e3-15}1回　戦闘すると{?e3-15}小元気玉の効果は　消える<TR>
+ＭＡＰなディスクを　まとめるファイル<TR>
+10回のあいだ　戦闘で入手する{?e3-15}経験値やゴールドが　2倍になる{?e3-15}なお　スタンバイや預かり所の仲間も{?e3-15}パーティと同量の経験値を　入手できる<TR>
+<TR>
+<TR>
+<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+緑色に　かがやく{?e3-15}スターシードのカケラのひとつ<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+青色に　かがやく{?e3-15}スターシードのカケラのひとつ<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+赤色に　かがやく{?e3-15}スターシードのカケラのひとつ<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+<TR>
+ノチョーラ族に伝わる　秘伝書{?e3-15}本屋に　持っていくと{?e3-15}売っている証が　増える<TR>
+地獄の帝王を呼び出すカケラ{?e3-15}5つ集めると……<TR>
+地獄の帝王を呼び出すカケラ{?e3-15}5つ集めると……<TR>
+地獄の帝王を呼び出すカケラ{?e3-15}5つ集めると……<TR>
+地獄の帝王を呼び出すカケラ{?e3-15}5つ集めると……<TR>
+地獄の帝王を呼び出すカケラ{?e3-15}5つ集めると……<TR>
+センタービル　29階の{?e3-15}セキュリティを　解除する<TR>
+センタービル　30階の{?e3-15}セキュリティを　解除する<TR>
+モノリスの{?e3-15}セキュリティを　解除する<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}かすかにチカラを宿した　鉱石のかけら<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}鉄を含んだ　ありふれた鉱石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}古い地層から出た　小さめの化石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}銅を含んだ　ありふれた鉱石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}銀を含んだ　ありふれた鉱石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}古い地層から出た　大きな化石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}ひときわ重い　金属のかたまり<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}大いなる精霊の　チカラを宿す石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}金のまじった　貴重な鉱石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}プラチナのまじった　貴重な鉱石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}まばゆい光を放つ　聖なる石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}異界の幻魔が　魔力を込めた石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}マ素を含んだ　とても硬い結晶<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}久遠の時を経て　生成された水晶<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}正体不明の　金属のかけら<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}かすかに　チカラを宿した　生物の痕跡<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}スライムのような　プルプルゼリー<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}色あざやかな　チョウチョの羽<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}浜辺に落ちている　小さめの貝がら<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}人のツメくらいの　小さいうろこ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}魔物が落とす　じょうぶな皮<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}魔物が落とす　とがったキバ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}やわらかくて　あたたかい毛皮<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}なかなか見かけない　大きめの貝がら<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}少し厚みのある　大きいうろこ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}ミイラに巻かれた　うす汚れた包帯<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}魔獣が落とす　頑丈な皮<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}ドラゴンが落とす　めずらしい皮<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}風を切って飛ぶ　巨鳥の羽根<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}幻獣が落とす　神秘的な皮<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}かすかに　チカラを宿した　植物の痕跡<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}こぶしの形をした　変わったキノコ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}まるで　石のように　かたいくるみ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}さわろうとすると　よけるほど軽い草<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}人々を　さとりに導くという草<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}花の甘い香りが　ただようみつ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}海辺にただよう　謎めいた海草<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}炎のように熱い　真っ赤な樹木<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}冷気をまとう　ひんやりした樹木<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}キラキラかがやく　神秘的な草<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}暗黒の木を宿した　ただならぬ樹木<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}トゲまで大きい　新種のサボテン<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}魔力を宿した　ふしぎな樹木<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}月夜に光る木の　樹液を集めたもの<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}妖精が育てた　めずらしい綿花<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}かすかに　チカラを宿した　魔導の痕跡<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}冷えて固まった　溶岩のかたまり<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}きれいにすんだ　自然のわき水<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}ようせいの羽ばたきで　ふりそそぐ粒子<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}魔力を宿した　土のかたまり<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}静かに　揺れつづける　熱くない火<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}雷のチカラが　結晶化した玉<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}冷気をまとった　きれいな結晶<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}毒まみれの　ドロのかたまり<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}星がかがやく夜に　光を集めたしずく<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}糸に水が流れる　神秘のせんい<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}千夜をかけて　染めぬいた黒い布<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}徳をつんだ　聖者の遺灰<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}天使のチカラが　宿った液体<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}共に戦い過ごした　装備品たちの結晶<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}かすかに　チカラを宿した　宝石のかけら<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}赤い光を放つ　貴重な石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}青い光を放つ　貴重な石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}黄色い光を放つ　貴重な石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}緑の光を放つ　貴重な石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}紫の光を放つ　貴重な石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}情熱を秘めた　赤色の宝石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}感覚をとぎすます　青色の宝石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}幸福をもたらす　黄色の宝石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}心が落ち着く　緑色の宝石<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}とても貴重な　赤いオーブ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}とても貴重な　青いオーブ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}とても貴重な　黄色いオーブ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}とても貴重な　緑のオーブ<TR>
+アクセサリーや　刻印を作る　専用素材{?e3-15}とても貴重な　紫のオーブ<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+攻撃力　＋10<TR>
+攻撃力　＋30<TR>
+攻撃力　＋60<TR>
+攻撃力　＋100<TR>
+守備力　＋20<TR>
+守備力　＋60<TR>
+守備力　＋120<TR>
+守備力　＋200<TR>
+すばやさ＋20<TR>
+すばやさ＋60<TR>
+すばやさ＋120<TR>
+すばやさ＋200<TR>
+かしこさ＋20<TR>
+かしこさ＋60<TR>
+かしこさ＋120<TR>
+かしこさ＋200<TR>
+最大ＨＰ＋40{?e3-15}攻撃力　＋20{?e3-15}特性「地ガード小」<TR>
+最大ＨＰ＋40{?e3-15}守備力　＋40{?e3-15}特性「風ガード小」<TR>
+最大ＨＰ＋40{?e3-15}かしこさ＋40{?e3-15}特性「水ガード小」<TR>
+攻撃力　＋10{?e3-15}守備力　＋20{?e3-15}特性「自動ＨＰ回復小」<TR>
+最大ＭＰ＋20{?e3-15}かしこさ＋20{?e3-15}特性「呪文会心率アップ小」<TR>
+最大ＭＰ＋20{?e3-15}守備力　＋10{?e3-15}かしこさ＋10{?e3-15}特性「自動ＭＰ回復小」<TR>
+攻撃力　＋10{?e3-15}すばやさ＋20{?e3-15}特性「会心率アップ小」<TR>
+最大ＨＰ＋10{?e3-15}すばやさ＋20{?e3-15}特性「アイテム％アップ小」<TR>
+最大ＭＰ＋10{?e3-15}すばやさ＋20{?e3-15}かしこさ＋10{?e3-15}特性「経験値アップ小」<TR>
+最大ＨＰ＋10{?e3-15}攻撃力　＋10{?e3-15}特性「スカウト％アップ＋」<TR>
+守備力　＋20{?e3-15}特性「こんらんガード小」<TR>
+守備力　＋20{?e3-15}特性「マヒガード小」<TR>
+守備力　＋20{?e3-15}特性「ねむりガード小」<TR>
+守備力　＋20{?e3-15}特性「休みガード小」<TR>
+守備力　＋20{?e3-15}特性「どくガード小」<TR>
+守備力　＋20{?e3-15}特性「呪いガード小」<TR>
+守備力　＋20{?e3-15}特性「即死ガード小」<TR>
+守備力　＋80{?e3-15}特性「こんらんガード小」<TR>
+守備力　＋80{?e3-15}特性「マヒガード小」<TR>
+守備力　＋80{?e3-15}特性「ねむりガード小」<TR>
+守備力　＋80{?e3-15}特性「休みガード小」<TR>
+守備力　＋80{?e3-15}特性「どくガード小」<TR>
+守備力　＋80{?e3-15}特性「呪いガード小」<TR>
+守備力　＋80{?e3-15}特性「即死ガード小」<TR>
+最大ＨＰ＋10{?e3-15}攻撃力　＋10{?e3-15}守備力　＋20<TR>
+最大ＨＰ＋20{?e3-15}攻撃力　＋20{?e3-15}守備力　＋40<TR>
+最大ＨＰ＋30{?e3-15}攻撃力　＋30{?e3-15}守備力　＋80<TR>
+最大ＨＰ＋10{?e3-15}攻撃力　＋10{?e3-15}すばやさ＋20<TR>
+最大ＨＰ＋20{?e3-15}攻撃力　＋20{?e3-15}すばやさ＋40<TR>
+最大ＨＰ＋30{?e3-15}攻撃力　＋30{?e3-15}すばやさ＋80{?e3-15}特性「アンチみかわしアップ」<TR>
+最大ＭＰ＋20{?e3-15}すばやさ＋20{?e3-15}かしこさ＋20<TR>
+最大ＭＰ＋40{?e3-15}すばやさ＋40{?e3-15}かしこさ＋40<TR>
+最大ＭＰ＋60{?e3-15}すばやさ＋60{?e3-15}かしこさ＋80<TR>
+最大ＨＰ＋10{?e3-15}守備力　＋20{?e3-15}すばやさ＋20<TR>
+最大ＨＰ＋20{?e3-15}守備力　＋40{?e3-15}すばやさ＋40<TR>
+最大ＨＰ＋40{?e3-15}守備力　＋60{?e3-15}すばやさ＋60<TR>
+最大ＭＰ＋20{?e3-15}守備力　＋20{?e3-15}かしこさ＋20<TR>
+最大ＭＰ＋40{?e3-15}守備力　＋40{?e3-15}かしこさ＋40<TR>
+最大ＭＰ＋80{?e3-15}守備力　＋60{?e3-15}かしこさ＋60<TR>
+最大ＨＰ＋40{?e3-15}守備力　＋40{?e3-15}特性「自動ＨＰ回復小」<TR>
+最大ＭＰ＋80{?e3-15}かしこさ＋40{?e3-15}特性「自動ＭＰ回復小」<TR>
+攻撃力　＋10{?e3-15}すばやさ＋20{?e3-15}かしこさ＋20{?e3-15}特性「スモールキラー」<TR>
+攻撃力　＋10{?e3-15}守備力　＋20{?e3-15}かしこさ＋20{?e3-15}特性「ギガキラー」<TR>
+攻撃力　＋10{?e3-15}守備力　＋20{?e3-15}すばやさ＋20{?e3-15}特性「メタルキラー」<TR>
+特性「ラッキー」<TR>
+すばやさ＋20{?e3-15}特性「せんせいりつアップ」<TR>
+攻撃力　＋10{?e3-15}特性「ときどきバイキルト小」<TR>
+守備力　＋20{?e3-15}特性「ときどきスカラ小」<TR>
+すばやさ＋20{?e3-15}特性「ときどきピオラ小」<TR>
+かしこさ＋20{?e3-15}特性「ときどきインテ小」<TR>
+最大ＨＰ＋10{?e3-15}特性「まれにテンション」<TR>
+最大ＭＰ＋20{?e3-15}特性「しょうひＭＰせつやく」<TR>
+攻撃力　＋4{?e3-15}守備力　＋4{?e3-15}すばやさ＋4{?e3-15}かしこさ＋4<TR>
+攻撃力　＋12{?e3-15}守備力　＋12{?e3-15}すばやさ＋12{?e3-15}かしこさ＋12<TR>
+攻撃力　＋24{?e3-15}守備力　＋24{?e3-15}すばやさ＋24{?e3-15}かしこさ＋24<TR>
+特性「にげあし」<TR>
+特性「経験値アップ小」<TR>
+特性「経験値アップ中」<TR>
+特性「経験値アップ大」<TR>
+特性「アイテム％アップ小」<TR>
+特性「アイテム％アップ中」<TR>
+特性「アイテム％アップ大」<TR>
+特性「ゴールドアップ小」<TR>
+特性「ゴールドアップ中」<TR>
+特性「ゴールドアップ大」<TR>
+特性「スカウトアタック小」<TR>
+特性「スカウトアタック中」<TR>
+特性「スカウトアタック大」<TR>
+最大MP　＋10{?e3-15}すばやさ＋10{?e3-15}かしこさ＋20{?e3-15}特性「みかわしアップ」<TR>
+最大HP　＋5{?e3-15}攻撃力　＋10{?e3-15}すばやさ＋10{?e3-15}特性「せんせいりつアップ」<TR>
+最大HP　＋5{?e3-15}守備力　＋20{?e3-15}すばやさ＋10{?e3-15}特性「クスリのちしき」<TR>
+最大HP　＋10{?e3-15}最大MP　＋10{?e3-15}かしこさ＋10{?e3-15}特性「ツッコミ」<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+特性「火ブレイク小」<TR>
+特性「水ブレイク小」<TR>
+特性「風ブレイク小」<TR>
+特性「地ブレイク小」<TR>
+特性「爆発ブレイク小」<TR>
+特性「氷結ブレイク小」<TR>
+特性「電撃ブレイク小」<TR>
+特性「重力ブレイク小」<TR>
+特性「光ブレイク小」<TR>
+特性「闇ブレイク小」<TR>
+特性「こんらんブレイク小」<TR>
+特性「マヒブレイク小」<TR>
+特性「ねむりブレイク小」<TR>
+特性「休みブレイク小」<TR>
+特性「どくブレイク小」<TR>
+特性「呪いブレイク小」<TR>
+特性「即死ブレイク小」<TR>
+特性「パラメータブレイク小」<TR>
+特性「ジャミングブレイク小」<TR>
+特性「火ガード小」<TR>
+特性「水ガード小」<TR>
+特性「風ガード小」<TR>
+特性「地ガード小」<TR>
+特性「爆発ガード小」<TR>
+特性「氷結ガード小」<TR>
+特性「電撃ガード小」<TR>
+特性「重力ガード小」<TR>
+特性「光ガード小」<TR>
+特性「闇ガード小」<TR>
+特性「攻撃力ガード小」<TR>
+特性「守備力ガード小」<TR>
+特性「すばやさガード小」<TR>
+特性「かしこさガード小」<TR>
+特性「命中ガード小」<TR>
+特性「耐性ガード小」<TR>
+特性「ＭＰ吸収ガード小」<TR>
+特性「気力吸収ガード小」<TR>
+特性「こんらんガード小」<TR>
+特性「マヒガード小」<TR>
+特性「ねむりガード小」<TR>
+特性「休みガード小」<TR>
+特性「どくガード小」<TR>
+特性「呪いガード小」<TR>
+特性「即死ガード小」<TR>
+特性「ＨＰ成長力アップ小」<TR>
+特性「ＭＰ成長力アップ小」<TR>
+特性「攻撃力成長力アップ小」<TR>
+特性「守備力成長力アップ小」<TR>
+特性「素早さ成長力アップ小」<TR>
+特性「賢さ成長力アップ小」<TR>
+特性「スキル成長力アップ小」<TR>
+特性「ＨＰ成長力アップ」<TR>
+特性「ＭＰ成長力アップ」<TR>
+特性「攻撃力成長力アップ」<TR>
+特性「守備力成長力アップ」<TR>
+特性「素早さ成長力アップ」<TR>
+特性「賢さ成長力アップ」<TR>
+特性「スキル成長力アップ」<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+特性「ダメージ＋1」<TR>
+特性「ダメージ＋2」<TR>
+特性「ダメージ＋3」<TR>
+特性「会心率アップ小」<TR>
+特性「会心率アップ中」<TR>
+特性「会心率アップ大」<TR>
+特性「呪文会心率アップ小」<TR>
+特性「呪文会心率アップ中」<TR>
+特性「呪文会心率アップ大」<TR>
+特性「テンションバーン小」<TR>
+特性「テンションバーン中」<TR>
+特性「テンションバーン大」<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+スキル「火の使い手」で{?e3-15}メラ{?e3-15}最大ＭＰ＋４{?e3-15}火炎斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}メラミ{?e3-15}を覚える<TR>
+スキル「火の名手」で{?e3-15}火炎斬り{?e3-15}メラミ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}やいばくだき{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「火の探究者」で{?e3-15}メラゾーマ{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}火ガード＋{?e3-15}メラマータ{?e3-15}などを覚える<TR>
+スキル「火の達人」で{?e3-15}火炎斬り{?e3-15}最大ＭＰ＋４０{?e3-15}やいばくだき{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}火ガード＋{?e3-15}などを覚える<TR>
+スキル「水の使い手」で{?e3-15}ザバ{?e3-15}最大ＭＰ＋４{?e3-15}水流斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ザバラ{?e3-15}を覚える<TR>
+スキル「水の名手」で{?e3-15}水流斬り{?e3-15}ザバラ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}テンプルブロー{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「水の探究者」で{?e3-15}ザバラーン{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}水ガード＋{?e3-15}ザバマータ{?e3-15}などを覚える<TR>
+スキル「水の達人」で{?e3-15}水流斬り{?e3-15}最大ＭＰ＋４０{?e3-15}テンプルブロー{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}水ガード＋{?e3-15}などを覚える<TR>
+スキル「風の使い手」で{?e3-15}バギ{?e3-15}最大ＭＰ＋４{?e3-15}真空斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}バギマ{?e3-15}を覚える<TR>
+スキル「風の名手」で{?e3-15}真空斬り{?e3-15}バギマ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}すねくだき{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「風の探究者」で{?e3-15}バギクロス{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}風ガード＋{?e3-15}バギマータ{?e3-15}などを覚える<TR>
+スキル「風の達人」で{?e3-15}真空斬り{?e3-15}最大ＭＰ＋４０{?e3-15}やいばくだき{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}風ガード＋{?e3-15}などを覚える<TR>
+スキル「地の使い手」で{?e3-15}ジバリア{?e3-15}最大ＭＰ＋４{?e3-15}岩石斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ジバリカ{?e3-15}を覚える<TR>
+スキル「地の名手」で{?e3-15}岩石斬り{?e3-15}ジバリカ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}かぶとわり{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「地の探究者」で{?e3-15}ジバリーナ{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}地ガード＋{?e3-15}ジバマータ{?e3-15}などを覚える<TR>
+スキル「地の達人」で{?e3-15}岩石斬り{?e3-15}最大ＭＰ＋４０{?e3-15}かぶとわり{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}地ガード＋{?e3-15}などを覚える<TR>
+スキル「爆発の使い手」で{?e3-15}イオ{?e3-15}最大ＭＰ＋４{?e3-15}爆砕斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}イオラ{?e3-15}を覚える<TR>
+スキル「爆発の名手」で{?e3-15}爆砕斬り{?e3-15}イオラ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}やいばくだき{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「爆発の探究者」で{?e3-15}イオナズン{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}爆発ガード＋{?e3-15}イオマータ{?e3-15}などを覚える<TR>
+スキル「爆発の達人」で{?e3-15}爆砕斬り{?e3-15}最大ＭＰ＋４０{?e3-15}やいばくだき{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}爆発ガード＋{?e3-15}などを覚える<TR>
+スキル「氷結の使い手」で{?e3-15}ヒャド{?e3-15}最大ＭＰ＋４{?e3-15}零度斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ヒャダルコ{?e3-15}を覚える<TR>
+スキル「氷結の名手」で{?e3-15}零度斬り{?e3-15}ヒャダルコ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}テンプルブロー{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「氷結の探究者」で{?e3-15}マヒャド{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}氷結ガード＋{?e3-15}ヒャドマータ{?e3-15}などを覚える<TR>
+スキル「氷結の達人」で{?e3-15}零度斬り{?e3-15}最大ＭＰ＋４０{?e3-15}テンプルブロー{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}氷結ガード＋{?e3-15}などを覚える<TR>
+スキル「電撃の使い手」で{?e3-15}デイン{?e3-15}最大ＭＰ＋４{?e3-15}雷鳴斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ライデイン{?e3-15}を覚える<TR>
+スキル「電撃の名手」で{?e3-15}雷鳴斬り{?e3-15}ライデイン{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}すねくだき{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「電撃の探究者」で{?e3-15}ギガデイン{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}電撃ガード＋{?e3-15}デイナマータ{?e3-15}などを覚える<TR>
+スキル「電撃の達人」で{?e3-15}雷鳴斬り{?e3-15}最大ＭＰ＋４０{?e3-15}テンプルブロー{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}電撃ガード＋{?e3-15}などを覚える<TR>
+スキル「重力の使い手」で{?e3-15}ベタン{?e3-15}最大ＭＰ＋４{?e3-15}圧縮斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ベタドロン{?e3-15}を覚える<TR>
+スキル「重力の名手」で{?e3-15}圧縮斬り{?e3-15}ベタドロン{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}かぶとわり{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「重力の探究者」で{?e3-15}ベタロール{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}重力ガード＋{?e3-15}ベタナマータ{?e3-15}などを覚える<TR>
+スキル「重力の達人」で{?e3-15}圧縮斬り{?e3-15}最大ＭＰ＋４０{?e3-15}かぶとわり{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}重力ガード＋{?e3-15}などを覚える<TR>
+スキル「光の使い手」で{?e3-15}ギラ{?e3-15}最大ＭＰ＋４{?e3-15}光明斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ベギラマ{?e3-15}を覚える<TR>
+スキル「光の名手」で{?e3-15}光明斬り{?e3-15}ベギラマ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}修羅の獄{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「光の探究者」で{?e3-15}ベギラゴン{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}光ガード＋{?e3-15}ギラマータ{?e3-15}などを覚える<TR>
+スキル「光の達人」で{?e3-15}光明斬り{?e3-15}最大ＭＰ＋４０{?e3-15}修羅の獄{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}光ガード＋{?e3-15}などを覚える<TR>
+スキル「闇の使い手」で{?e3-15}ドルマ{?e3-15}最大ＭＰ＋４{?e3-15}無明斬り{?e3-15}攻撃力＋２{?e3-15}かしこさ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}ドルクマ{?e3-15}を覚える<TR>
+スキル「闇の名手」で{?e3-15}無明斬り{?e3-15}ドルクマ{?e3-15}かしこさ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋１６{?e3-15}幻魔の獄{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「闇の探究者」で{?e3-15}ドルモーア{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋１６{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}闇ガード＋{?e3-15}ドルマータ{?e3-15}などを覚える<TR>
+スキル「闇の達人」で{?e3-15}無明斬り{?e3-15}最大ＭＰ＋４０{?e3-15}修羅の獄{?e3-15}攻撃力＋８{?e3-15}自動ＭＰ回復{?e3-15}最大ＭＰ＋６０{?e3-15}攻撃力＋１２{?e3-15}闇ガード＋{?e3-15}などを覚える<TR>
+スキル「火と爆発の名手」で{?e3-15}火炎斬り{?e3-15}メラミ{?e3-15}爆砕斬り{?e3-15}イオラ{?e3-15}攻撃力＋１６{?e3-15}かしこさ＋３２{?e3-15}最大ＭＰ＋４８{?e3-15}メラゾーマ{?e3-15}などを覚える<TR>
+スキル「火と爆発の探究者」で{?e3-15}メラゾーマ{?e3-15}イオナズン{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「火と爆発の達人」で{?e3-15}火炎斬り{?e3-15}爆砕斬り{?e3-15}やいばくだき{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}攻撃力＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}などを覚える<TR>
+スキル「水と氷結の名手」で{?e3-15}水流斬り{?e3-15}ザバラ{?e3-15}零度斬り{?e3-15}ヒャダルコ{?e3-15}攻撃力＋１６{?e3-15}かしこさ＋３２{?e3-15}最大ＭＰ＋４８{?e3-15}ザバラーン{?e3-15}などを覚える<TR>
+スキル「水と氷結の探究者」で{?e3-15}ザバラーン{?e3-15}マヒャド{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「水と氷結の達人」で{?e3-15}水流斬り{?e3-15}零度斬り{?e3-15}テンプルブロー{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}攻撃力＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}などを覚える<TR>
+スキル「風と電撃の名手」で{?e3-15}真空斬り{?e3-15}バギマ{?e3-15}雷鳴斬り{?e3-15}ライデイン{?e3-15}攻撃力＋１６{?e3-15}かしこさ＋３２{?e3-15}最大ＭＰ＋４８{?e3-15}バギクロス{?e3-15}などを覚える<TR>
+スキル「風と電撃の探究者」で{?e3-15}バギクロス{?e3-15}ギガデイン{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「風と電撃の達人」で{?e3-15}真空斬り{?e3-15}雷鳴斬り{?e3-15}すねくだき{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}攻撃力＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}などを覚える<TR>
+スキル「地と重力の名手」で{?e3-15}岩石斬り{?e3-15}ジバリカ{?e3-15}圧縮斬り{?e3-15}ベタドロン{?e3-15}攻撃力＋１６{?e3-15}かしこさ＋３２{?e3-15}最大ＭＰ＋４８{?e3-15}ジバリーナ{?e3-15}などを覚える<TR>
+スキル「地と重力の探究者」で{?e3-15}ジバリーナ{?e3-15}ベタロール{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「地と重力の達人」で{?e3-15}岩石斬り{?e3-15}圧縮斬り{?e3-15}かぶとわり{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}攻撃力＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}などを覚える<TR>
+スキル「目覚めし爆発の力」で{?e3-15}火炎斬り{?e3-15}メラミ{?e3-15}岩石斬り{?e3-15}ジバリカ{?e3-15}爆砕斬り{?e3-15}イオラ{?e3-15}メラゾーマ{?e3-15}ジバリーナ{?e3-15}などを覚える<TR>
+スキル「目覚めし爆発の探究者」で{?e3-15}メラゾーマ{?e3-15}ジバリーナ{?e3-15}イオナズン{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}メラガイアー{?e3-15}などを覚える<TR>
+スキル「目覚めし爆発の達人」で{?e3-15}火炎斬り{?e3-15}岩石斬り{?e3-15}爆砕斬り{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋６０{?e3-15}日輪斬{?e3-15}などを覚える<TR>
+スキル「目覚めし氷結の力」で{?e3-15}水流斬り{?e3-15}ザバラ{?e3-15}真空斬り{?e3-15}バギマ{?e3-15}零度斬り{?e3-15}ヒャダルコ{?e3-15}ザバラーン{?e3-15}バギクロス{?e3-15}などを覚える<TR>
+スキル「目覚めし氷結の探究者」で{?e3-15}ザバラーン{?e3-15}バギクロス{?e3-15}マヒャド{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}ザバトローム{?e3-15}などを覚える<TR>
+スキル「目覚めし氷結の達人」で{?e3-15}水流斬り{?e3-15}真空斬り{?e3-15}零度斬り{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋６０{?e3-15}海破斬{?e3-15}などを覚える<TR>
+スキル「目覚めし電撃の力」で{?e3-15}真空斬り{?e3-15}バギマ{?e3-15}火炎斬り{?e3-15}メラミ{?e3-15}雷鳴斬り{?e3-15}ライデイン{?e3-15}バギクロス{?e3-15}メラゾーマ{?e3-15}などを覚える<TR>
+スキル「目覚めし電撃の探究者」で{?e3-15}バギクロス{?e3-15}メラゾーマ{?e3-15}ギガデイン{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}バギムーチョ{?e3-15}などを覚える<TR>
+スキル「目覚めし電撃の達人」で{?e3-15}真空斬り{?e3-15}火炎斬り{?e3-15}雷鳴斬り{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋６０{?e3-15}空裂斬{?e3-15}などを覚える<TR>
+スキル「目覚めし重力の力」で{?e3-15}岩石斬り{?e3-15}ジバリカ{?e3-15}水流斬り{?e3-15}ザバラ{?e3-15}圧縮斬り{?e3-15}ベタドロン{?e3-15}ジバリーナ{?e3-15}ザバラーン{?e3-15}などを覚える<TR>
+スキル「目覚めし重力の探究者」で{?e3-15}ジバリーナ{?e3-15}ザバラーン{?e3-15}ベタロール{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋４０{?e3-15}かしこさ＋２４{?e3-15}最大ＭＰ＋６０{?e3-15}ジバルンバ{?e3-15}などを覚える<TR>
+スキル「目覚めし重力の達人」で{?e3-15}岩石斬り{?e3-15}水流斬り{?e3-15}圧縮斬り{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋４０{?e3-15}攻撃力＋１２{?e3-15}最大ＭＰ＋６０{?e3-15}大地斬{?e3-15}などを覚える<TR>
+スキル「火ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}火ガード＋{?e3-15}攻撃力＋８{?e3-15}攻撃力ガード＋{?e3-15}を覚える<TR>
+スキル「火ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「火ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「水ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}水ガード＋{?e3-15}かしこさ＋１６{?e3-15}かしこさガード＋{?e3-15}を覚える<TR>
+スキル「水ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「水ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「風ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}風ガード＋{?e3-15}すばやさ＋１６{?e3-15}すばやさガード＋{?e3-15}を覚える<TR>
+スキル「風ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「風ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「地ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}地ガード＋{?e3-15}守備力＋１６{?e3-15}守備力ガード＋{?e3-15}を覚える<TR>
+スキル「地ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}守備力ガード＋{?e3-15}などを覚える<TR>
+スキル「地ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「爆発ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}爆発ガード＋{?e3-15}攻撃力＋８{?e3-15}攻撃力ガード＋{?e3-15}を覚える<TR>
+スキル「爆発ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}爆発ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「爆発ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}爆発ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「氷結ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}氷結ガード＋{?e3-15}かしこさ＋１６{?e3-15}かしこさガード＋{?e3-15}を覚える<TR>
+スキル「氷結ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}氷結ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「氷結ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}氷結ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「電撃ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}電撃ガード＋{?e3-15}すばやさ＋１６{?e3-15}すばやさガード＋{?e3-15}を覚える<TR>
+スキル「電撃ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}電撃ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「電撃ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}電撃ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「重力ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}重力ガード＋{?e3-15}守備力＋１６{?e3-15}守備力ガード＋{?e3-15}を覚える<TR>
+スキル「重力ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}重力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}守備力ガード＋{?e3-15}などを覚える<TR>
+スキル「重力ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}重力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「光ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}光ガード＋{?e3-15}最大ＨＰ＋８{?e3-15}命中ガード＋{?e3-15}を覚える<TR>
+スキル「光ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}光ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}命中ガード＋{?e3-15}などを覚える<TR>
+スキル「光ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}光ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「闇ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}闇ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}耐性ガード＋{?e3-15}を覚える<TR>
+スキル「闇ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}闇ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}耐性ガード＋{?e3-15}などを覚える<TR>
+スキル「闇ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}闇ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「攻撃力ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力ガード＋{?e3-15}攻撃力＋８{?e3-15}気力吸収ガード＋{?e3-15}を覚える<TR>
+スキル「攻撃力ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}気力吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「攻撃力ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「守備力ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}守備力ガード＋{?e3-15}守備力＋１６{?e3-15}耐性ガード＋{?e3-15}を覚える<TR>
+スキル「守備力ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}耐性ガード＋{?e3-15}などを覚える<TR>
+スキル「守備力ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「すばやさガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさガード＋{?e3-15}すばやさ＋１６{?e3-15}命中ガード＋{?e3-15}を覚える<TR>
+スキル「すばやさガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}命中ガード＋{?e3-15}などを覚える<TR>
+スキル「すばやさガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「かしこさガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさガード＋{?e3-15}かしこさ＋１６{?e3-15}ＭＰ吸収ガード＋{?e3-15}を覚える<TR>
+スキル「かしこさガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}ＭＰ吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「かしこさガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「命中ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}命中ガード＋{?e3-15}すばやさ＋１６{?e3-15}すばやさガード＋{?e3-15}を覚える<TR>
+スキル「命中ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「命中ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「耐性ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}耐性ガード＋{?e3-15}守備力＋１６{?e3-15}守備力ガード＋{?e3-15}を覚える<TR>
+スキル「耐性ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}守備力ガード＋{?e3-15}などを覚える<TR>
+スキル「耐性ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「ＭＰ吸収ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}ＭＰ吸収ガード＋{?e3-15}かしこさ＋１６{?e3-15}かしこさガード＋{?e3-15}を覚える<TR>
+スキル「ＭＰ吸収ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「ＭＰ吸収ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「気力吸収ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}気力吸収ガード＋{?e3-15}攻撃力＋８{?e3-15}攻撃力ガード＋{?e3-15}を覚える<TR>
+スキル「気力吸収ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「気力吸収ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「こんらんガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}こんらんガード＋{?e3-15}攻撃力＋８{?e3-15}攻撃力ガード＋{?e3-15}を覚える<TR>
+スキル「こんらんガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}こんらんガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「こんらんガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}こんらんガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「ねむりガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}ねむりガード＋{?e3-15}かしこさ＋１６{?e3-15}かしこさガード＋{?e3-15}を覚える<TR>
+スキル「ねむりガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}ねむりガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「ねむりガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}ねむりガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「マヒガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}マヒガード＋{?e3-15}守備力＋１６{?e3-15}守備力ガード＋{?e3-15}を覚える<TR>
+スキル「マヒガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}マヒガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}守備力ガード＋{?e3-15}などを覚える<TR>
+スキル「マヒガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}マヒガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「休みガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}休みガード＋{?e3-15}すばやさ＋１６{?e3-15}すばやさガード＋{?e3-15}を覚える<TR>
+スキル「休みガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}休みガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「休みガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}休みガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「どくガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}どくガード＋{?e3-15}最大ＨＰ＋８{?e3-15}命中ガード＋{?e3-15}を覚える<TR>
+スキル「どくガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}どくガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}命中ガード＋{?e3-15}などを覚える<TR>
+スキル「どくガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}どくガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「呪いガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}呪いガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}耐性ガード＋{?e3-15}を覚える<TR>
+スキル「呪いガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}呪いガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}耐性ガード＋{?e3-15}などを覚える<TR>
+スキル「呪いガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}呪いガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「即死ガード」で{?e3-15}最大ＨＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}即死ガード＋{?e3-15}最大ＨＰ＋８{?e3-15}気力吸収ガード＋{?e3-15}を覚える<TR>
+スキル「即死ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}即死ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}気力吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「即死ガードSP」で{?e3-15}最大ＨＰ＋１２{?e3-15}即死ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}しょうひＭＰせつやく{?e3-15}最大ＨＰ＋１６{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「火＆爆発ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}爆発ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「火＆爆発ガードSP」で{?e3-15}攻撃力＋１２{?e3-15}火ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}爆発ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１６{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「水＆氷結ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}氷結ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「水＆氷結ガードSP」で{?e3-15}かしこさ＋２４{?e3-15}水ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}氷結ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋３２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「風＆電撃ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}電撃ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「風＆電撃ガードSP」で{?e3-15}すばやさ＋２４{?e3-15}風ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}電撃ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋３２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「地＆重力ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}重力ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「地＆重力ガードSP」で{?e3-15}守備力＋２４{?e3-15}地ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}重力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋３２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「溶岩ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}攻撃力＋８{?e3-15}地ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}爆発ガード＋{?e3-15}などを覚える<TR>
+スキル「溶岩ガードSP」で{?e3-15}攻撃力＋１２{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}地ガード＋{?e3-15}攻撃力＋１６{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「吹雪ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}かしこさ＋１６{?e3-15}風ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}氷結ガード＋{?e3-15}などを覚える<TR>
+スキル「吹雪ガードSP」で{?e3-15}かしこさ＋２４{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋２０{?e3-15}風ガード＋{?e3-15}かしこさ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「雷火ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}すばやさ＋１６{?e3-15}火ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}電撃ガード＋{?e3-15}などを覚える<TR>
+スキル「雷火ガードSP」で{?e3-15}すばやさ＋２４{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋２０{?e3-15}火ガード＋{?e3-15}すばやさ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「深海ガード＋」で{?e3-15}最大ＨＰ＋８{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}守備力＋１６{?e3-15}水ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}重力ガード＋{?e3-15}などを覚える<TR>
+スキル「深海ガードSP」で{?e3-15}守備力＋２４{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋２０{?e3-15}水ガード＋{?e3-15}守備力＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「こんらんの力＋」で{?e3-15}まどいの息{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}こんらんガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}ヒュプノスハント{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「こんらんの力SP」で{?e3-15}こんらんガード＋{?e3-15}まどいの息{?e3-15}攻撃力＋２０{?e3-15}ヒュプノスハント{?e3-15}メダパーニャ{?e3-15}フバハック{?e3-15}乱心のかまえ{?e3-15}攻撃力＋２４{?e3-15}などを覚える<TR>
+スキル「ねむりの力＋」で{?e3-15}あまい息{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}ねむりガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}ヒュプノスハント{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「ねむりの力SP」で{?e3-15}ねむりガード＋{?e3-15}あまい息{?e3-15}すばやさ＋４０{?e3-15}ヒュプノスハント{?e3-15}ラリホーマ{?e3-15}フバハック{?e3-15}夢想のかまえ{?e3-15}すばやさ＋４８{?e3-15}などを覚える<TR>
+スキル「マヒの力＋」で{?e3-15}やけつく息{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}マヒガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}タナトスハント{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「マヒの力SP」で{?e3-15}マヒガード＋{?e3-15}やけつく息{?e3-15}すばやさ＋４０{?e3-15}タナトスハント{?e3-15}やけつく踊り{?e3-15}フバハック{?e3-15}背水のかまえ{?e3-15}すばやさ＋４８{?e3-15}などを覚える<TR>
+スキル「休みの力＋」で{?e3-15}おたけび{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}休みガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}さみだれ斬り{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「休みの力SP」で{?e3-15}休みガード＋{?e3-15}おたけび{?e3-15}かしこさ＋４０{?e3-15}なめまわし{?e3-15}さそう踊り{?e3-15}フバハック{?e3-15}晩成のかまえ{?e3-15}かしこさ＋４８{?e3-15}などを覚える<TR>
+スキル「どくの力＋」で{?e3-15}どくの息{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}どくガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}タナトスハント{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「どくの力SP」で{?e3-15}どくガード＋{?e3-15}もうどくの息{?e3-15}攻撃力＋２０{?e3-15}タナトスハント{?e3-15}ポイズンステップ{?e3-15}フバハック{?e3-15}狂気のかまえ{?e3-15}攻撃力＋２４{?e3-15}などを覚える<TR>
+スキル「呪いの力＋」で{?e3-15}呪いのことば{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}呪いガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}さみだれ斬り{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「呪いの力SP」で{?e3-15}呪いガード＋{?e3-15}じゅそのこえ{?e3-15}かしこさ＋４０{?e3-15}悪夢のよびごえ{?e3-15}呪いのルンバ{?e3-15}フバハック{?e3-15}盲信のかまえ{?e3-15}かしこさ＋４８{?e3-15}などを覚える<TR>
+スキル「ＨＰアップ１」で{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}を覚える<TR>
+スキル「ＨＰアップ２」で{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}などを覚える<TR>
+スキル「ＨＰアップ３」で{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＨＰ＋１６{?e3-15}最大ＨＰ＋２０{?e3-15}などを覚える<TR>
+スキル「ＨＰアップSP」で{?e3-15}最大ＨＰ＋２{?e3-15}最大ＨＰ＋４{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＨＰ＋１６{?e3-15}最大ＨＰ＋２０{?e3-15}最大ＨＰ＋２４{?e3-15}最大ＨＰ＋３０{?e3-15}などを覚える<TR>
+スキル「ＭＰアップ１」で{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋２４{?e3-15}を覚える<TR>
+スキル「ＭＰアップ２」で{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「ＭＰアップ３」で{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋４０{?e3-15}などを覚える<TR>
+スキル「ＭＰアップSP」で{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}最大ＭＰ＋４０{?e3-15}最大ＭＰ＋４８{?e3-15}最大ＭＰ＋６０{?e3-15}などを覚える<TR>
+スキル「攻撃力アップ１」で{?e3-15}攻撃力＋２{?e3-15}最大ＨＰ＋２{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋４{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋４{?e3-15}攻撃力＋１２{?e3-15}最大ＨＰ＋８{?e3-15}を覚える<TR>
+スキル「攻撃力アップ２」で{?e3-15}攻撃力＋２{?e3-15}最大ＨＰ＋２{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋４{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋１２{?e3-15}最大ＨＰ＋８{?e3-15}などを覚える<TR>
+スキル「攻撃力アップ３」で{?e3-15}攻撃力＋２{?e3-15}最大ＨＰ＋２{?e3-15}攻撃力＋４{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋１２{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋２０{?e3-15}最大ＨＰ＋１６{?e3-15}などを覚える<TR>
+スキル「攻撃力アップSP」で{?e3-15}攻撃力＋２{?e3-15}攻撃力＋４{?e3-15}攻撃力＋８{?e3-15}攻撃力＋１２{?e3-15}攻撃力＋１６{?e3-15}攻撃力＋２０{?e3-15}攻撃力＋２４{?e3-15}攻撃力＋３０{?e3-15}などを覚える<TR>
+スキル「守備力アップ１」で{?e3-15}守備力＋４{?e3-15}最大ＨＰ＋２{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋４{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋４{?e3-15}守備力＋２４{?e3-15}最大ＨＰ＋８{?e3-15}を覚える<TR>
+スキル「守備力アップ２」で{?e3-15}守備力＋４{?e3-15}最大ＨＰ＋２{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋４{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋２４{?e3-15}最大ＨＰ＋８{?e3-15}などを覚える<TR>
+スキル「守備力アップ３」で{?e3-15}守備力＋４{?e3-15}最大ＨＰ＋２{?e3-15}守備力＋８{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋２４{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋４０{?e3-15}最大ＨＰ＋１６{?e3-15}などを覚える<TR>
+スキル「守備力アップSP」で{?e3-15}守備力＋４{?e3-15}守備力＋８{?e3-15}守備力＋１６{?e3-15}守備力＋２４{?e3-15}守備力＋３２{?e3-15}守備力＋４０{?e3-15}守備力＋４８{?e3-15}守備力＋６０{?e3-15}などを覚える<TR>
+スキル「すばやさアップ１」で{?e3-15}すばやさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}すばやさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}を覚える<TR>
+スキル「すばやさアップ２」で{?e3-15}すばやさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}などを覚える<TR>
+スキル「すばやさアップ３」で{?e3-15}すばやさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}すばやさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋４０{?e3-15}最大ＨＰ＋１６{?e3-15}などを覚える<TR>
+スキル「すばやさアップSP」で{?e3-15}すばやさ＋４{?e3-15}すばやさ＋８{?e3-15}すばやさ＋１６{?e3-15}すばやさ＋２４{?e3-15}すばやさ＋３２{?e3-15}すばやさ＋４０{?e3-15}すばやさ＋４８{?e3-15}すばやさ＋６０{?e3-15}などを覚える<TR>
+スキル「かしこさアップ１」で{?e3-15}かしこさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}かしこさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}を覚える<TR>
+スキル「かしこさアップ２」で{?e3-15}かしこさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋４{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}などを覚える<TR>
+スキル「かしこさアップ３」で{?e3-15}かしこさ＋４{?e3-15}最大ＨＰ＋２{?e3-15}かしこさ＋８{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋２４{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋４０{?e3-15}最大ＨＰ＋１６{?e3-15}などを覚える<TR>
+スキル「かしこさアップSP」で{?e3-15}かしこさ＋４{?e3-15}かしこさ＋８{?e3-15}かしこさ＋１６{?e3-15}かしこさ＋２４{?e3-15}かしこさ＋３２{?e3-15}かしこさ＋４０{?e3-15}かしこさ＋４８{?e3-15}かしこさ＋６０{?e3-15}などを覚える<TR>
+スキル「戦士」で{?e3-15}かぶとわり{?e3-15}最大ＨＰ＋４{?e3-15}さみだれ斬り{?e3-15}攻撃力＋１２{?e3-15}メタル斬り{?e3-15}守備力＋２４{?e3-15}魔神斬り{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「魔法使い」で{?e3-15}メラミ{?e3-15}ヒャダルコ{?e3-15}バギマ{?e3-15}かしこさ＋２４{?e3-15}ラリホー{?e3-15}ベタドロン{?e3-15}メダパニ{?e3-15}かしこさ＋３２{?e3-15}などを覚える<TR>
+スキル「僧侶」で{?e3-15}ベホイミ{?e3-15}スクルト{?e3-15}フバーハ{?e3-15}最大ＭＰ＋２４{?e3-15}ザオラル{?e3-15}ザキ{?e3-15}ベホマラー{?e3-15}かしこさ＋３２{?e3-15}などを覚える<TR>
+スキル「武闘家」で{?e3-15}たいあたり{?e3-15}攻撃力＋４{?e3-15}みかわしきゃく{?e3-15}すばやさ＋２４{?e3-15}せいけんづき{?e3-15}攻撃力＋１２{?e3-15}ばくれつけん{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「盗賊」で{?e3-15}ピオラ{?e3-15}マヌーサ{?e3-15}ぬすっと斬り{?e3-15}すばやさ＋２４{?e3-15}すねくだき{?e3-15}ゴールドアタック{?e3-15}ミラクルソード{?e3-15}すばやさ＋３２{?e3-15}などを覚える<TR>
+スキル「旅芸人」で{?e3-15}やいばくだき{?e3-15}バイキルト{?e3-15}ザバラ{?e3-15}サゲサゲチョップ{?e3-15}ジバリカ{?e3-15}遊び人のマイム{?e3-15}ハッスルダンス{?e3-15}つるぎのまい{?e3-15}などを覚える<TR>
+スキル「魔法戦士」で{?e3-15}雷鳴斬り{?e3-15}イオラ{?e3-15}ライデイン{?e3-15}攻撃力＋３６{?e3-15}かしこさ＋７２{?e3-15}ラリホーマ{?e3-15}ギガスラッシュ{?e3-15}イオナズン{?e3-15}などを覚える<TR>
+スキル「パラディン」で{?e3-15}みがわり{?e3-15}スカラ{?e3-15}リベホイム{?e3-15}最大ＨＰ＋３６{?e3-15}守備力＋７２{?e3-15}光明斬り{?e3-15}ザオリク{?e3-15}守備力ガード＋{?e3-15}などを覚える<TR>
+スキル「賢者」で{?e3-15}ザオラル{?e3-15}ギラグレイド{?e3-15}フバーハ{?e3-15}最大ＭＰ＋７２{?e3-15}かしこさ＋７２{?e3-15}ドルマドン{?e3-15}アストロン{?e3-15}しょうひＭＰせつやく{?e3-15}などを覚える<TR>
+スキル「バトルマスター」で{?e3-15}魔神斬り{?e3-15}におう斬り{?e3-15}ちょうはつ{?e3-15}最大ＨＰ＋３６{?e3-15}攻撃力＋３６{?e3-15}ゆうきの斬舞{?e3-15}てんいむほう斬{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「魔闘士」で{?e3-15}ルカナン{?e3-15}ヘナトール{?e3-15}タメトラ{?e3-15}最大ＭＰ＋７２{?e3-15}攻撃力＋２４{?e3-15}修羅の獄{?e3-15}幻魔の獄{?e3-15}自動ＭＰ回復{?e3-15}などを覚える<TR>
+スキル「モンク」で{?e3-15}すてみ{?e3-15}スクルト{?e3-15}ベホマラー{?e3-15}かしこさ＋７２{?e3-15}攻撃力＋３６{?e3-15}ゆうきの斬舞{?e3-15}ばくれつけん{?e3-15}しょうひＭＰせつやく{?e3-15}などを覚える<TR>
+スキル「レンジャー」で{?e3-15}しっぷうづき{?e3-15}メダパーニャ{?e3-15}マヌーサ{?e3-15}すばやさ＋７２{?e3-15}すばやさ＋７２{?e3-15}バイシオン{?e3-15}バイメリト{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「怪盗」で{?e3-15}リバース{?e3-15}シャッフル{?e3-15}バイメリト{?e3-15}ヘルメリト{?e3-15}スキップ{?e3-15}アストロン{?e3-15}チェンジ{?e3-15}ゼロのしょうげき{?e3-15}などを覚える<TR>
+スキル「商人」で{?e3-15}おたけび{?e3-15}メタルハンター{?e3-15}スカウト％アップ＋{?e3-15}せんせいりつアップ{?e3-15}ＨＰバブル{?e3-15}ＭＰバブル{?e3-15}しょうひＭＰせつやく{?e3-15}てんしのきまぐれ{?e3-15}などを覚える<TR>
+スキル「海賊」で{?e3-15}ゴールドアタック{?e3-15}ぬすっと斬り{?e3-15}さみだれ斬り{?e3-15}もろば斬り{?e3-15}ステルスアタック{?e3-15}かくらんの叫び{?e3-15}ギガスラッシュ{?e3-15}ちょうはつ{?e3-15}などを覚える<TR>
+スキル「羊飼い」で{?e3-15}マホトラ踊り{?e3-15}あまい息{?e3-15}ぎゃくふう{?e3-15}最大ＨＰ＋３６{?e3-15}すばやさ＋７２{?e3-15}いやしの雨{?e3-15}まもりの霧{?e3-15}自動ＭＰ回復{?e3-15}などを覚える<TR>
+スキル「占い師」で{?e3-15}かくれる{?e3-15}テンションパサー{?e3-15}踊りよそく{?e3-15}息よそく{?e3-15}体技よそく{?e3-15}呪文よそく{?e3-15}物理よそく{?e3-15}てんびんのタンゴ{?e3-15}などを覚える<TR>
+スキル「吟遊詩人」で{?e3-15}まもりの霧{?e3-15}ちしきのふえ{?e3-15}ハヤブサのふえ{?e3-15}最大ＭＰ＋７２{?e3-15}最大ＭＰ＋７２{?e3-15}たたかいのふえ{?e3-15}まもりのふえ{?e3-15}いやしのふえ{?e3-15}などを覚える<TR>
+スキル「踊り子」で{?e3-15}つるぎのまい{?e3-15}ハッスルダンス{?e3-15}死の踊り{?e3-15}タメトラ踊り{?e3-15}マホトラ踊り{?e3-15}王様のロンド{?e3-15}遊び人のマイム{?e3-15}せいれいのうた{?e3-15}などを覚える<TR>
+スキル「遊び人」で{?e3-15}なめまわし{?e3-15}ちょうはつ{?e3-15}タメトラ踊り{?e3-15}かくらんの叫び{?e3-15}大きなため息{?e3-15}遊び人のマイム{?e3-15}ラウンドゼロ{?e3-15}まねまね{?e3-15}などを覚える<TR>
+スキル「剣豪」で{?e3-15}爆砕斬り{?e3-15}零度斬り{?e3-15}雷鳴斬り{?e3-15}圧縮斬り{?e3-15}光明斬り{?e3-15}無明斬り{?e3-15}もろば斬り{?e3-15}てんいむほう斬{?e3-15}などを覚える<TR>
+スキル「大魔道士」で{?e3-15}バギクロス{?e3-15}メラゾーマ{?e3-15}インテ{?e3-15}かしこさ＋７２{?e3-15}かしこさ＋７２{?e3-15}マヒャド{?e3-15}ベタロール{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「司祭」で{?e3-15}ベホマラー{?e3-15}フバーハ{?e3-15}最大ＭＰ＋７２{?e3-15}最大ＭＰ＋７２{?e3-15}バイメリト{?e3-15}マホターン{?e3-15}ベホマズン{?e3-15}ＭＰ吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「チャンピオン」で{?e3-15}たいあたり{?e3-15}だいぼうぎょ{?e3-15}攻撃力＋３６{?e3-15}攻撃力＋３６{?e3-15}アンカーナックル{?e3-15}みなごろし{?e3-15}めいそう{?e3-15}自動ＨＰ回復{?e3-15}などを覚える<TR>
+スキル「アサシン」で{?e3-15}しっぷうづき{?e3-15}かくれる{?e3-15}大きなため息{?e3-15}死神の息吹{?e3-15}フバハック{?e3-15}ステルスアタック{?e3-15}サゲサゲチョップ{?e3-15}せんせいりつアップ{?e3-15}などを覚える<TR>
+スキル「スーパースター」で{?e3-15}タメトラ踊り{?e3-15}バイメリト{?e3-15}テンションシフト{?e3-15}ゆうきの斬舞{?e3-15}遊び人のマイム{?e3-15}テンションパサー{?e3-15}王様のロンド{?e3-15}気力吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「スラフォース」で{?e3-15}メラ{?e3-15}ホイミ{?e3-15}デイン{?e3-15}スカラ{?e3-15}キアラル{?e3-15}たいあたり{?e3-15}ピオラ{?e3-15}ヘナトス{?e3-15}を覚える<TR>
+スキル「スラフォース＋」で{?e3-15}メラミ{?e3-15}ベホイミ{?e3-15}ライデイン{?e3-15}スクルト{?e3-15}キアラル{?e3-15}たいあたり{?e3-15}ピオリム{?e3-15}ヘナトール{?e3-15}などを覚える<TR>
+スキル「スラフォースSP」で{?e3-15}メラゾーマ{?e3-15}ベホイマ{?e3-15}ギガデイン{?e3-15}スクルト{?e3-15}キアラル{?e3-15}たいあたり{?e3-15}メラガイアー{?e3-15}ジゴデイン{?e3-15}などを覚える<TR>
+スキル「ドラゴフォース」で{?e3-15}火の息{?e3-15}攻撃力＋２{?e3-15}つめたい息{?e3-15}最大ＨＰ＋８{?e3-15}発火{?e3-15}おたけび{?e3-15}攻撃力＋８{?e3-15}やけつく息{?e3-15}を覚える<TR>
+スキル「ドラゴフォース＋」で{?e3-15}おたけび{?e3-15}攻撃力＋１６{?e3-15}火炎の息{?e3-15}最大ＨＰ＋２４{?e3-15}こおりの息{?e3-15}やけつく息{?e3-15}攻撃力＋２４{?e3-15}おにび{?e3-15}などを覚える<TR>
+スキル「ドラゴフォースSP」で{?e3-15}おたけび{?e3-15}攻撃力＋２４{?e3-15}やけつく息{?e3-15}最大ＨＰ＋３６{?e3-15}しゃくねつ{?e3-15}かがやく息{?e3-15}攻撃力＋３６{?e3-15}バイシオン{?e3-15}などを覚える<TR>
+スキル「ビーストフォース」で{?e3-15}しっぷうづき{?e3-15}攻撃力＋２{?e3-15}すねくだき{?e3-15}すばやさ＋１６{?e3-15}すなけむり{?e3-15}なめまわし{?e3-15}攻撃力＋８{?e3-15}魔神斬り{?e3-15}を覚える<TR>
+スキル「ビーストフォース＋」で{?e3-15}しっぷうづき{?e3-15}攻撃力＋１６{?e3-15}すねくだき{?e3-15}すばやさ＋４８{?e3-15}すなけむり{?e3-15}なめまわし{?e3-15}攻撃力＋２４{?e3-15}魔神斬り{?e3-15}などを覚える<TR>
+スキル「ビーストフォースSP」で{?e3-15}しっぷうづき{?e3-15}攻撃力＋２４{?e3-15}すねくだき{?e3-15}すばやさ＋７２{?e3-15}魔神斬り{?e3-15}ばくれつけん{?e3-15}攻撃力＋３６{?e3-15}すてみ{?e3-15}などを覚える<TR>
+スキル「ワイルドフォース」で{?e3-15}ホイミ{?e3-15}かしこさ＋４{?e3-15}インテ{?e3-15}かしこさ＋１６{?e3-15}キアリク{?e3-15}いわなげ{?e3-15}かしこさ＋１６{?e3-15}ベホイミ{?e3-15}を覚える<TR>
+スキル「ワイルドフォース＋」で{?e3-15}ベホイミ{?e3-15}かしこさ＋３２{?e3-15}キアリク{?e3-15}かしこさ＋４８{?e3-15}インテラ{?e3-15}じひびき{?e3-15}かしこさ＋４８{?e3-15}ベホイマ{?e3-15}などを覚える<TR>
+スキル「ワイルドフォースSP」で{?e3-15}インテラ{?e3-15}かしこさ＋４８{?e3-15}キアリク{?e3-15}かしこさ＋７２{?e3-15}ベホイマ{?e3-15}がんせきおとし{?e3-15}かしこさ＋７２{?e3-15}いやしのふえ{?e3-15}などを覚える<TR>
+スキル「デビルフォース」で{?e3-15}無明斬り{?e3-15}最大ＭＰ＋４{?e3-15}ドルマ{?e3-15}かしこさ＋１６{?e3-15}ルカニ{?e3-15}呪いのことば{?e3-15}最大ＭＰ＋１６{?e3-15}もろば斬り{?e3-15}を覚える<TR>
+スキル「デビルフォース＋」で{?e3-15}無明斬り{?e3-15}最大ＭＰ＋３２{?e3-15}ドルクマ{?e3-15}かしこさ＋４８{?e3-15}ルカナン{?e3-15}じゅそのこえ{?e3-15}最大ＭＰ＋４８{?e3-15}もろば斬り{?e3-15}などを覚える<TR>
+スキル「デビルフォースSP」で{?e3-15}無明斬り{?e3-15}最大ＭＰ＋４８{?e3-15}ドルモーア{?e3-15}かしこさ＋７２{?e3-15}ルカナン{?e3-15}ドルマドン{?e3-15}最大ＭＰ＋７２{?e3-15}もろば斬り{?e3-15}などを覚える<TR>
+スキル「ゾンビフォース」で{?e3-15}どくの息{?e3-15}ザキ{?e3-15}ぶきみな光{?e3-15}フール{?e3-15}なめまわし{?e3-15}ヘナトス{?e3-15}ルカニ{?e3-15}ザラキ{?e3-15}を覚える<TR>
+スキル「ゾンビフォース＋」で{?e3-15}ぶきみな光{?e3-15}なめまわし{?e3-15}もうどくの息{?e3-15}ザラキ{?e3-15}マフール{?e3-15}ヘナトール{?e3-15}ルカナン{?e3-15}ヘルメリト{?e3-15}などを覚える<TR>
+スキル「ゾンビフォースSP」で{?e3-15}ぶきみな光{?e3-15}ザラキ{?e3-15}マフール{?e3-15}ヘナトール{?e3-15}ルカナン{?e3-15}ヘルメリト{?e3-15}ゼロのしょうげき{?e3-15}ひょういのポルカ{?e3-15}などを覚える<TR>
+スキル「マテリアフォース」で{?e3-15}スカラ{?e3-15}守備力＋４{?e3-15}みがわり{?e3-15}最大ＨＰ＋８{?e3-15}ヘナトス{?e3-15}バーハ{?e3-15}守備力＋１６{?e3-15}ベホイミ{?e3-15}を覚える<TR>
+スキル「マテリアフォース＋」で{?e3-15}みがわり{?e3-15}守備力＋３２{?e3-15}スクルト{?e3-15}最大ＨＰ＋２４{?e3-15}ヘナトール{?e3-15}フバーハ{?e3-15}守備力＋４８{?e3-15}ベホイミ{?e3-15}などを覚える<TR>
+スキル「マテリアフォースSP」で{?e3-15}みがわり{?e3-15}守備力＋４８{?e3-15}スクルト{?e3-15}最大ＨＰ＋３６{?e3-15}ヘナトール{?e3-15}フバーハ{?e3-15}守備力＋７２{?e3-15}ベホイミ{?e3-15}などを覚える<TR>
+スキル「ブレイクフォース」で{?e3-15}たいあたり{?e3-15}最大ＨＰ＋２{?e3-15}ちょうはつ{?e3-15}最大ＨＰ＋８{?e3-15}ぶきみな光{?e3-15}すてみ{?e3-15}最大ＨＰ＋８{?e3-15}特攻{?e3-15}を覚える<TR>
+スキル「ブレイクフォース＋」で{?e3-15}たいあたり{?e3-15}最大ＨＰ＋１６{?e3-15}ちょうはつ{?e3-15}最大ＨＰ＋２４{?e3-15}ぶきみな光{?e3-15}すてみ{?e3-15}最大ＨＰ＋２４{?e3-15}特攻{?e3-15}などを覚える<TR>
+スキル「ブレイクフォースSP」で{?e3-15}たいあたり{?e3-15}最大ＨＰ＋２４{?e3-15}ちょうはつ{?e3-15}最大ＨＰ＋３６{?e3-15}ぶきみな光{?e3-15}すてみ{?e3-15}最大ＨＰ＋３６{?e3-15}特攻{?e3-15}などを覚える<TR>
+スキル「ワンダーフォース」で{?e3-15}ギラ{?e3-15}最大ＭＰ＋４{?e3-15}ドルマ{?e3-15}最大ＭＰ＋１６{?e3-15}光明斬り{?e3-15}無明斬り{?e3-15}最大ＭＰ＋１６{?e3-15}フバーハ{?e3-15}を覚える<TR>
+スキル「ワンダーフォース＋」で{?e3-15}光明斬り{?e3-15}最大ＭＰ＋３２{?e3-15}無明斬り{?e3-15}最大ＭＰ＋４８{?e3-15}ベギラマ{?e3-15}ドルクマ{?e3-15}最大ＭＰ＋４８{?e3-15}フバーハ{?e3-15}などを覚える<TR>
+スキル「ワンダーフォースSP」で{?e3-15}光明斬り{?e3-15}最大ＭＰ＋４８{?e3-15}無明斬り{?e3-15}最大ＭＰ＋７２{?e3-15}ギラグレイド{?e3-15}ドルマドン{?e3-15}最大ＭＰ＋７２{?e3-15}フバーハ{?e3-15}などを覚える<TR>
+スキル「死の力＋」で{?e3-15}死神の息吹{?e3-15}最大ＭＰ＋８{?e3-15}バハック{?e3-15}即死ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}うらみぶし{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋３２{?e3-15}などを覚える<TR>
+スキル「死の力SP」で{?e3-15}即死ガード＋{?e3-15}死神の息吹{?e3-15}かしこさ＋４０{?e3-15}うらみぶし{?e3-15}死の踊り{?e3-15}フバハック{?e3-15}ひょういのポルカ{?e3-15}かしこさ＋４８{?e3-15}などを覚える<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+スキル「炎の息吹」で{?e3-15}火の息{?e3-15}攻撃力＋２{?e3-15}攻撃力＋４{?e3-15}おたけび{?e3-15}やけつく息{?e3-15}攻撃力＋８{?e3-15}火ガード＋{?e3-15}火炎の息{?e3-15}を覚える<TR>
+スキル「炎の息吹＋」で{?e3-15}火炎の息{?e3-15}攻撃力＋８{?e3-15}攻撃力＋１２{?e3-15}おたけび{?e3-15}やけつく息{?e3-15}攻撃力＋２０{?e3-15}火ガード＋{?e3-15}息をすいこむ{?e3-15}などを覚える<TR>
+スキル「炎の息吹SP」で{?e3-15}おたけび{?e3-15}やけつく息{?e3-15}しゃくねつ{?e3-15}攻撃力＋２４{?e3-15}たたかいのふえ{?e3-15}息をすいこむ{?e3-15}攻撃力＋３６{?e3-15}火ガード＋{?e3-15}などを覚える<TR>
+スキル「氷の息吹」で{?e3-15}つめたい息{?e3-15}かしこさ＋４{?e3-15}かしこさ＋８{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}かしこさ＋１６{?e3-15}氷結ガード＋{?e3-15}こおりの息{?e3-15}を覚える<TR>
+スキル「氷の息吹＋」で{?e3-15}こおりの息{?e3-15}かしこさ＋１６{?e3-15}かしこさ＋２４{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}かしこさ＋４０{?e3-15}氷結ガード＋{?e3-15}息をすいこむ{?e3-15}などを覚える<TR>
+スキル「氷の息吹SP」で{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}かがやく息{?e3-15}かしこさ＋４８{?e3-15}ちしきのふえ{?e3-15}息をすいこむ{?e3-15}かしこさ＋７２{?e3-15}氷結ガード＋{?e3-15}などを覚える<TR>
+スキル「炎と氷の息吹＋」で{?e3-15}はげしい炎{?e3-15}こごえる吹雪{?e3-15}攻撃力＋２４{?e3-15}たたかいのふえ{?e3-15}かしこさ＋４８{?e3-15}ちしきのふえ{?e3-15}息をすいこむ{?e3-15}しゃくねつ{?e3-15}などを覚える<TR>
+スキル「炎と氷の息吹SP」で{?e3-15}しゃくねつ{?e3-15}かがやく息{?e3-15}攻撃力＋３６{?e3-15}たたかいのふえ{?e3-15}かしこさ＋７２{?e3-15}ちしきのふえ{?e3-15}息をすいこむ{?e3-15}れんごく火炎{?e3-15}などを覚える<TR>
+スキル「よどんだ息吹」で{?e3-15}おたけび{?e3-15}どくの息{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}やけつく息{?e3-15}呪いのことば{?e3-15}ぶきみな光{?e3-15}死神の息吹{?e3-15}を覚える<TR>
+スキル「よどんだ息吹＋」で{?e3-15}おたけび{?e3-15}もうどくの息{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}やけつく息{?e3-15}じゅそのこえ{?e3-15}ぶきみな光{?e3-15}死神の息吹{?e3-15}などを覚える<TR>
+スキル「よどんだ息吹SP」で{?e3-15}おたけび{?e3-15}もうどくの息{?e3-15}あまい息{?e3-15}まどいの息{?e3-15}やけつく息{?e3-15}じゅそのこえ{?e3-15}ぶきみな光{?e3-15}死神の息吹{?e3-15}などを覚える<TR>
+スキル「きらめく息吹」で{?e3-15}たたかいのふえ{?e3-15}まもりのふえ{?e3-15}ハヤブサのふえ{?e3-15}ちしきのふえ{?e3-15}ゆうきの旋風{?e3-15}息をすいこむ{?e3-15}いやしのふえ{?e3-15}やすらぎのふえ{?e3-15}を覚える<TR>
+スキル「きらめく息吹＋」で{?e3-15}たたかいのふえ{?e3-15}まもりのふえ{?e3-15}ハヤブサのふえ{?e3-15}ちしきのふえ{?e3-15}ゆうきの旋風{?e3-15}息をすいこむ{?e3-15}いやしのふえ{?e3-15}やすらぎのふえ{?e3-15}などを覚える<TR>
+スキル「きらめく息吹SP」で{?e3-15}たたかいのふえ{?e3-15}まもりのふえ{?e3-15}ハヤブサのふえ{?e3-15}ちしきのふえ{?e3-15}ゆうきの旋風{?e3-15}息をすいこむ{?e3-15}いやしのふえ{?e3-15}やすらぎのふえ{?e3-15}などを覚える<TR>
+スキル「スモールパワー」で{?e3-15}ピオラ{?e3-15}メダパニ{?e3-15}すねくだき{?e3-15}マヌーサ{?e3-15}なめまわし{?e3-15}みかわしきゃく{?e3-15}ピオリム{?e3-15}チェイン{?e3-15}を覚える<TR>
+スキル「スモールパワーSP」で{?e3-15}マヌーサ{?e3-15}すねくだき{?e3-15}ピオリム{?e3-15}メダパーニャ{?e3-15}みかわしきゃく{?e3-15}てんしのきまぐれ{?e3-15}バイメリト{?e3-15}チェイン{?e3-15}などを覚える<TR>
+スキル「ノーマルパワー」で{?e3-15}バイシオン{?e3-15}インテラ{?e3-15}ピオリム{?e3-15}スクルト{?e3-15}フバーハ{?e3-15}マホターン{?e3-15}パイルハンマー{?e3-15}ベホマラー{?e3-15}を覚える<TR>
+スキル「ノーマルパワーSP」で{?e3-15}バイシオン{?e3-15}インテラ{?e3-15}ピオリム{?e3-15}スクルト{?e3-15}フバーハ{?e3-15}マホターン{?e3-15}パイルハンマー{?e3-15}ベホマズン{?e3-15}などを覚える<TR>
+スキル「メガパワー」で{?e3-15}みかわしきゃく{?e3-15}かぶとわり{?e3-15}たいあたり{?e3-15}すてみ{?e3-15}かくれる{?e3-15}におう斬り{?e3-15}アンカーナックル{?e3-15}アタカンタ{?e3-15}を覚える<TR>
+スキル「メガパワーSP」で{?e3-15}みかわしきゃく{?e3-15}かぶとわり{?e3-15}たいあたり{?e3-15}すてみ{?e3-15}かくれる{?e3-15}におう斬り{?e3-15}アンカーナックル{?e3-15}アタカンタ{?e3-15}などを覚える<TR>
+スキル「ギガパワー」で{?e3-15}テンプルブロー{?e3-15}魔神斬り{?e3-15}バーハ{?e3-15}雷鳴斬り{?e3-15}ハッスルダンス{?e3-15}もろば斬り{?e3-15}無心のかまえ{?e3-15}リザオラル{?e3-15}を覚える<TR>
+スキル「ギガパワーSP」で{?e3-15}テンプルブロー{?e3-15}魔神斬り{?e3-15}バーハ{?e3-15}もろば斬り{?e3-15}ハッスルダンス{?e3-15}自動ＨＰ回復{?e3-15}無心のかまえ{?e3-15}リザオラル{?e3-15}などを覚える<TR>
+スキル「超ギガパワー」で{?e3-15}やいばくだき{?e3-15}ミラクルソード{?e3-15}マホカンタ{?e3-15}幻魔の獄{?e3-15}ハッスルダンス{?e3-15}修羅の獄{?e3-15}サゲサゲチョップ{?e3-15}ギガ・タメトラ{?e3-15}を覚える<TR>
+スキル「超ギガパワーSP」で{?e3-15}やいばくだき{?e3-15}マホカンタ{?e3-15}幻魔の獄{?e3-15}ハッスルダンス{?e3-15}修羅の獄{?e3-15}自動ＭＰ回復{?e3-15}サゲサゲチョップ{?e3-15}ギガ・タメトラ{?e3-15}などを覚える<TR>
+スキル「ＨＰ回復」で{?e3-15}ホイミ{?e3-15}スカラ{?e3-15}リホイミ{?e3-15}シャナク{?e3-15}バーハ{?e3-15}まもりの霧{?e3-15}ベホイミ{?e3-15}ザオラル{?e3-15}を覚える<TR>
+スキル「ＨＰ回復SP」で{?e3-15}ベホイミ{?e3-15}リベホイミ{?e3-15}ザオラル{?e3-15}フバーハ{?e3-15}まもりの霧{?e3-15}ベホイマ{?e3-15}リベホイム{?e3-15}めいそう{?e3-15}などを覚える<TR>
+スキル「全体回復」で{?e3-15}ホイミ{?e3-15}スクルト{?e3-15}キアリク{?e3-15}フバーハ{?e3-15}ベホマラー{?e3-15}バイメリト{?e3-15}ザオラル{?e3-15}マホターン{?e3-15}などを覚える<TR>
+スキル「全体回復SP」で{?e3-15}ベホマラー{?e3-15}ザオラル{?e3-15}フバーハ{?e3-15}マホターン{?e3-15}いやしの雨{?e3-15}バイメリト{?e3-15}いやしのふえ{?e3-15}せいれいのうた{?e3-15}などを覚える<TR>
+スキル「異常回復」で{?e3-15}キアラル{?e3-15}キアリク{?e3-15}キアリー{?e3-15}シャナク{?e3-15}バーハ{?e3-15}かくれる{?e3-15}アタカンタ{?e3-15}アストロン{?e3-15}を覚える<TR>
+スキル「異常回復SP」で{?e3-15}キアラル{?e3-15}キアリク{?e3-15}キアリー{?e3-15}シャナク{?e3-15}フバーハ{?e3-15}バイメリト{?e3-15}アタカンタ{?e3-15}アストロン{?e3-15}などを覚える<TR>
+スキル「ＭＰ回復」で{?e3-15}マホトラ{?e3-15}バハック{?e3-15}マホトラ踊り{?e3-15}マホターン{?e3-15}フバハック{?e3-15}マホカンタ{?e3-15}ＭＰ吸収ガード＋{?e3-15}やすらぎのふえ{?e3-15}などを覚える<TR>
+スキル「ＭＰ回復SP」で{?e3-15}マホトラ{?e3-15}バハック{?e3-15}マホトラ踊り{?e3-15}マホターン{?e3-15}フバハック{?e3-15}マホカンタ{?e3-15}ＭＰ吸収ガード＋{?e3-15}やすらぎのふえ{?e3-15}などを覚える<TR>
+スキル「黒い霧マスター」で{?e3-15}やいばくだき{?e3-15}かぶとわり{?e3-15}すねくだき{?e3-15}テンプルブロー{?e3-15}ミラクルソード{?e3-15}ぶきみな光{?e3-15}めいそう{?e3-15}いやしの雨{?e3-15}などを覚える<TR>
+スキル「黒い霧マスターSP」で{?e3-15}やいばくだき{?e3-15}かぶとわり{?e3-15}すねくだき{?e3-15}テンプルブロー{?e3-15}黒い霧{?e3-15}ぶきみな光{?e3-15}めいそう{?e3-15}いやしの雨{?e3-15}などを覚える<TR>
+スキル「赤い霧マスター」で{?e3-15}おにび{?e3-15}しんくうは{?e3-15}てっぽう水{?e3-15}じひびき{?e3-15}フバハック{?e3-15}ヘルメリト{?e3-15}まもりの霧{?e3-15}やみのはもん{?e3-15}などを覚える<TR>
+スキル「赤い霧マスターSP」で{?e3-15}火炎竜{?e3-15}トルネード{?e3-15}つなみ{?e3-15}がんせきおとし{?e3-15}赤い霧{?e3-15}フバハック{?e3-15}ヘルメリト{?e3-15}まもりの霧{?e3-15}などを覚える<TR>
+スキル「白い霧マスター」で{?e3-15}メラミ{?e3-15}バギマ{?e3-15}ジバリカ{?e3-15}ザバラ{?e3-15}大きなため息{?e3-15}死の踊り{?e3-15}マホターン{?e3-15}つるぎのまい{?e3-15}などを覚える<TR>
+スキル「白い霧マスターSP」で{?e3-15}メラガイアー{?e3-15}バギムーチョ{?e3-15}ジバルンバ{?e3-15}ザバトローム{?e3-15}白い霧{?e3-15}大きなため息{?e3-15}死の踊り{?e3-15}マホターン{?e3-15}などを覚える<TR>
+スキル「冥界の霧マスター」で{?e3-15}ぎゃくふう{?e3-15}天地のかまえ{?e3-15}無心のかまえ{?e3-15}ミラーステップ{?e3-15}マホターン{?e3-15}ステルスアタック{?e3-15}アストロン{?e3-15}ひょういのポルカ{?e3-15}などを覚える<TR>
+スキル「冥界の霧マスターSP」で{?e3-15}ぎゃくふう{?e3-15}天地のかまえ{?e3-15}無心のかまえ{?e3-15}ミラーステップ{?e3-15}冥界の霧{?e3-15}マホターン{?e3-15}ステルスアタック{?e3-15}アストロン{?e3-15}などを覚える<TR>
+スキル「青天の霧マスター」で{?e3-15}すてみ{?e3-15}バイキルト{?e3-15}インテ{?e3-15}つるぎのまい{?e3-15}ルカニ{?e3-15}ばくれつけん{?e3-15}ゆうきの旋風{?e3-15}アンカーナックル{?e3-15}などを覚える<TR>
+スキル「青天の霧マスターSP」で{?e3-15}すてみ{?e3-15}バイシオン{?e3-15}インテラ{?e3-15}つるぎのまい{?e3-15}青天の霧{?e3-15}ルカナン{?e3-15}ばくれつけん{?e3-15}アンカーナックル{?e3-15}などを覚える<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+スキル「さいみん」で{?e3-15}ラリホー{?e3-15}マヌーサ{?e3-15}バハック{?e3-15}メダパニ{?e3-15}まどいの息{?e3-15}なめまわし{?e3-15}ラリホーマ{?e3-15}メダパーニャ{?e3-15}などを覚える<TR>
+スキル「どくが」で{?e3-15}どくの息{?e3-15}すなけむり{?e3-15}やけつく息{?e3-15}ぎゃくふう{?e3-15}もうどくの息{?e3-15}狂気のかまえ{?e3-15}キアリー{?e3-15}キアリク{?e3-15}などを覚える<TR>
+スキル「ホラー」で{?e3-15}やけつく息{?e3-15}マヌーサ{?e3-15}呪いのルンバ{?e3-15}ぶきみな光{?e3-15}じゅそのこえ{?e3-15}うらみぶし{?e3-15}みなごろし{?e3-15}レクイエムのふえ{?e3-15}などを覚える<TR>
+スキル「じごく」で{?e3-15}メダパニ{?e3-15}発火{?e3-15}ベタン{?e3-15}ザキ{?e3-15}みなごろし{?e3-15}ステルスアタック{?e3-15}おにび{?e3-15}無明斬り{?e3-15}などを覚える<TR>
+スキル「じこぎせい」で{?e3-15}もろば斬り{?e3-15}たいあたり{?e3-15}すてみ{?e3-15}ちょうはつ{?e3-15}特攻{?e3-15}みがわり{?e3-15}メガンテ{?e3-15}ひょういのポルカ{?e3-15}などを覚える<TR>
+スキル「インスパイア」で{?e3-15}マホトラ踊り{?e3-15}ぶきみな光{?e3-15}さそう踊り{?e3-15}ミラーステップ{?e3-15}ぎゃくふう{?e3-15}なめまわし{?e3-15}みかわしきゃく{?e3-15}ハヤブサのふえ{?e3-15}などを覚える<TR>
+スキル「ナイトメア」で{?e3-15}マホトラ{?e3-15}マヌーサ{?e3-15}あまい息{?e3-15}ぶきみな光{?e3-15}死の踊り{?e3-15}ねむりガード＋{?e3-15}ＭＰ吸収ガード＋{?e3-15}やみのはもん{?e3-15}などを覚える<TR>
+スキル「コールドスリープ」で{?e3-15}ラリホー{?e3-15}つめたい息{?e3-15}バーハ{?e3-15}ザキ{?e3-15}こおりの息{?e3-15}ラリホーマ{?e3-15}ねむりガード＋{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「ゆうき」で{?e3-15}ライデイン{?e3-15}リベホイミ{?e3-15}におう斬り{?e3-15}ベホマラー{?e3-15}ギガデイン{?e3-15}ギガスラッシュ{?e3-15}グランドクロス{?e3-15}電撃ガード＋{?e3-15}などを覚える<TR>
+スキル「みずげい」で{?e3-15}水しぶき{?e3-15}ベホイミ{?e3-15}さそう踊り{?e3-15}てっぽう水{?e3-15}まもりの霧{?e3-15}いやしの雨{?e3-15}つなみ{?e3-15}自動ＭＰ回復{?e3-15}などを覚える<TR>
+スキル「巨大モンスターつぶし」で{?e3-15}踊りよそく{?e3-15}呪文よそく{?e3-15}息よそく{?e3-15}マホターン{?e3-15}アタカンタ{?e3-15}物理よそく{?e3-15}ギガ・タメトラ{?e3-15}ギガ・マホトラ{?e3-15}などを覚える<TR>
+スキル「ゴースト」で{?e3-15}ラリホー{?e3-15}ドルマ{?e3-15}バハック{?e3-15}インテ{?e3-15}マホトラ踊り{?e3-15}なめまわし{?e3-15}マヌーサ{?e3-15}しょうひＭＰせつやく{?e3-15}を覚える<TR>
+スキル「スライムナイト」で{?e3-15}雷鳴斬り{?e3-15}マホトラ{?e3-15}攻撃力＋１２{?e3-15}ベホイミ{?e3-15}さみだれ斬り{?e3-15}攻撃力＋１６{?e3-15}タナトスハント{?e3-15}ギガスラッシュ{?e3-15}を覚える<TR>
+スキル「さまようよろい」で{?e3-15}リホイミ{?e3-15}守備力＋８{?e3-15}攻撃力＋４{?e3-15}スカラ{?e3-15}魔神斬り{?e3-15}守備力＋１６{?e3-15}攻撃力＋８{?e3-15}ギガブレイク{?e3-15}を覚える<TR>
+スキル「キラーマシン」で{?e3-15}火炎斬り{?e3-15}水流斬り{?e3-15}真空斬り{?e3-15}岩石斬り{?e3-15}ヒュプノスハント{?e3-15}さみだれ斬り{?e3-15}におう斬り{?e3-15}ばくれつけん{?e3-15}を覚える<TR>
+スキル「おばけきのこ」で{?e3-15}あまい息{?e3-15}キアラル{?e3-15}キアリク{?e3-15}星くず{?e3-15}キアリー{?e3-15}シャナク{?e3-15}もうどくの息{?e3-15}ハッスルダンス{?e3-15}を覚える<TR>
+スキル「あばれうしどり」で{?e3-15}やいばくだき{?e3-15}かぶとわり{?e3-15}攻撃力＋８{?e3-15}まわしげり{?e3-15}守備力＋１６{?e3-15}たいあたり{?e3-15}最大ＨＰ＋８{?e3-15}パイルハンマー{?e3-15}を覚える<TR>
+スキル「ギガンテス」で{?e3-15}魔神斬り{?e3-15}たいあたり{?e3-15}狂気のかまえ{?e3-15}ギガスラッシュ{?e3-15}アンカーナックル{?e3-15}みなごろし{?e3-15}ギガブレイク{?e3-15}大地斬{?e3-15}を覚える<TR>
+スキル「ボストロール」で{?e3-15}かぶとわり{?e3-15}たいあたり{?e3-15}攻撃力＋１２{?e3-15}すてみ{?e3-15}じひびき{?e3-15}攻撃力＋１２{?e3-15}特攻{?e3-15}守滅の刻{?e3-15}を覚える<TR>
+スキル「バトルレックス」で{?e3-15}火炎の息{?e3-15}魔神斬り{?e3-15}せいけんづき{?e3-15}攻撃力＋１２{?e3-15}おにび{?e3-15}守備力＋２４{?e3-15}ギガスラッシュ{?e3-15}はげしい炎{?e3-15}を覚える<TR>
+スキル「リザードマン」で{?e3-15}さみだれ斬り{?e3-15}ちょうはつ{?e3-15}守備力＋１６{?e3-15}タナトスハント{?e3-15}アンカーナックル{?e3-15}守備力＋２４{?e3-15}せいけんづき{?e3-15}魔神斬り{?e3-15}を覚える<TR>
+スキル「アッパー」で{?e3-15}ホイミ{?e3-15}バイキルト{?e3-15}スカラ{?e3-15}ピオラ{?e3-15}インテ{?e3-15}バイシオン{?e3-15}スクルト{?e3-15}ピオリム{?e3-15}などを覚える<TR>
+スキル「ダウナー」で{?e3-15}バハック{?e3-15}ヘナトス{?e3-15}ルカニ{?e3-15}ボミエ{?e3-15}フール{?e3-15}ヘナトール{?e3-15}ルカナン{?e3-15}ボミオス{?e3-15}などを覚える<TR>
+スキル「大魔王ゾーマ」で{?e3-15}こごえる吹雪{?e3-15}マヒャド{?e3-15}ベホイマ{?e3-15}ぶきみな光{?e3-15}ビッグバン{?e3-15}かがやく息{?e3-15}マヒャデドス{?e3-15}ヘルメリト{?e3-15}などを覚える<TR>
+スキル「竜王」で{?e3-15}マホターン{?e3-15}こごえる吹雪{?e3-15}はげしい炎{?e3-15}ラリホーマ{?e3-15}ベホイマ{?e3-15}ぶきみな光{?e3-15}かがやく息{?e3-15}しゃくねつ{?e3-15}などを覚える<TR>
+スキル「破壊神シドー」で{?e3-15}ラリホーマ{?e3-15}はげしい炎{?e3-15}自動ＨＰ回復{?e3-15}スクルト{?e3-15}バイメリト{?e3-15}守備力ガード＋{?e3-15}ザオリク{?e3-15}フバーハ{?e3-15}などを覚える<TR>
+スキル「エスターク」で{?e3-15}メラゾーマ{?e3-15}イオナズン{?e3-15}もろば斬り{?e3-15}さみだれ斬り{?e3-15}ぶきみな光{?e3-15}メラガイアー{?e3-15}イオグランデ{?e3-15}かがやく息{?e3-15}などを覚える<TR>
+スキル「デスピサロ」で{?e3-15}スクルト{?e3-15}あまい息{?e3-15}ベギラマ{?e3-15}ヒャダルコ{?e3-15}はげしい炎{?e3-15}ベギラゴン{?e3-15}ゼロのしょうげき{?e3-15}めいそう{?e3-15}などを覚える<TR>
+スキル「ミルドラース」で{?e3-15}メラゾーマ{?e3-15}ぎゃくふう{?e3-15}インテラ{?e3-15}ルカナン{?e3-15}イオナズン{?e3-15}自動ＨＰ回復{?e3-15}いてつくはもん{?e3-15}みなごろし{?e3-15}などを覚える<TR>
+スキル「デスタムーア」で{?e3-15}もうどくの息{?e3-15}魔神斬り{?e3-15}いてつくはもん{?e3-15}たいあたり{?e3-15}イオナズン{?e3-15}はげしい炎{?e3-15}自動ＭＰ回復{?e3-15}めいそう{?e3-15}などを覚える<TR>
+スキル「オルゴ・デミーラ」で{?e3-15}おたけび{?e3-15}マホターン{?e3-15}あまい息{?e3-15}メラゾーマ{?e3-15}しんくうは{?e3-15}たいあたり{?e3-15}ギガブレイク{?e3-15}メラガイアー{?e3-15}などを覚える<TR>
+スキル「ラプソーン」で{?e3-15}マホトラ{?e3-15}マフール{?e3-15}ラリホーマ{?e3-15}アストロン{?e3-15}ぶきみな光{?e3-15}こごえる吹雪{?e3-15}盲信のかまえ{?e3-15}バギクロス{?e3-15}などを覚える<TR>
+スキル「堕天使エルギオス」で{?e3-15}ばくれつけん{?e3-15}やけつく息{?e3-15}いてつくはもん{?e3-15}メラガイアー{?e3-15}かがやく息{?e3-15}ジゴスパーク{?e3-15}てんしのきまぐれ{?e3-15}マダンテ{?e3-15}などを覚える<TR>
+スキル「冥獣王ネルゲル」で{?e3-15}おたけび{?e3-15}流星{?e3-15}いてつくはもん{?e3-15}マホターン{?e3-15}天地のかまえ{?e3-15}マヒャデドス{?e3-15}ドルマドン{?e3-15}イオグランデ{?e3-15}などを覚える<TR>
+スキル「真・災厄の王」で{?e3-15}ばくれつけん{?e3-15}じひびき{?e3-15}乱心のかまえ{?e3-15}盲信のかまえ{?e3-15}ジゴデイン{?e3-15}みなごろし{?e3-15}守滅の刻{?e3-15}ジゴスパーク{?e3-15}などを覚える<TR>
+スキル「魔勇者アンルシア」で{?e3-15}魔神斬り{?e3-15}さみだれ斬り{?e3-15}乱心のかまえ{?e3-15}ジゴデイン{?e3-15}もろば斬り{?e3-15}ジバルンバ{?e3-15}シャイニングボウ{?e3-15}しんらばんしょう斬{?e3-15}などを覚える<TR>
+スキル「JOKER」で{?e3-15}火炎竜{?e3-15}つなみ{?e3-15}物理よそく{?e3-15}がんせきおとし{?e3-15}マヒガード＋{?e3-15}ジゴスパーク{?e3-15}ハッスルダンス{?e3-15}トルネード{?e3-15}などを覚える<TR>
+スキル「デモンスペーディオ」で{?e3-15}ドルモーア{?e3-15}無明斬り{?e3-15}やみのはもん{?e3-15}物理よそく{?e3-15}闇ガード＋{?e3-15}早滅の刻{?e3-15}ドルマドン{?e3-15}呪いガード＋{?e3-15}などを覚える<TR>
+スキル「キングスペーディオ」で{?e3-15}ベギラゴン{?e3-15}光明斬り{?e3-15}光のはもん{?e3-15}物理よそく{?e3-15}光ガード＋{?e3-15}攻滅の刻{?e3-15}ギラグレイド{?e3-15}こんらんガード＋{?e3-15}などを覚える<TR>
+スキル「ガルマッゾ」で{?e3-15}おたけび{?e3-15}やみのはもん{?e3-15}アストロン{?e3-15}ヘナトール{?e3-15}もうどくの息{?e3-15}ジゴスパーク{?e3-15}めいそう{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「闘神レオソード」で{?e3-15}おたけび{?e3-15}ルカナン{?e3-15}めいそう{?e3-15}自動ＭＰ回復{?e3-15}マヒャデドス{?e3-15}メラガイアー{?e3-15}てんしのきまぐれ{?e3-15}しんらばんしょう斬{?e3-15}などを覚える<TR>
+スキル「ヒヒュドラード」で{?e3-15}ハッスルダンス{?e3-15}かくらんの叫び{?e3-15}ＭＰ吸収ガード＋{?e3-15}こんらんガード＋{?e3-15}いてつくはもん{?e3-15}ヘルメリト{?e3-15}ラウンドゼロ{?e3-15}ミラーステップ{?e3-15}などを覚える<TR>
+スキル「聖竜ミラクレア」で{?e3-15}バイキルト{?e3-15}修羅の獄{?e3-15}自動ＨＰ回復{?e3-15}グランドクロス{?e3-15}自動ＭＰ回復{?e3-15}オーロラブレス{?e3-15}光ガード＋{?e3-15}ＭＰ吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「名もなき闇の王」で{?e3-15}ヘルメリト{?e3-15}マホターン{?e3-15}ゼロのしょうげき{?e3-15}ギガ・マホトラ{?e3-15}冥界の霧{?e3-15}星のきせき{?e3-15}青天の霧{?e3-15}修羅の獄{?e3-15}などを覚える<TR>
+スキル「ジャハガロス」で{?e3-15}バイキルト{?e3-15}バギクロス{?e3-15}やけつく息{?e3-15}ばくれつけん{?e3-15}空裂斬{?e3-15}せいけんづき{?e3-15}電撃ガード＋{?e3-15}シャイニングボウ{?e3-15}などを覚える<TR>
+スキル「闇竜シャムダ」で{?e3-15}冥界の霧{?e3-15}まもりの霧{?e3-15}ステルスアタック{?e3-15}ブラックホール{?e3-15}スモールキラー{?e3-15}ドルマータ{?e3-15}闇ガード＋{?e3-15}トルネード{?e3-15}などを覚える<TR>
+スキル「闇の王ヴラート」で{?e3-15}冥界の霧{?e3-15}やみのはもん{?e3-15}天地のかまえ{?e3-15}じごくの踊り{?e3-15}ギガキラー{?e3-15}ドルマータ{?e3-15}闇ガード＋{?e3-15}ジゴスパーク{?e3-15}などを覚える<TR>
+スキル「ラーミア」で{?e3-15}光のはもん{?e3-15}マホカンタ{?e3-15}ベホイマ{?e3-15}シャイニングボウ{?e3-15}星うらない{?e3-15}せいれいのうた{?e3-15}ザオリク{?e3-15}メガザル{?e3-15}などを覚える<TR>
+スキル「神鳥レティス」で{?e3-15}フバーハ{?e3-15}ベホマラー{?e3-15}リバース{?e3-15}キアラル{?e3-15}いてつくはもん{?e3-15}インテラ{?e3-15}ギガデイン{?e3-15}ゆうきの旋風{?e3-15}などを覚える<TR>
+スキル「竜神王」で{?e3-15}マホターン{?e3-15}かがやく息{?e3-15}しゃくねつ{?e3-15}おたけび{?e3-15}ゆうきの旋風{?e3-15}ギガデイン{?e3-15}光の旋風{?e3-15}守滅の刻{?e3-15}などを覚える<TR>
+スキル「メタルハンター」で{?e3-15}ピオラ{?e3-15}メタル斬り{?e3-15}かぶとわり{?e3-15}すばやさ＋３２{?e3-15}魔神斬り{?e3-15}メタルハンター{?e3-15}ばくれつけん{?e3-15}せいけんづき{?e3-15}などを覚える<TR>
+スキル「キラーマジンガ」で{?e3-15}かぶとわり{?e3-15}もろば斬り{?e3-15}魔神斬り{?e3-15}タナトスハント{?e3-15}ヒュプノスハント{?e3-15}つるぎのまい{?e3-15}さみだれ斬り{?e3-15}パイルハンマー{?e3-15}などを覚える<TR>
+スキル「ファイナルウェポン」で{?e3-15}かぶとわり{?e3-15}狂気のかまえ{?e3-15}アタカンタ{?e3-15}乱心のかまえ{?e3-15}ルカナン{?e3-15}攻撃力ガード＋{?e3-15}シャイニングボウ{?e3-15}特攻{?e3-15}などを覚える<TR>
+スキル「にじくじゃく」で{?e3-15}はげしい炎{?e3-15}こごえる吹雪{?e3-15}ベギラゴン{?e3-15}光のはもん{?e3-15}だいぼうぎょ{?e3-15}もろば斬り{?e3-15}マダンテ{?e3-15}無心のかまえ{?e3-15}などを覚える<TR>
+スキル「こうじちゅう」で{?e3-15}いわなげ{?e3-15}発火{?e3-15}かまいたち{?e3-15}水しぶき{?e3-15}地ガード＋{?e3-15}重力ガード＋{?e3-15}たいあたり{?e3-15}じひびき{?e3-15}などを覚える<TR>
+スキル「ダイナマイト」で{?e3-15}いわなげ{?e3-15}岩石斬り{?e3-15}ジバリア{?e3-15}じひびき{?e3-15}爆砕斬り{?e3-15}イオナズン{?e3-15}メガンテ{?e3-15}ビッグバン{?e3-15}などを覚える<TR>
+スキル「ミミック」で{?e3-15}ザキ{?e3-15}マホトラ{?e3-15}即死ガード＋{?e3-15}星のきせき{?e3-15}じゅそのこえ{?e3-15}ＭＰ吸収ガード＋{?e3-15}みちづれのワルツ{?e3-15}ザラキ{?e3-15}などを覚える<TR>
+スキル「若葉の精霊」で{?e3-15}バギクロス{?e3-15}風ガード＋{?e3-15}ベホイミ{?e3-15}地ガード＋{?e3-15}リベホイミ{?e3-15}かまいたち{?e3-15}たいあたり{?e3-15}バギマータ{?e3-15}などを覚える<TR>
+スキル「暗黒大樹の番人」で{?e3-15}ドルクマ{?e3-15}マヌーサ{?e3-15}闇ガード＋{?e3-15}バハック{?e3-15}呪いの鉄槌{?e3-15}ドルモーア{?e3-15}呪いガード＋{?e3-15}うらみぶし{?e3-15}などを覚える<TR>
+スキル「密林の守人」で{?e3-15}バギクロス{?e3-15}イオナズン{?e3-15}ドルモーア{?e3-15}スクルト{?e3-15}まわしげり{?e3-15}におう斬り{?e3-15}守備力ガード＋{?e3-15}バギムーチョ{?e3-15}などを覚える<TR>
+スキル「水竜ギルギッシュ」で{?e3-15}ザバラーン{?e3-15}水ガード＋{?e3-15}インテラ{?e3-15}マホターン{?e3-15}かしこさガード＋{?e3-15}ザオラル{?e3-15}つなみ{?e3-15}ＭＰ吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「青天竜バルケロス」で{?e3-15}ザバラーン{?e3-15}マヒャド{?e3-15}マホターン{?e3-15}水ガード＋{?e3-15}氷結ガード＋{?e3-15}フバーハ{?e3-15}リザオラル{?e3-15}青天の霧{?e3-15}などを覚える<TR>
+スキル「大怨霊マアモン」で{?e3-15}じゅそのこえ{?e3-15}メラゾーマ{?e3-15}攻滅の刻{?e3-15}テンションシフト{?e3-15}かくらんの叫び{?e3-15}星のきせき{?e3-15}やみのはもん{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「けがれの渦」で{?e3-15}盲信のかまえ{?e3-15}じゅそのこえ{?e3-15}死神の息吹{?e3-15}即死ガード＋{?e3-15}ドルモーア{?e3-15}呪いガード＋{?e3-15}白い霧{?e3-15}ザラキ{?e3-15}などを覚える<TR>
+スキル「どくどくバルーン」で{?e3-15}もうどくの息{?e3-15}フバハック{?e3-15}どくガード＋{?e3-15}盲信のかまえ{?e3-15}星うらない{?e3-15}テンションパサー{?e3-15}息をすいこむ{?e3-15}心機一転{?e3-15}などを覚える<TR>
+スキル「ウルベア魔神兵」で{?e3-15}ジバリカ{?e3-15}岩石斬り{?e3-15}さみだれ斬り{?e3-15}すねくだき{?e3-15}守備力ガード＋{?e3-15}魔神斬り{?e3-15}パイルハンマー{?e3-15}ばくれつけん{?e3-15}などを覚える<TR>
+スキル「獣魔将ガルレイ」で{?e3-15}ジゴデイン{?e3-15}たいあたり{?e3-15}攻撃力ガード＋{?e3-15}バイキルト{?e3-15}スカラ{?e3-15}守備力ガード＋{?e3-15}ギガブレイク{?e3-15}マホカンタ{?e3-15}などを覚える<TR>
+スキル「魔軍師イッド」で{?e3-15}やけつく踊り{?e3-15}フバハック{?e3-15}ラリホーマ{?e3-15}メラガイアー{?e3-15}イオグランデ{?e3-15}休みガード＋{?e3-15}マフール{?e3-15}光のはもん{?e3-15}などを覚える<TR>
+スキル「幻魔将ファズマ」で{?e3-15}インテ{?e3-15}ラリホーマ{?e3-15}メダパーニャ{?e3-15}マヌーサ{?e3-15}ねむりガード＋{?e3-15}バギムーチョ{?e3-15}ドルマドン{?e3-15}ヘルメリト{?e3-15}などを覚える<TR>
+スキル「怪蟲アラグネ」で{?e3-15}ボミオス{?e3-15}もうどくの息{?e3-15}光のはもん{?e3-15}いてつくはもん{?e3-15}ルカナン{?e3-15}メダパーニャ{?e3-15}どくガード＋{?e3-15}悪夢のよびごえ{?e3-15}などを覚える<TR>
+スキル「妖魔将ゲジュラ」で{?e3-15}ボミオス{?e3-15}もうどくの息{?e3-15}フバハック{?e3-15}やみのはもん{?e3-15}ルカナン{?e3-15}ザラキ{?e3-15}即死ガード＋{?e3-15}悪夢のよびごえ{?e3-15}などを覚える<TR>
+スキル「妖魔ジュリアンテ」で{?e3-15}バイキルト{?e3-15}すなけむり{?e3-15}ぶきみな光{?e3-15}ぎゃくふう{?e3-15}さそう踊り{?e3-15}メダパーニャ{?e3-15}遊び人のマイム{?e3-15}ヘルメリト{?e3-15}などを覚える<TR>
+スキル「舞踏魔プレシアンナ」で{?e3-15}バギクロス{?e3-15}さそう踊り{?e3-15}マホカンタ{?e3-15}ミラーステップ{?e3-15}天地のかまえ{?e3-15}無心のかまえ{?e3-15}ハッスルダンス{?e3-15}アタカンタ{?e3-15}などを覚える<TR>
+スキル「呪術師マリーン」で{?e3-15}魔神斬り{?e3-15}なめまわし{?e3-15}ルカナン{?e3-15}呪いのルンバ{?e3-15}呪いガード＋{?e3-15}光のはもん{?e3-15}いてつくはもん{?e3-15}じひびき{?e3-15}などを覚える<TR>
+スキル「豪魔将ベリンダ」で{?e3-15}雷鳴斬り{?e3-15}零度斬り{?e3-15}テンプルブロー{?e3-15}さみだれ斬り{?e3-15}におう斬り{?e3-15}マホカンタ{?e3-15}まわしげり{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「豪魔将ブレンダ」で{?e3-15}ルカナン{?e3-15}マヒャド{?e3-15}イオナズン{?e3-15}マフール{?e3-15}フバハック{?e3-15}アタカンタ{?e3-15}リザオラル{?e3-15}かしこさガード＋{?e3-15}などを覚える<TR>
+スキル「妖剣士オーレン」で{?e3-15}魔神斬り{?e3-15}やいばくだき{?e3-15}かぶとわり{?e3-15}すねくだき{?e3-15}テンプルブロー{?e3-15}攻撃力ガード＋{?e3-15}ぬすっと斬り{?e3-15}ゴールドアタック{?e3-15}などを覚える<TR>
+スキル「月夜の将」で{?e3-15}爆砕斬り{?e3-15}零度斬り{?e3-15}雷鳴斬り{?e3-15}圧縮斬り{?e3-15}ギガスラッシュ{?e3-15}攻撃力ガード＋{?e3-15}タナトスハント{?e3-15}ヒュプノスハント{?e3-15}などを覚える<TR>
+スキル「悪魔ザイガス」で{?e3-15}しっぷうづき{?e3-15}ぶきみな光{?e3-15}メラミ{?e3-15}イオラ{?e3-15}パイルハンマー{?e3-15}特攻{?e3-15}チェイン{?e3-15}やみのはもん{?e3-15}などを覚える<TR>
+スキル「魔人ゼクセン」で{?e3-15}魔神斬り{?e3-15}うらみぶし{?e3-15}ステルスアタック{?e3-15}ザラキ{?e3-15}マホカンタ{?e3-15}シャッフル{?e3-15}ベタロール{?e3-15}メラガイアー{?e3-15}などを覚える<TR>
+スキル「悪魔長ジウギス」で{?e3-15}ドルモーア{?e3-15}ジバリーナ{?e3-15}じゅそのこえ{?e3-15}もうどくの息{?e3-15}やみのはもん{?e3-15}ドルマータ{?e3-15}ジバマータ{?e3-15}レクイエムのふえ{?e3-15}などを覚える<TR>
+スキル「黒き花婿」で{?e3-15}かくらんの叫び{?e3-15}背水のかまえ{?e3-15}ぎゃくふう{?e3-15}星のきせき{?e3-15}ばくれつけん{?e3-15}天地のかまえ{?e3-15}悪夢のよびごえ{?e3-15}みちづれのワルツ{?e3-15}などを覚える<TR>
+スキル「深海の守護者」で{?e3-15}ザバラーン{?e3-15}背水のかまえ{?e3-15}ばくれつけん{?e3-15}心機一転{?e3-15}まもりの霧{?e3-15}ザバマータ{?e3-15}アイアンゲイザー{?e3-15}つなみ{?e3-15}などを覚える<TR>
+スキル「キャット・リベリオ」で{?e3-15}爆発ガード＋{?e3-15}耐性ガード＋{?e3-15}攻撃力ガード＋{?e3-15}黒い霧{?e3-15}白い霧{?e3-15}赤い霧{?e3-15}光のはもん{?e3-15}ゼロのしょうげき{?e3-15}などを覚える<TR>
+スキル「怪獣プスゴン」で{?e3-15}たいあたり{?e3-15}だいぼうぎょ{?e3-15}乱心のかまえ{?e3-15}やけつく息{?e3-15}特攻{?e3-15}息をすいこむ{?e3-15}ハッスルダンス{?e3-15}守滅の刻{?e3-15}などを覚える<TR>
+スキル「覚醒プスゴン」で{?e3-15}爆発ガード＋{?e3-15}ギガデイン{?e3-15}イオナズン{?e3-15}まわしげり{?e3-15}チェンジ{?e3-15}特攻{?e3-15}パルプンテ{?e3-15}デイナマータ{?e3-15}などを覚える<TR>
+スキル「破戒王ベルムド」で{?e3-15}バギクロス{?e3-15}おたけび{?e3-15}におう斬り{?e3-15}たいあたり{?e3-15}せいけんづき{?e3-15}狂気のかまえ{?e3-15}スキップ{?e3-15}バギマータ{?e3-15}などを覚える<TR>
+スキル「魔元帥ゼルドラド」で{?e3-15}いてつくはもん{?e3-15}天地のかまえ{?e3-15}物理よそく{?e3-15}ぎゃくふう{?e3-15}心機一転{?e3-15}スキップ{?e3-15}ジゴデイン{?e3-15}イオグランデ{?e3-15}などを覚える<TR>
+スキル「魔女グレイツェル」で{?e3-15}タメトラ踊り{?e3-15}マホトラ踊り{?e3-15}やけつく踊り{?e3-15}さそう踊り{?e3-15}ポイズンステップ{?e3-15}呪いのルンバ{?e3-15}死の踊り{?e3-15}ミラーステップ{?e3-15}などを覚える<TR>
+スキル「暴君バサグランデ」で{?e3-15}おたけび{?e3-15}ベギラゴン{?e3-15}光のはもん{?e3-15}いてつくはもん{?e3-15}デイナマータ{?e3-15}ギラマータ{?e3-15}攻撃力＋２０{?e3-15}守備力＋４０{?e3-15}などを覚える<TR>
+スキル「天魔クァバルナ」で{?e3-15}まわしげり{?e3-15}メラゾーマ{?e3-15}光のはもん{?e3-15}ドルモーア{?e3-15}いてつくはもん{?e3-15}イオナズン{?e3-15}自動ＨＰ回復{?e3-15}自動ＭＰ回復{?e3-15}などを覚える<TR>
+スキル「守護者ラズバーン」で{?e3-15}さみだれ斬り{?e3-15}せいけんづき{?e3-15}光のはもん{?e3-15}いてつくはもん{?e3-15}れんごく火炎{?e3-15}星のきせき{?e3-15}ゆうきの斬舞{?e3-15}最大ＨＰ＋２０{?e3-15}などを覚える<TR>
+スキル「赤飛竜」で{?e3-15}しゃくねつ{?e3-15}おたけび{?e3-15}攻撃力ガード＋{?e3-15}やいばくだき{?e3-15}つるぎのまい{?e3-15}さみだれ斬り{?e3-15}攻撃力＋２０{?e3-15}火炎竜{?e3-15}などを覚える<TR>
+スキル「青飛竜」で{?e3-15}かがやく息{?e3-15}おたけび{?e3-15}かしこさガード＋{?e3-15}テンプルブロー{?e3-15}つるぎのまい{?e3-15}さみだれ斬り{?e3-15}かしこさ＋４０{?e3-15}つなみ{?e3-15}などを覚える<TR>
+スキル「黄飛竜」で{?e3-15}しんくうは{?e3-15}おたけび{?e3-15}すばやさガード＋{?e3-15}すねくだき{?e3-15}つるぎのまい{?e3-15}さみだれ斬り{?e3-15}すばやさ＋４０{?e3-15}トルネード{?e3-15}などを覚える<TR>
+スキル「凶鳥フレス」で{?e3-15}インテ{?e3-15}賢滅の刻{?e3-15}マフール{?e3-15}ドルモーア{?e3-15}かしこさガード＋{?e3-15}ゼロのしょうげき{?e3-15}かくらんの叫び{?e3-15}冥界の霧{?e3-15}などを覚える<TR>
+スキル「大食王ボーショック」で{?e3-15}タメトラ{?e3-15}魔神斬り{?e3-15}気力吸収ガード＋{?e3-15}王様のロンド{?e3-15}リバース{?e3-15}無心のかまえ{?e3-15}ばくれつけん{?e3-15}ハッスルダンス{?e3-15}などを覚える<TR>
+スキル「強奪王ブンドルド」で{?e3-15}タメトラ{?e3-15}マホトラ{?e3-15}ザキ{?e3-15}気力吸収ガード＋{?e3-15}ミラクルソード{?e3-15}ザラキ{?e3-15}みちづれのワルツ{?e3-15}ＭＰ吸収ガード＋{?e3-15}などを覚える<TR>
+スキル「狡猾王アーザムーク」で{?e3-15}かくらんの叫び{?e3-15}マホトラ踊り{?e3-15}メダパーニャ{?e3-15}ラリホーマ{?e3-15}ぶきみな光{?e3-15}ゼロのしょうげき{?e3-15}ラウンドゼロ{?e3-15}チェンジ{?e3-15}などを覚える<TR>
+スキル「拷問王イッタブル」で{?e3-15}もうどくの息{?e3-15}じゅそのこえ{?e3-15}おたけび{?e3-15}自動ＨＰ回復{?e3-15}自動ＭＰ回復{?e3-15}ヘルメリト{?e3-15}攻滅の刻{?e3-15}賢滅の刻{?e3-15}などを覚える<TR>
+スキル「ガルマザード」で{?e3-15}無明斬り{?e3-15}ばくれつけん{?e3-15}みなごろし{?e3-15}ゆうきの斬舞{?e3-15}乱心のかまえ{?e3-15}天地のかまえ{?e3-15}ドルマータ{?e3-15}やみのはもん{?e3-15}などを覚える<TR>
+スキル「ダグジャガルマ」で{?e3-15}圧縮斬り{?e3-15}ハッスルダンス{?e3-15}ブラックホール{?e3-15}夢想のかまえ{?e3-15}ベタナマータ{?e3-15}てんびんのタンゴ{?e3-15}やみのはもん{?e3-15}いてつくはもん{?e3-15}などを覚える<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+スキル「火ガードEX」で{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「水ガードEX」で{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「風ガードEX」で{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「地ガードEX」で{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「爆発ガードEX」で{?e3-15}爆発ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「氷結ガードEX」で{?e3-15}氷結ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「電撃ガードEX」で{?e3-15}電撃ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「重力ガードEX」で{?e3-15}重力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「光ガードEX」で{?e3-15}光ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}などを覚える<TR>
+スキル「闇ガードEX」で{?e3-15}闇ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「攻撃力ガードEX」で{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「守備力ガードEX」で{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「すばやさガードEX」で{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「かしこさガードEX」で{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「命中ガードEX」で{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「耐性ガードEX」で{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「ＭＰ吸収ガードEX」で{?e3-15}ＭＰ吸収ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「気力吸収ガードEX」で{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「こんらんガードEX」で{?e3-15}こんらんガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}攻撃力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}攻撃力＋１２{?e3-15}などを覚える<TR>
+スキル「ねむりガードEX」で{?e3-15}ねむりガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}かしこさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}かしこさ＋２４{?e3-15}などを覚える<TR>
+スキル「マヒガードEX」で{?e3-15}マヒガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}守備力ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}守備力＋２４{?e3-15}などを覚える<TR>
+スキル「休みガードEX」で{?e3-15}休みガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}すばやさガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}すばやさ＋２４{?e3-15}などを覚える<TR>
+スキル「どくガードEX」で{?e3-15}どくガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}命中ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}などを覚える<TR>
+スキル「呪いガードEX」で{?e3-15}呪いガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}耐性ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「即死ガードEX」で{?e3-15}即死ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋８{?e3-15}最大ＨＰ＋１２{?e3-15}気力吸収ガード＋{?e3-15}最大ＭＰ＋２４{?e3-15}最大ＨＰ＋１２{?e3-15}などを覚える<TR>
+スキル「火＆爆発ガードEX」で{?e3-15}火ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力ガード＋{?e3-15}攻撃力＋８{?e3-15}火ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「水＆氷結ガードEX」で{?e3-15}水ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさガード＋{?e3-15}かしこさ＋１６{?e3-15}水ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「風＆電撃ガードEX」で{?e3-15}風ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさガード＋{?e3-15}すばやさ＋１６{?e3-15}風ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「地＆重力ガードEX」で{?e3-15}地ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力ガード＋{?e3-15}守備力＋１６{?e3-15}地ガード＋{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「溶岩ガードEX」で{?e3-15}火ガード＋{?e3-15}地ガード＋{?e3-15}爆発ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}攻撃力＋８{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「吹雪ガードEX」で{?e3-15}水ガード＋{?e3-15}風ガード＋{?e3-15}氷結ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}かしこさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「雷火ガードEX」で{?e3-15}風ガード＋{?e3-15}火ガード＋{?e3-15}電撃ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}すばやさ＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+スキル「深海ガードEX」で{?e3-15}地ガード＋{?e3-15}水ガード＋{?e3-15}重力ガード＋{?e3-15}最大ＭＰ＋１６{?e3-15}最大ＨＰ＋８{?e3-15}守備力＋１６{?e3-15}最大ＨＰ＋１２{?e3-15}最大ＭＰ＋２４{?e3-15}などを覚える<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+スキル「見習い戦士」で{?e3-15}火炎斬り{?e3-15}最大ＨＰ＋２{?e3-15}水流斬り{?e3-15}攻撃力＋４{?e3-15}やいばくだき{?e3-15}守備力＋８{?e3-15}魔神斬り{?e3-15}を覚える<TR>
+スキル「戦士の知恵」で{?e3-15}ルカニ{?e3-15}攻撃力＋８{?e3-15}バイキルト{?e3-15}攻撃力＋８{?e3-15}ルカナン{?e3-15}攻撃力＋２０{?e3-15}バイシオン{?e3-15}攻撃力＋２４{?e3-15}などを覚える<TR>
+スキル「戦士の裏技」で{?e3-15}すなけむり{?e3-15}たいあたり{?e3-15}さそう踊り{?e3-15}魔神斬り{?e3-15}ハッスルダンス{?e3-15}特攻{?e3-15}アタカンタ{?e3-15}ちょうはつ{?e3-15}などを覚える<TR>
+スキル「見習い魔法使い」で{?e3-15}ザバ{?e3-15}最大ＭＰ＋４{?e3-15}バギマ{?e3-15}かしこさ＋８{?e3-15}メラ{?e3-15}最大ＭＰ＋８{?e3-15}ジバリア{?e3-15}を覚える<TR>
+スキル「魔法使いの知恵」で{?e3-15}ドルモーア{?e3-15}呪いガード＋{?e3-15}呪いのルンバ{?e3-15}ベタロール{?e3-15}みなごろし{?e3-15}ザラキ{?e3-15}ドルマドン{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「魔法使いの裏技」で{?e3-15}無明斬り{?e3-15}闇ガード＋{?e3-15}もろば斬り{?e3-15}ドルモーア{?e3-15}呪いの鉄槌{?e3-15}ドルマドン{?e3-15}みちづれのワルツ{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「見習い僧侶」で{?e3-15}ホイミ{?e3-15}デイン{?e3-15}キアリー{?e3-15}キアラル{?e3-15}キアリク{?e3-15}ギラ{?e3-15}ベホイミ{?e3-15}を覚える<TR>
+スキル「僧侶の知恵」で{?e3-15}リベホイミ{?e3-15}かしこさ＋３２{?e3-15}踊りよそく{?e3-15}息よそく{?e3-15}ベホマラー{?e3-15}体技よそく{?e3-15}呪文よそく{?e3-15}最大ＭＰ＋４８{?e3-15}などを覚える<TR>
+スキル「僧侶の裏技」で{?e3-15}ベギラマ{?e3-15}気力吸収ガード＋{?e3-15}光明斬り{?e3-15}シャナク{?e3-15}リベホイミ{?e3-15}ベギラゴン{?e3-15}リベホイム{?e3-15}光ガード＋{?e3-15}などを覚える<TR>
+スキル「見習い武闘家」で{?e3-15}しっぷうづき{?e3-15}攻撃力＋２{?e3-15}みかわしきゃく{?e3-15}すばやさ＋８{?e3-15}テンプルブロー{?e3-15}攻撃力＋４{?e3-15}まわしげり{?e3-15}を覚える<TR>
+スキル「武闘家の知恵」で{?e3-15}もろば斬り{?e3-15}すてみ{?e3-15}かくらんの叫び{?e3-15}狂気のかまえ{?e3-15}特攻{?e3-15}みなごろし{?e3-15}乱心のかまえ{?e3-15}攻撃力ガード＋{?e3-15}などを覚える<TR>
+スキル「武闘家の裏技」で{?e3-15}すねくだき{?e3-15}攻撃力＋１６{?e3-15}ジバリーナ{?e3-15}テンションパサー{?e3-15}バイキルト{?e3-15}アンカーナックル{?e3-15}ジバルンバ{?e3-15}最大ＨＰ＋２４{?e3-15}などを覚える<TR>
+スキル「見習い盗賊」で{?e3-15}ピオラ{?e3-15}すばやさ＋４{?e3-15}ぬすっと斬り{?e3-15}すばやさ＋８{?e3-15}ベタン{?e3-15}すばやさ＋８{?e3-15}ゴールドアタック{?e3-15}を覚える<TR>
+スキル「盗賊の知恵」で{?e3-15}しっぷうづき{?e3-15}ピオラ{?e3-15}ボミエ{?e3-15}ベホマラー{?e3-15}ピオリム{?e3-15}ハヤブサのふえ{?e3-15}晩成のかまえ{?e3-15}すばやさガード＋{?e3-15}などを覚える<TR>
+スキル「盗賊の裏技」で{?e3-15}こごえる吹雪{?e3-15}氷結ガード＋{?e3-15}ザラキ{?e3-15}ステルスアタック{?e3-15}死の踊り{?e3-15}かがやく息{?e3-15}レクイエムのふえ{?e3-15}即死ガード＋{?e3-15}などを覚える<TR>
+スキル「見習い旅芸人」で{?e3-15}バギ{?e3-15}にげあし{?e3-15}ボミエ{?e3-15}せんせいりつアップ{?e3-15}フール{?e3-15}スカウト％アップ＋{?e3-15}ヒャド{?e3-15}を覚える<TR>
+スキル「旅芸人の知恵」で{?e3-15}タメトラ踊り{?e3-15}もうどくの息{?e3-15}さそう踊り{?e3-15}まどいの息{?e3-15}マホトラ踊り{?e3-15}やけつく踊り{?e3-15}ミラーステップ{?e3-15}死神の息吹{?e3-15}などを覚える<TR>
+スキル「旅芸人の裏技」で{?e3-15}ボミオス{?e3-15}もろば斬り{?e3-15}マホトラ踊り{?e3-15}テンションシフト{?e3-15}マフール{?e3-15}遊び人のマイム{?e3-15}ぎゃくふう{?e3-15}ミラーステップ{?e3-15}などを覚える<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+-{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}{?e3-15}<TR>
+スキル「こんらんの力」で{?e3-15}メダパニ{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}まどいの息{?e3-15}最大ＭＰ＋８{?e3-15}こんらんガード＋{?e3-15}を覚える<TR>
+スキル「ねむりの力」で{?e3-15}ラリホー{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}あまい息{?e3-15}最大ＭＰ＋８{?e3-15}ねむりガード＋{?e3-15}を覚える<TR>
+スキル「マヒの力」で{?e3-15}やけつく息{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}すねくだき{?e3-15}最大ＭＰ＋８{?e3-15}マヒガード＋{?e3-15}を覚える<TR>
+スキル「休みの力」で{?e3-15}なめまわし{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}おたけび{?e3-15}最大ＭＰ＋８{?e3-15}休みガード＋{?e3-15}を覚える<TR>
+スキル「どくの力」で{?e3-15}どくの息{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}やいばくだき{?e3-15}最大ＭＰ＋８{?e3-15}どくガード＋{?e3-15}を覚える<TR>
+スキル「呪いの力」で{?e3-15}呪いのことば{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}テンプルブロー{?e3-15}最大ＭＰ＋８{?e3-15}呪いガード＋{?e3-15}を覚える<TR>
+スキル「死の力」で{?e3-15}ザキ{?e3-15}最大ＭＰ＋４{?e3-15}最大ＭＰ＋４{?e3-15}バハック{?e3-15}かぶとわり{?e3-15}最大ＭＰ＋８{?e3-15}即死ガード＋{?e3-15}を覚える<TR>
+スキル「大いなる東の力」で{?e3-15}まどいの息{?e3-15}夢想のかまえ{?e3-15}ヒュプノスハント{?e3-15}大きなため息{?e3-15}光の旋風{?e3-15}しゃくねつ{?e3-15}だいぼうぎょ{?e3-15}呪いの鉄槌{?e3-15}などを覚える<TR>
+スキル「ふしぎな西の力」で{?e3-15}サゲサゲチョップ{?e3-15}ポイズンステップ{?e3-15}テンションシフト{?e3-15}王様のロンド{?e3-15}チェンジ{?e3-15}シャッフル{?e3-15}じごくの踊り{?e3-15}てんびんのタンゴ{?e3-15}などを覚える<TR>
+スキル「火山の力」で{?e3-15}火炎斬り{?e3-15}発火{?e3-15}爆砕斬り{?e3-15}キアリー{?e3-15}特攻{?e3-15}ちょうはつ{?e3-15}おにび{?e3-15}を覚える<TR>
+スキル「氷海の力」で{?e3-15}水流斬り{?e3-15}水しぶき{?e3-15}零度斬り{?e3-15}キアラル{?e3-15}ミラクルソード{?e3-15}かくれる{?e3-15}てっぽう水{?e3-15}を覚える<TR>
+スキル「雷雲の力」で{?e3-15}真空斬り{?e3-15}かまいたち{?e3-15}雷鳴斬り{?e3-15}キアリク{?e3-15}しっぷうづき{?e3-15}みかわしきゃく{?e3-15}しんくうは{?e3-15}を覚える<TR>
+スキル「神々の力」で{?e3-15}岩石斬り{?e3-15}いわなげ{?e3-15}圧縮斬り{?e3-15}シャナク{?e3-15}せいけんづき{?e3-15}すなけむり{?e3-15}じひびき{?e3-15}を覚える<TR>
+スキル「深淵の力」で{?e3-15}光明斬り{?e3-15}星くず{?e3-15}無明斬り{?e3-15}バーハ{?e3-15}パイルハンマー{?e3-15}ぶきみな光{?e3-15}流星{?e3-15}を覚える<TR>
+スキル「火山の力SP」で{?e3-15}火炎斬り{?e3-15}爆砕斬り{?e3-15}おにび{?e3-15}ちょうはつ{?e3-15}物理よそく{?e3-15}もろば斬り{?e3-15}天地のかまえ{?e3-15}火炎竜{?e3-15}などを覚える<TR>
+スキル「氷海の力SP」で{?e3-15}水流斬り{?e3-15}零度斬り{?e3-15}てっぽう水{?e3-15}かくれる{?e3-15}呪文よそく{?e3-15}ステルスアタック{?e3-15}マホターン{?e3-15}つなみ{?e3-15}などを覚える<TR>
+スキル「雷雲の力SP」で{?e3-15}真空斬り{?e3-15}雷鳴斬り{?e3-15}しんくうは{?e3-15}みかわしきゃく{?e3-15}体技よそく{?e3-15}ばくれつけん{?e3-15}無心のかまえ{?e3-15}トルネード{?e3-15}などを覚える<TR>
+スキル「神々の力SP」で{?e3-15}岩石斬り{?e3-15}圧縮斬り{?e3-15}じひびき{?e3-15}すなけむり{?e3-15}息よそく{?e3-15}ぎゃくふう{?e3-15}におう斬り{?e3-15}がんせきおとし{?e3-15}などを覚える<TR>
+スキル「深淵の力SP」で{?e3-15}光明斬り{?e3-15}無明斬り{?e3-15}流星{?e3-15}すなけむり{?e3-15}踊りよそく{?e3-15}ミラーステップ{?e3-15}呪いの鉄槌{?e3-15}ブラックホール{?e3-15}などを覚える<TR>
+スキル「王の力SP」で{?e3-15}光明斬り{?e3-15}光の旋風{?e3-15}修羅の獄{?e3-15}命中ガード＋{?e3-15}光ガード＋{?e3-15}じごくの踊り{?e3-15}最大ＨＰ＋３０{?e3-15}ギラグレイド{?e3-15}などを覚える<TR>
+スキル「魔王の力SP」で{?e3-15}無明斬り{?e3-15}ぶきみな光{?e3-15}幻魔の獄{?e3-15}耐性ガード＋{?e3-15}闇ガード＋{?e3-15}呪いの鉄槌{?e3-15}最大ＭＰ＋６０{?e3-15}ドルマドン{?e3-15}などを覚える<TR>
+スキル「ＤＱ３０周年SP」で{?e3-15}リバース{?e3-15}シャイニングボウ{?e3-15}グランドネビュラ{?e3-15}光ガード＋{?e3-15}闇ガード＋{?e3-15}グランドクロス{?e3-15}最大ＨＰ＋３０{?e3-15}メドローア{?e3-15}などを覚える<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+静寂の草原で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+崩落都市で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+歓楽の霊道で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+凍骨の氷原で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+黒鉄の監獄塔で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+焦熱の火山で{?e3-15}空の遺跡を動かす　ふしぎな石<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+肉屋に伝わる　秘伝書{?e3-15}肉屋に　持っていくと{?e3-15}しもふり肉を　売り出す<TR>
+商人に伝わる　秘伝書{?e3-15}道具屋に　持っていくと{?e3-15}貴重な道具を　売り出す<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+凶スライムを　生み出す魂<TR>
+凶キメラを　生み出す魂<TR>
+凶だいおうイカを　生み出す魂<TR>
+凶キングリザードを　生み出す魂<TR>
+凶にじくじゃくを　生み出す魂<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+アンデッドガーデンの　扉のカギ<TR>
+-<TR>
+-<TR>
+黒鉄の監獄塔の　看守のあかし<TR>
+黒鉄の監獄塔の　ろうやのカギ<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
+-<TR>
