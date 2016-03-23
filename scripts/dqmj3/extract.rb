@@ -39,6 +39,6 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
   end
 
   items.sort_by!(&:first)
-  File.open(fname.sub(MESSAGE_DIR, IDX_DIR) + '.idx', 'w') { |f| f.write items.map{ |item| item[0].gsub("\n", '<NEWLINE>') }.join("\n") }
-  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1].gsub("\n", '<NEWLINE>') }.join("\n") }
+  File.open(fname.sub(MESSAGE_DIR, IDX_DIR) + '.idx', 'w') { |f| f.write items.map{ |item| item[0].gsub("\n", '{?e3-15}') + '<TR>' }.join("\n") }
+  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1].gsub("\n", '{?e3-15}') + '<TR>' }.join("\n") }
 end
