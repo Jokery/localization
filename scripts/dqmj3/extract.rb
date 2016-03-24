@@ -2,6 +2,10 @@ MESSAGE_DIR = 'Message'
 EXTRACT_DIR = '_extract_Message_txt'
 ITEM_NAME_DIR = '_extract_item_name'
 
+CONVERTION = {
+  "\n" => '{?e3-15}'
+}
+
 Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
   content = File.binread(fname)
   item_count = content[0, 4].unpack('I*')[0]
@@ -39,6 +43,11 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
   end
 
   items.sort_by!(&:first)
-  File.open(fname.sub(MESSAGE_DIR, ITEM_NAME_DIR) + '.item_name.txt', 'w') { |f| f.write items.map{ |item| item[0].gsub("\n", '{?e3-15}') + '<TR>' }.join("\n") }
-  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1].gsub("\n", '{?e3-15}') + '<TR>' }.join("\n") }
+  items.each do |item|
+    CONVERTION.each do |k, v|
+      item[1].gsub!(k, v)
+    end
+  end
+  File.open(fname.sub(MESSAGE_DIR, ITEM_NAME_DIR) + '.item_name.txt', 'w') { |f| f.write items.map{ |item| item[0] + '<TR>' }.join("\n") }
+  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1] + '<TR>' }.join("\n") }
 end
