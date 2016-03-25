@@ -47,5 +47,5 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
       item[1].gsub!(k, v)
     end
   end
-  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1] + '<TR>' }.join("\n") }
+  File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1] + '{TR}' }.join("\n") }
 end

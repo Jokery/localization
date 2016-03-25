@@ -51,7 +51,7 @@ Dir.glob("#{TRANSLATE_DIR}/**/*txt").each do |fname|
 
   new_content_array << origin_content[0...header_max]
 
-  items.each { |item| item.sub!('<TR>', '') }
+  items.each { |item| item.sub!('{TR}', '') }
     .each do |item|
     CONVERTION.each { |k, v| item.gsub!(v, k) }
   end
