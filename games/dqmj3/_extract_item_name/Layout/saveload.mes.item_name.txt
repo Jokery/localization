@@ -1,7 +1,0 @@
-saveload_menu_end<TR>
-saveload_menu_load<TR>
-saveload_menu_save<TR>
-saveload_menu_togame<TR>
-saveload_menu_totitle<TR>
-saveload_title_load<TR>
-saveload_title_save<TR>

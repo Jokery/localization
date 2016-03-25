@@ -1,1 +1,0 @@
-mix_skill_check_akasi_get<TR>

@@ -1,6 +1,0 @@
-box_get_gold<TR>
-box_get_one<TR>
-box_get_some<TR>
-symbol_get_gold<TR>
-symbol_get_one<TR>
-symbol_get_some<TR>

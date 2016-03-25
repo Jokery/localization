@@ -1,5 +1,0 @@
-mix_skill_choice_ato<TR>
-mix_skill_choice_nasi<TR>
-mix_skill_choice_no_select<TR>
-mix_skill_choice_nothing<TR>
-mix_skill_choice_num<TR>

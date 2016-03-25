@@ -1,6 +1,5 @@
 MESSAGE_DIR = 'Message'
 EXTRACT_DIR = '_extract_Message_txt'
-ITEM_NAME_DIR = '_extract_item_name'
 
 CONVERTION = {
   "\n" => '{?e3-15}'
@@ -8,13 +7,13 @@ CONVERTION = {
 
 Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
   content = File.binread(fname)
-  item_count = content[0, 4].unpack('I*')[0]
+  item_count = content[0, 4].unpack('I')[0]
 
   items = []
   item_count.times do |index|
-    sub_count = content[ 4 + index * 8, 4 ].unpack('I*')[0]
+    sub_count = content[ 4 + index * 8, 4 ].unpack('I')[0]
     if sub_count > 0
-      offset = content[ 4 + index * 8 + 4, 4 ].unpack('I*')[0]
+      offset = content[ 4 + index * 8 + 4, 4 ].unpack('I')[0]
 
       scan_pos = offset
       sub_count.times do
@@ -48,6 +47,5 @@ Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|
       item[1].gsub!(k, v)
     end
   end
-  File.open(fname.sub(MESSAGE_DIR, ITEM_NAME_DIR) + '.item_name.txt', 'w') { |f| f.write items.map{ |item| item[0] + '<TR>' }.join("\n") }
   File.open(fname.sub(MESSAGE_DIR, EXTRACT_DIR) + '.txt', 'w') { |f| f.write items.map { |item| item[1] + '<TR>' }.join("\n") }
 end

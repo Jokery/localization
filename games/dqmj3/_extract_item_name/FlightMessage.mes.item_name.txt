@@ -1,2 +1,0 @@
-flight_landing_confirm<TR>
-flight_landing_ng<TR>

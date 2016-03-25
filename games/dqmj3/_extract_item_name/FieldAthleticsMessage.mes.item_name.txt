@@ -1,2 +1,0 @@
-DeadTrap<TR>
-OutOfArea<TR>

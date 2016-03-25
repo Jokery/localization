@@ -1,5 +1,0 @@
-DarkoniumInfection<TR>
-DarkoniumReincarnated<TR>
-FieldRespawn<TR>
-RideBigSizeInNotFlight<TR>
-RideInSmallMap<TR>
