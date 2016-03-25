@@ -7,7 +7,7 @@
 %ls%ls{TR}
 ありません{TR}
 %ls%ls{TR}
-なし{TR}
+无{TR}
 %ls{TR}
 %ls{TR}
 ？？？？{TR}
