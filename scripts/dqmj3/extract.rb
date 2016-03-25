@@ -2,7 +2,10 @@ MESSAGE_DIR = 'Message'
 EXTRACT_DIR = '_extract_Message_txt'
 
 CONVERTION = {
-  "\n" => '{?e3-15}'
+  "\n" => '{?e3-15}',
+  "\u0001" => '{?00-01}',
+  "\u0002" => '{?00-02}',
+  "\u0004" => '{?00-04}'
 }
 
 Dir.glob("#{MESSAGE_DIR}/**/*mes").each do |fname|

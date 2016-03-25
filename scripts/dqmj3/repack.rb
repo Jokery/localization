@@ -3,7 +3,10 @@ REPACK_DIR = '_repack_Message'
 MESSAGE_DIR = 'Message'
 
 CONVERTION = {
-  "\n" => '{?e3-15}'
+  "\n" => '{?e3-15}',
+  "\u0001" => '{?00-01}',
+  "\u0002" => '{?00-02}',
+  "\u0004" => '{?00-04}'
 }
 
 Dir.glob("#{TRANSLATE_DIR}/**/*txt").each do |fname|
