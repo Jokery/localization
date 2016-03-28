@@ -22,11 +22,10 @@ Dir.glob("#{TRANSLATE_DIR}/**/*txt").each do |fname|
   item_count.times do |index|
     sub_count = origin_content[ 4 + index * 8, 4 ].unpack('I')[0]
     if sub_count > 0
-      offset = origin_content[ 4 + index * 8 + 4, 4 ].unpack('I')[0]
-
-      scan_pos = offset
+      scan_pos = origin_content[ 4 + index * 8 + 4, 4 ].unpack('I')[0]
 
       sub_count.times do
+        offset = scan_pos
         scan_pos += 4
         sub_item_name = ''
         while ( c = origin_content[scan_pos] ) != "\x00"
