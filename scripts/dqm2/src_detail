@@ -1,0 +1,72 @@
+I assume you are the hacker? If so and you finished the menu files, you must already know about the custom font table.
+http://www.fileformat.info/info/unicode/char/30AD/index.htm is actually B1 for instance. 
+
+Second, the menu files (BINJ) have pointer sections at the top (tables, number of entries, addresses).
+
+I only have finished decompiling and rebuild the SCR/E files for DQM Terrys Wonderland.
+I am in the middle of working on DQM2.
+Heres how the E/SCR files work in that game, I hope it helps.
+
+They are located in 2 folders, Demo (cutscene dialog) and Field (field/free-roam dialog).
+The first 4 bytes of the file are the type
+The next 1000 are for the header.
+
+Anywhere in the header that is not 00 00 00 00 or FF FF FF FF is a pointer address.
+As you expand/shrink the hex in the file, these must be recalculated.
+
+After the first 1004 bytes, everything is is a function (script/code).
+I am not done with DQM2 because the function defintions changed between DQM and DQM2.
+In DQM, XX 04 00 00 YY YY 00 00 meant a function, where XX = Call Type, and YY YY mean length.
+If XX = 0C (12), this was a SKIP/Pointer function, there were always 0C (12) bytes, to have:
+0C 04 00 00 0C 00 00 00 ZZ ZZ ZZ ZZ, where ZZ ZZ ZZ ZZ = address it pointed to.
+
+There is a trick to this.
+The point addresses do not factor in the 1004 byte header.
+So if it tells you it points to 10FC, and you look there in the file and it doesnt mean anything, thats because you are looking at the file WITH the header included.
+I would just delete it while using my eyes, otherwise in code you can add the header length.
+It would then actually point to 2100 in the file (10FC + 1004).
+
+ALL headers are 1004 bytes as listed above.
+
+Other than that for DQM, most dialog had a header above it (for the speaker name) 84 00 00 00, and the actual dialog 44 00 00 00
+Here is a list of functions i discovered in DQM and again they changed going to DQM2.
+
+09 = SKIP (pointer value)
+0a = SKIP (pointer value)
+0c = SKIP (pointer value)
+0d = LOAD_RESOURCE (usually an XBB file) 
+0e = SKIP (pointer value)
+44 = DIALOG
+59 = DIALOG_ALT
+84 = DIALOG_SPEAKER_NAME
+
+Everything else was irrelevant.
+
+In starting to look at at DQM2, dialog starts witha 43 (and there are likely others).
+In DQM, they almost ended with E31B, but not all of them did.
+I had to use the function length listed above for the function above to determine the end.
+
+here is a quick sample of that.
+
+84 00 00 00 10 00 00 00 
+19 2F 32 32 3F E3 1B 00 
+44 00 00 00 38 00 00 00 
+E3 08 0F 3B 3A 0B 2F 3A 0B 35 3B 3A E1 45 0B 20 
+2B 38 38 3F E1 07 E3 15 15 3A E1 2D 39 0B 3A 2F 
+33 2B 0B 2C 35 38 0B 28 2B 2A E1 07 E3 1B 00 00 
+
+Turns into this
+-------------------------
+ミレーユ
+-------------------------
+「テリー！　待ちなさい！
+　もう　寝る時間よ！
+-------------------------
+
+The special character table is important here, as things above like E308 denote speaker volume.
+It controls the strange noise plays instead of a voice during dialog.
+
+Hopefully that answers your questions.
+
+You need to identify ALL Skip/Pointer functions and the ones in the header, and recalculate them as you change the file.
+ 
