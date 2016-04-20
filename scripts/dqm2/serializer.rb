@@ -22,7 +22,6 @@ module BinJSerializer
       if c == 0xE3
         c2 = item_data[scan_index + 1, 1].unpack('C')[0]
         if c2 == 0x1B
-          str += '{TR}'
           break
         elsif c2 == 0xB || c2 == 0x1C
           str += "{?%x-%x}" % [c, c2]
@@ -104,11 +103,7 @@ module BinJSerializer
   def self.get_macro(macro)
     p1, p2 = macro[1..-2].split('-')
     if p2.nil?
-      if p1 == 'TR'
-        "\xe3\x1b"
-      else
-        [ p1.to_i(16) ].pack('c')
-      end
+      [ p1.to_i(16) ].pack('c')
     else
       [ ( '%2s%s' % [ p1, p2 ] ).gsub(' ', '0').to_i(16) ].pack('n')
     end
