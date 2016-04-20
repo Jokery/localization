@@ -1,0 +1,9 @@
+　　　　　　　　　　　　　　　　　　　　　　　　　Alpha　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　　　Speed　Up　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　Speed　Down　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　　　　　Quake　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　　　　Recovery　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　　　　　　　Fov　TEST{TR}
+　　　　　　　　　　　　　　　　　　　　　　Rotate　TEST{TR}
+　　　　　　　　　　　　　　　　　　PlayerCamera　TEST{TR}
+{?e3-f5}イル用メセ-ジです。{TR}
