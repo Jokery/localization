@@ -129,9 +129,9 @@ Field/CDA01.e No.16
 
 Field/CDA01.e No.17
 --------------------------------------
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 ======================================
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 --------------------------------------
 
 
@@ -145,9 +145,9 @@ Field/CDA01.e No.18
 
 Field/CDA01.e No.19
 --------------------------------------
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 ======================================
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 --------------------------------------
 
 
@@ -161,9 +161,9 @@ Field/CDA01.e No.20
 
 Field/CDA01.e No.21
 --------------------------------------
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 ======================================
-{Duplication Demo/demo011.e No.7}
+{Duplication Field/AWA01.e No.92}
 --------------------------------------
 
 
@@ -172,61 +172,5 @@ Field/CDA01.e No.22
 {Duplication Field/AWA01.e No.92}
 ======================================
 {Duplication Field/AWA01.e No.92}
---------------------------------------
-
-
-Field/CDA01.e No.23
---------------------------------------
-{Duplication Demo/demo011.e No.7}
-======================================
-{Duplication Demo/demo011.e No.7}
---------------------------------------
-
-
-Field/CDA01.e No.24
---------------------------------------
-{Duplication Field/AWA01.e No.92}
-======================================
-{Duplication Field/AWA01.e No.92}
---------------------------------------
-
-
-Field/CDA01.e No.25
---------------------------------------
-{Duplication Demo/demo011.e No.7}
-======================================
-{Duplication Demo/demo011.e No.7}
---------------------------------------
-
-
-Field/CDA01.e No.26
---------------------------------------
-{Duplication Field/AWA01.e No.92}
-======================================
-{Duplication Field/AWA01.e No.92}
---------------------------------------
-
-
-Field/CDA01.e No.27
---------------------------------------
-{Duplication Demo/demo011.e No.7}
-======================================
-{Duplication Demo/demo011.e No.7}
---------------------------------------
-
-
-Field/CDA01.e No.28
---------------------------------------
-{Duplication Field/AWA01.e No.92}
-======================================
-{Duplication Field/AWA01.e No.92}
---------------------------------------
-
-
-Field/CDA01.e No.29
---------------------------------------
-{Duplication Demo/demo011.e No.7}
-======================================
-{Duplication Demo/demo011.e No.7}
 --------------------------------------
 
