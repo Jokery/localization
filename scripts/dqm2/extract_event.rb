@@ -1,4 +1,3 @@
-require 'zlib'
 load File.expand_path('../serializer.rb', __FILE__)
 
 ITEM_SPLITTER = "--------------------------------------"
@@ -11,8 +10,15 @@ all_items = { }
 
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
-  content = nil
-  Zlib::GzipReader.open(fname) { |gz| content = gz.read }
+  decompress = fname.sub(/\.e$/, '')
+  gzfile = decompress + '.gz'
+
+  FileUtils.cp(fname, gzfile)
+  FileUtils.rm(decompress) if File.exists?(decompress)
+
+  `gzip -d #{gzfile}`
+  content = File.binread(decompress)
+  FileUtils.rm(decompress)
 
   fname_key = fname.sub("#{EVENT_DIR}/", '')
 
@@ -24,7 +30,7 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
     length = content[index, 4].unpack('V')[0]
     index += 4
     item_data = content[index, length - 8]
-    index2item[index] = BinJSerializer.decode(item_data)
+    index2item[index] = BinJSerializer.decode(item_data).gsub('{e3-15}', "\n")
     index += length
   end
 
