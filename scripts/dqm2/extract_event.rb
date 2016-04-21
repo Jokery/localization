@@ -1,3 +1,4 @@
+require 'fileutils'
 load File.expand_path('../serializer.rb', __FILE__)
 
 ITEM_SPLITTER = "--------------------------------------"
@@ -7,7 +8,6 @@ EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt'
 
 all_items = { }
-
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
   decompress = fname.sub(/\.e$/, '')
@@ -26,11 +26,11 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
   index2item = { }
   while ( four = content[index, 4] )
     index += 4
-    next unless four == "\x43\x00\x00\x00" or four == "\x84\x00\x00\x00"
+    next unless four == "\x43\x00\x00\x00" or four == "\x85\x00\x00\x00"
     length = content[index, 4].unpack('V')[0]
     index += 4
     item_data = content[index, length - 8]
-    index2item[index] = BinJSerializer.decode(item_data).gsub('{e3-15}', "\n")
+    index2item[index] = BinJSerializer.decode(item_data).gsub('{?e3-15}', "\n")
     index += length
   end
 
