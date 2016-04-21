@@ -1,213 +1,429 @@
 
 Field/CWA01.e No.1
 --------------------------------------
-{Duplication Field/ADB01.e No.18}
+{Duplication Field/ADA01.e No.8}
 ======================================
-{Duplication Field/ADB01.e No.18}
+{Duplication Field/ADA01.e No.8}
 --------------------------------------
 
 
 Field/CWA01.e No.2
 --------------------------------------
-{Duplication Field/ADB01.e No.19}
+{Duplication Field/ADA01.e No.9}
 ======================================
-{Duplication Field/ADB01.e No.19}
+{Duplication Field/ADA01.e No.9}
 --------------------------------------
 
 
 Field/CWA01.e No.3
 --------------------------------------
-{Duplication Field/ADB01.e No.20}
+{Duplication Field/ADA01.e No.10}
 ======================================
-{Duplication Field/ADB01.e No.20}
+{Duplication Field/ADA01.e No.10}
 --------------------------------------
 
 
 Field/CWA01.e No.4
 --------------------------------------
-{Duplication Field/ADB01.e No.21}
+{Duplication Field/ADA01.e No.11}
 ======================================
-{Duplication Field/ADB01.e No.21}
+{Duplication Field/ADA01.e No.11}
 --------------------------------------
 
 
 Field/CWA01.e No.5
 --------------------------------------
-{Duplication Field/ADB01.e No.22}
+{Duplication Field/ADA01.e No.12}
 ======================================
-{Duplication Field/ADB01.e No.22}
+{Duplication Field/ADA01.e No.12}
 --------------------------------------
 
 
 Field/CWA01.e No.6
 --------------------------------------
-{Duplication Field/ADB01.e No.23}
+{Duplication Field/ADA01.e No.13}
 ======================================
-{Duplication Field/ADB01.e No.23}
+{Duplication Field/ADA01.e No.13}
 --------------------------------------
 
 
 Field/CWA01.e No.7
 --------------------------------------
-{Duplication Field/ADB01.e No.24}
+{Duplication Field/ADA01.e No.14}
 ======================================
-{Duplication Field/ADB01.e No.24}
+{Duplication Field/ADA01.e No.14}
 --------------------------------------
 
 
 Field/CWA01.e No.8
 --------------------------------------
-{Duplication Field/ADB01.e No.1}
+{Duplication Field/ADA01.e No.15}
 ======================================
-{Duplication Field/ADB01.e No.1}
+{Duplication Field/ADA01.e No.15}
 --------------------------------------
 
 
 Field/CWA01.e No.9
 --------------------------------------
-{Duplication Field/ADB01.e No.2}
+{Duplication Field/ADA01.e No.16}
 ======================================
-{Duplication Field/ADB01.e No.2}
+{Duplication Field/ADA01.e No.16}
 --------------------------------------
 
 
 Field/CWA01.e No.10
 --------------------------------------
-{Duplication Field/ADB01.e No.3}
+{Duplication Field/ADA01.e No.16}
 ======================================
-{Duplication Field/ADB01.e No.3}
+{Duplication Field/ADA01.e No.16}
 --------------------------------------
 
 
 Field/CWA01.e No.11
 --------------------------------------
-{Duplication Field/ADB01.e No.4}
+{Duplication Field/ADA01.e No.18}
 ======================================
-{Duplication Field/ADB01.e No.4}
+{Duplication Field/ADA01.e No.18}
 --------------------------------------
 
 
 Field/CWA01.e No.12
 --------------------------------------
-{Duplication Field/ADB01.e No.5}
+{Duplication Field/ADA01.e No.19}
 ======================================
-{Duplication Field/ADB01.e No.5}
+{Duplication Field/ADA01.e No.19}
 --------------------------------------
 
 
 Field/CWA01.e No.13
 --------------------------------------
-{Duplication Field/ADB01.e No.6}
+{Duplication Field/ADA01.e No.20}
 ======================================
-{Duplication Field/ADB01.e No.6}
+{Duplication Field/ADA01.e No.20}
 --------------------------------------
 
 
 Field/CWA01.e No.14
 --------------------------------------
-{Duplication Field/ADB01.e No.7}
+{Duplication Field/ADA01.e No.21}
 ======================================
-{Duplication Field/ADB01.e No.7}
+{Duplication Field/ADA01.e No.21}
 --------------------------------------
 
 
 Field/CWA01.e No.15
 --------------------------------------
-{Duplication Field/ADB01.e No.8}
+{Duplication Field/ADA01.e No.10}
 ======================================
-{Duplication Field/ADB01.e No.8}
+{Duplication Field/ADA01.e No.10}
 --------------------------------------
 
 
 Field/CWA01.e No.16
 --------------------------------------
-{Duplication Field/ADB01.e No.9}
+{Duplication Field/ADB01.e No.1}
 ======================================
-{Duplication Field/ADB01.e No.9}
+{Duplication Field/ADB01.e No.1}
 --------------------------------------
 
 
 Field/CWA01.e No.17
 --------------------------------------
-{Duplication Field/ADB01.e No.10}
+{Duplication Field/ADB01.e No.2}
 ======================================
-{Duplication Field/ADB01.e No.10}
+{Duplication Field/ADB01.e No.2}
 --------------------------------------
 
 
 Field/CWA01.e No.18
 --------------------------------------
-{Duplication Field/ADB01.e No.11}
+{Duplication Field/ADB01.e No.3}
 ======================================
-{Duplication Field/ADB01.e No.11}
+{Duplication Field/ADB01.e No.3}
 --------------------------------------
 
 
 Field/CWA01.e No.19
 --------------------------------------
-{Duplication Field/ADB01.e No.12}
+{Duplication Field/ADB01.e No.4}
 ======================================
-{Duplication Field/ADB01.e No.12}
+{Duplication Field/ADB01.e No.4}
 --------------------------------------
 
 
 Field/CWA01.e No.20
 --------------------------------------
-{Duplication Field/ADB01.e No.13}
+{Duplication Field/ADB01.e No.5}
 ======================================
-{Duplication Field/ADB01.e No.13}
+{Duplication Field/ADB01.e No.5}
 --------------------------------------
 
 
 Field/CWA01.e No.21
 --------------------------------------
-{Duplication Field/ADB01.e No.14}
+{Duplication Field/ADB01.e No.6}
 ======================================
-{Duplication Field/ADB01.e No.14}
+{Duplication Field/ADB01.e No.6}
 --------------------------------------
 
 
 Field/CWA01.e No.22
 --------------------------------------
-{Duplication Field/ADB01.e No.15}
+{Duplication Field/ADB01.e No.7}
 ======================================
-{Duplication Field/ADB01.e No.15}
+{Duplication Field/ADB01.e No.7}
 --------------------------------------
 
 
 Field/CWA01.e No.23
 --------------------------------------
-{Duplication Field/ADB01.e No.16}
+{Duplication Field/ADB01.e No.8}
 ======================================
-{Duplication Field/ADB01.e No.16}
+{Duplication Field/ADB01.e No.8}
 --------------------------------------
 
 
 Field/CWA01.e No.24
 --------------------------------------
-{Duplication Field/ADB01.e No.17}
+{Duplication Field/ADB01.e No.9}
 ======================================
-{Duplication Field/ADB01.e No.17}
+{Duplication Field/ADB01.e No.9}
 --------------------------------------
 
 
 Field/CWA01.e No.25
 --------------------------------------
-{?e3-f}は　{?e3-15}{?e3-1c}{?2}さえずり草{?e3-1c}{?0}を　手に入れた！
+{Duplication Field/ADB01.e No.10}
 ======================================
-{?e3-f}は　{?e3-15}{?e3-1c}{?2}さえずり草{?e3-1c}{?0}を　手に入れた！
+{Duplication Field/ADB01.e No.10}
 --------------------------------------
 
 
 Field/CWA01.e No.26
 --------------------------------------
+{Duplication Field/ADB01.e No.11}
+======================================
+{Duplication Field/ADB01.e No.11}
+--------------------------------------
+
+
+Field/CWA01.e No.27
+--------------------------------------
+{Duplication Field/ADB01.e No.12}
+======================================
+{Duplication Field/ADB01.e No.12}
+--------------------------------------
+
+
+Field/CWA01.e No.28
+--------------------------------------
+{Duplication Field/ADB01.e No.13}
+======================================
+{Duplication Field/ADB01.e No.13}
+--------------------------------------
+
+
+Field/CWA01.e No.29
+--------------------------------------
+{Duplication Field/ADB01.e No.14}
+======================================
+{Duplication Field/ADB01.e No.14}
+--------------------------------------
+
+
+Field/CWA01.e No.30
+--------------------------------------
+{Duplication Field/ADB01.e No.15}
+======================================
+{Duplication Field/ADB01.e No.15}
+--------------------------------------
+
+
+Field/CWA01.e No.31
+--------------------------------------
+{Duplication Field/ADB01.e No.16}
+======================================
+{Duplication Field/ADB01.e No.16}
+--------------------------------------
+
+
+Field/CWA01.e No.32
+--------------------------------------
+{Duplication Field/ADB01.e No.17}
+======================================
+{Duplication Field/ADB01.e No.17}
+--------------------------------------
+
+
+Field/CWA01.e No.33
+--------------------------------------
+{Duplication Field/ADB01.e No.18}
+======================================
+{Duplication Field/ADB01.e No.18}
+--------------------------------------
+
+
+Field/CWA01.e No.34
+--------------------------------------
+{Duplication Field/ADB01.e No.19}
+======================================
+{Duplication Field/ADB01.e No.19}
+--------------------------------------
+
+
+Field/CWA01.e No.35
+--------------------------------------
+{Duplication Field/ADB01.e No.20}
+======================================
+{Duplication Field/ADB01.e No.20}
+--------------------------------------
+
+
+Field/CWA01.e No.36
+--------------------------------------
+{Duplication Field/ADB01.e No.21}
+======================================
+{Duplication Field/ADB01.e No.21}
+--------------------------------------
+
+
+Field/CWA01.e No.37
+--------------------------------------
+{Duplication Field/ADB01.e No.22}
+======================================
+{Duplication Field/ADB01.e No.22}
+--------------------------------------
+
+
+Field/CWA01.e No.38
+--------------------------------------
+{Duplication Field/ADB01.e No.23}
+======================================
+{Duplication Field/ADB01.e No.23}
+--------------------------------------
+
+
+Field/CWA01.e No.39
+--------------------------------------
+{Duplication Field/ADB01.e No.24}
+======================================
+{Duplication Field/ADB01.e No.24}
+--------------------------------------
+
+
+Field/CWA01.e No.40
+--------------------------------------
+{Duplication Field/ADB01.e No.25}
+======================================
+{Duplication Field/ADB01.e No.25}
+--------------------------------------
+
+
+Field/CWA01.e No.41
+--------------------------------------
+{Duplication Field/ADB01.e No.26}
+======================================
+{Duplication Field/ADB01.e No.26}
+--------------------------------------
+
+
+Field/CWA01.e No.42
+--------------------------------------
+{Duplication Field/ADB01.e No.27}
+======================================
+{Duplication Field/ADB01.e No.27}
+--------------------------------------
+
+
+Field/CWA01.e No.43
+--------------------------------------
+{Duplication Field/ADB01.e No.28}
+======================================
+{Duplication Field/ADB01.e No.28}
+--------------------------------------
+
+
+Field/CWA01.e No.44
+--------------------------------------
+{Duplication Field/ADB01.e No.29}
+======================================
+{Duplication Field/ADB01.e No.29}
+--------------------------------------
+
+
+Field/CWA01.e No.45
+--------------------------------------
+{Duplication Field/ADB01.e No.30}
+======================================
+{Duplication Field/ADB01.e No.30}
+--------------------------------------
+
+
+Field/CWA01.e No.46
+--------------------------------------
+{Duplication Field/ADB01.e No.31}
+======================================
+{Duplication Field/ADB01.e No.31}
+--------------------------------------
+
+
+Field/CWA01.e No.47
+--------------------------------------
+{Duplication Field/ADB01.e No.32}
+======================================
+{Duplication Field/ADB01.e No.32}
+--------------------------------------
+
+
+Field/CWA01.e No.48
+--------------------------------------
+{?e3-f}は　{?e3-15}{?e3-1c}{?2}さえずり草{?e3-1c}{?0}を　手に入れた！
+======================================
+{?e3-f}は　{?e3-15}{?e3-1c}{?2}さえずり草{?e3-1c}{?0}を　手に入れた！
+--------------------------------------
+
+
+Field/CWA01.e No.49
+--------------------------------------
+マンモデウスが　姿を現したようだ。
+======================================
+マンモデウスが　姿を現したようだ。
+--------------------------------------
+
+
+Field/CWA01.e No.50
+--------------------------------------
+マンモデウスが　地中に　もぐったようだ。
+======================================
+マンモデウスが　地中に　もぐったようだ。
+--------------------------------------
+
+
+Field/CWA01.e No.51
+--------------------------------------
+{Duplication Field/AWA01.e No.92}
+======================================
+{Duplication Field/AWA01.e No.92}
+--------------------------------------
+
+
+Field/CWA01.e No.52
+--------------------------------------
+{Duplication Demo/demo011.e No.7}
+======================================
+{Duplication Demo/demo011.e No.7}
+--------------------------------------
+
+
+Field/CWA01.e No.53
+--------------------------------------
 {?e3-f}は　雪と氷の世界のぬし{?e3-15}マンモデウスを　倒した！
 ======================================
 {?e3-f}は　雪と氷の世界のぬし{?e3-15}マンモデウスを　倒した！
 --------------------------------------
 
 
-Field/CWA01.e No.27
+Field/CWA01.e No.54
 --------------------------------------
 {?e3-f}は　雪と氷の世界のぬし{?e3-15}マンモデウスの　スカウトに成功した！
 ======================================

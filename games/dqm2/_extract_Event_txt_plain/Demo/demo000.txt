@@ -6,4 +6,5 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　Fov　TEST{TR}
 　　　　　　　　　　　　　　　　　　　　　　Rotate　TEST{TR}
 　　　　　　　　　　　　　　　　　　PlayerCamera　TEST{TR}
-{?e3-f5}イル用メセ-ジです。{TR}
+{?e3-f5}イル用メッセ-ジです。{TR}
+　　　　　　　　　　　　　　　　　　　　　　　BgBlack　TEST{TR}
