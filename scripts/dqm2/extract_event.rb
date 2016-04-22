@@ -1,8 +1,8 @@
 require 'fileutils'
 load File.expand_path('../serializer.rb', __FILE__)
 
-ITEM_SPLITTER = "--------------------------------------"
-TRAN_SPLITTER = "======================================"
+ITEM_SPLITTER = "--------------------------------------\n"
+TRAN_SPLITTER = "======================================\n"
 
 EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt'
@@ -66,11 +66,11 @@ end.each do |fname, arr|
     arr.each do |origin_filename, _items|
       _items.each_with_index do |item, i|
         f.write "\n#{origin_filename} No.#{i+1}\n"
-        f.write ITEM_SPLITTER + "\n"
+        f.write ITEM_SPLITTER
         f.write item + "\n"
-        f.write TRAN_SPLITTER + "\n"
+        f.write TRAN_SPLITTER
         f.write item + "\n"
-        f.write ITEM_SPLITTER + "\n"
+        f.write ITEM_SPLITTER
         f.write "\n"
       end
     end
