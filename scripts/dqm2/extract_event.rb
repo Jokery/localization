@@ -1,8 +1,10 @@
 require 'fileutils'
 load File.expand_path('../serializer.rb', __FILE__)
 
-ITEM_SPLITTER = "--------------------------------------\n"
-TRAN_SPLITTER = "======================================\n"
+NL = "\r\n"
+
+ITEM_SPLITTER = "--------------------------------------#{NL}"
+TRAN_SPLITTER = "======================================#{NL}"
 
 EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt'
@@ -30,7 +32,9 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
     length = content[index, 4].unpack('V')[0]
     index += 4
     item_data = content[index, length - 8]
-    index2item[index] = BinJSerializer.decode(item_data).gsub('{?e3-15}', "\n")
+    item = BinJSerializer.decode(item_data)
+    item.gsub!('{?e3-15}', NL)
+    index2item[index] = item
     index += length
   end
 
@@ -73,14 +77,24 @@ end.each do |dirname, arr|
         f.close
         f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
       end
-      itemnum += 1 if not item.include?('{Duplication')
-      f.write "\n#{origin_filename} No.#{i+1}\n"
+      if not item.include?('{Duplication')
+        itemnum += 1
+        while item[0] == '{'
+          macro_end = item.index('}')
+          item[0..macro_end] = ''
+        end
+        while item[-1] == '}'
+          macro_start = item.rindex('{')
+          item[macro_start..-1] = ''
+        end
+      end
+      f.write "#{NL}#{origin_filename} No.#{i+1}#{NL}"
       f.write ITEM_SPLITTER
-      f.write item + "\n"
+      f.write item + NL
       f.write TRAN_SPLITTER
-      f.write item + "\n"
+      f.write item + NL
       f.write ITEM_SPLITTER
-      f.write "\n"
+      f.write NL
     end
   end
   f.close
