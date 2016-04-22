@@ -60,20 +60,28 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
 end
 
 all_items.group_by do |key, items|
-  key[/[^\d]+/]
-end.each do |fname, arr|
-  File.open("#{EXTRACT_DIR}/#{fname}.txt", 'w') do |f|
-    arr.each do |origin_filename, _items|
-      _items.each_with_index do |item, i|
-        f.write "\n#{origin_filename} No.#{i+1}\n"
-        f.write ITEM_SPLITTER
-        f.write item + "\n"
-        f.write TRAN_SPLITTER
-        f.write item + "\n"
-        f.write ITEM_SPLITTER
-        f.write "\n"
+  key.split('/')[0]
+end.each do |dirname, arr|
+  filenum = 1
+  itemnum = 0
+  f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
+  arr.each do |origin_filename, _items|
+    _items.each_with_index do |item, i|
+      if itemnum > 50
+        filenum += 1
+        itemnum = 0
+        f.close
+        f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
       end
+      itemnum += 1 if not item.include?('{Duplication')
+      f.write "\n#{origin_filename} No.#{i+1}\n"
+      f.write ITEM_SPLITTER
+      f.write item + "\n"
+      f.write TRAN_SPLITTER
+      f.write item + "\n"
+      f.write ITEM_SPLITTER
+      f.write "\n"
     end
   end
+  f.close
 end
-
