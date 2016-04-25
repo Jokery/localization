@@ -81,31 +81,32 @@ module BinJSerializer
     str
   end
 
-  def self.encode(item)
+  def self.encode(item, options)
     item_data = ''
     length = item.length
     index = 0
-    while index < length - 1
+    while index <= length - 1
       char = item[index]
       if char == '{'
         end_index = item.index('}', index)
         item_data += get_macro(item[index..end_index])
         index = end_index + 1
-      elsif NOR1.include?(char)
-      elsif NOR.include?(char)
-      elsif E0.include?(char)
-      elsif E1.include?(char)
       else
+        item_data += options[:utf_prefix] + char.unpack('U').pack('n')
+        index += 1
       end
     end
+    item_data += options[:endmacro]
+    item_data += options[:appendfix] * ( 3 - ( item_data.length - 1 ) % 4 )
+    item_data
   end
 
   def self.get_macro(macro)
-    p1, p2 = macro[1..-2].split('-')
+    p1, p2 = macro[2..-2].split('-')
     if p2.nil?
       [ p1.to_i(16) ].pack('c')
     else
-      [ ( '%2s%s' % [ p1, p2 ] ).gsub(' ', '0').to_i(16) ].pack('n')
+      [ [ p1, p2 ].map { |num| num.to_s.rjust(2, '0') }.join('').to_i(16) ].pack('n')
     end
   end
 end
