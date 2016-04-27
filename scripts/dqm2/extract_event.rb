@@ -33,9 +33,17 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
     index += 4
     item_data = content[index, length - 8]
     item = BinJSerializer.decode(item_data)
+    while item[0] == '{'
+      macro_end = item.index('}')
+      item[0..macro_end] = ''
+    end
+    while item[-1] == '}'
+      macro_start = item.rindex('{')
+      item[macro_start..-1] = ''
+    end
     item.gsub!('{?e3-15}', NL)
     index2item[index] = item
-    index += length
+    index += length - 8
   end
 
   items = index2item.sort_by(&:first).map(&:last)
@@ -77,17 +85,8 @@ end.each do |dirname, arr|
         f.close
         f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
       end
-      if not item.include?('{Duplication')
-        itemnum += 1
-        while item[0] == '{'
-          macro_end = item.index('}')
-          item[0..macro_end] = ''
-        end
-        while item[-1] == '}'
-          macro_start = item.rindex('{')
-          item[macro_start..-1] = ''
-        end
-      end
+      next if item.include?('{Duplication')
+      itemnum += 1
       f.write "#{NL}#{origin_filename} No.#{i+1}#{NL}"
       f.write ITEM_SPLITTER
       f.write item + NL

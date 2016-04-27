@@ -5,6 +5,7 @@ EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt_plain'
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
+fname = "#{EVENT_DIR}/Demo/demo036.e"
   decompress = fname.sub(/\.e$/, '')
   gzfile = decompress + '.gz'
 
@@ -13,7 +14,7 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
 
   `gzip -d #{gzfile}`
   content = File.binread(decompress)
-  FileUtils.rm(decompress)
+  # FileUtils.rm(decompress)
 
   index = 0
   index2item = { }
@@ -24,7 +25,7 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
     index += 4
     item_data = content[index, length - 8]
     index2item[index] = BinJSerializer.decode(item_data)
-    index += length
+    index += length - 8
   end
 
   items = index2item.sort_by(&:first).map(&:last)
