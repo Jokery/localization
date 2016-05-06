@@ -14,14 +14,14 @@ all_items.group_by do |key, items|
 end.each do |dirname, arr|
   filenum = 1
   itemnum = 0
-  f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
+  f = File.open("#{EXTRACT_DIR}/#{dirname}_#{filenum}.txt", 'w')
   arr.each do |origin_filename, _items|
     _items.each_with_index do |item, i|
       if itemnum > 50
         filenum += 1
         itemnum = 0
         f.close
-        f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
+        f = File.open("#{EXTRACT_DIR}/#{dirname}_#{filenum}.txt", 'w')
       end
       next if item.include?('{Duplication')
       item.gsub!('{?e3-15}', NL)
