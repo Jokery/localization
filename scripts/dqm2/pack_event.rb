@@ -8,7 +8,7 @@ NL = "\r\n"
 
 EVENT_DIR = 'Event'
 REPACK_EVENT_DIR = '_repack_Event'
-EXTRACT_DIR = '_extract_Event_txt'
+TRANS_DIR = '_trans_Event_txt'
 
 HEADER_SIZE = 4100
 DIALOGUE_FUNC = [
@@ -24,7 +24,7 @@ SKIP_FUNC = [
 
 all_items = { }
 
-Dir.glob("#{EXTRACT_DIR}/**/*txt").each do |fname|
+Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
   sub_dir_indicator = fname.split('/')[1] + '/'
   lines = File.readlines(fname).map(&:chomp)
   size = lines.size
@@ -65,8 +65,6 @@ end
 origin_all_items = EventFileUtil.export_from_event
 
 origin_all_items.each do |filename, items|
-filename = 'Field/MAA21.e'
-items = origin_all_items[filename]
   items.each_with_index do |item, index|
     all_items[filename] ||= { }
     all_items[filename][index+1] ||= item
@@ -85,10 +83,6 @@ all_items.each_value do |hash|
       end
     end
   end
-end
-
-File.open('test.txt', 'w') do |f|
-  f.write all_items['Field/MAA21.e'].sort_by(&:first).map(&:last).join("\n")
 end
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
