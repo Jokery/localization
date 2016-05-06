@@ -1,3 +1,4 @@
+load File.expand_path('../serializer.rb', __FILE__)
 class EventFileUtil
   EVENT_DIR = 'Event'
   EXTRACT_DIR = '_extract_Event_txt'
@@ -35,7 +36,6 @@ class EventFileUtil
           macro_start = item.rindex('{')
           item[macro_start..-1] = ''
         end
-        item.gsub!('{?e3-15}', NL)
         index2item[index] = item
         index += length - 8
       end

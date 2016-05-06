@@ -1,5 +1,4 @@
 require 'fileutils'
-load File.expand_path('../serializer.rb', __FILE__)
 load File.expand_path('../event_file_util.rb', __FILE__)
 
 NL = "\r\n"
@@ -7,7 +6,6 @@ NL = "\r\n"
 ITEM_SPLITTER = "--------------------------------------#{NL}"
 TRAN_SPLITTER = "======================================#{NL}"
 
-EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt'
 
 all_items = EventFileUtil.export_from_event
@@ -27,6 +25,7 @@ end.each do |dirname, arr|
         f = File.open("#{EXTRACT_DIR}/#{dirname}/#{filenum}.txt", 'w')
       end
       next if item.include?('{Duplication')
+      item.gsub!('{?e3-15}', NL)
       itemnum += 1
       f.write "#{NL}#{origin_filename} No.#{i+1}#{NL}"
       f.write ITEM_SPLITTER

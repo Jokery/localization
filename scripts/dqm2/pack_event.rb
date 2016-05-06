@@ -1,8 +1,10 @@
 require 'fileutils'
 load File.expand_path('../serializer.rb', __FILE__)
+load File.expand_path('../event_file_util.rb', __FILE__)
 
 ITEM_SPLITTER = "--------------------------------------"
 TRAN_SPLITTER = "======================================"
+NL = "\r\n"
 
 EVENT_DIR = 'Event'
 REPACK_EVENT_DIR = '_repack_Event'
@@ -60,6 +62,17 @@ Dir.glob("#{EXTRACT_DIR}/**/*txt").each do |fname|
   end
 end
 
+origin_all_items = EventFileUtil.export_from_event
+
+origin_all_items.each do |filename, items|
+filename = 'Field/MAA21.e'
+items = origin_all_items[filename]
+  items.each_with_index do |item, index|
+    all_items[filename] ||= { }
+    all_items[filename][index+1] ||= item
+  end
+end
+
 all_items.each_value do |hash|
   hash.each_key do |id|
     trans = hash[id]
@@ -72,6 +85,10 @@ all_items.each_value do |hash|
       end
     end
   end
+end
+
+File.open('test.txt', 'w') do |f|
+  f.write all_items['Field/MAA21.e'].sort_by(&:first).map(&:last).join("\n")
 end
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|

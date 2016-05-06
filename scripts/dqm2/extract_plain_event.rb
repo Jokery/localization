@@ -13,7 +13,7 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
 
   `gzip -d #{gzfile}`
   content = File.binread(decompress)
-  # FileUtils.rm(decompress)
+  FileUtils.rm(decompress)
 
   index = 0
   index2item = { }
