@@ -1,9 +1,10 @@
+require 'fileutils'
 load File.expand_path('../serializer.rb', __FILE__)
 class EventFileUtil
   EVENT_DIR = 'Event'
   EXTRACT_DIR = '_extract_Event_txt'
 
-  def self.export_from_event
+  def self.export_from_event( origin_format = false )
     all_items = { }
 
     Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
@@ -28,13 +29,15 @@ class EventFileUtil
         index += 4
         item_data = content[index, length - 8]
         item = BinJSerializer.decode(item_data)
-        while item[0] == '{'
-          macro_end = item.index('}')
-          item[0..macro_end] = ''
-        end
-        while item[-1] == '}'
-          macro_start = item.rindex('{')
-          item[macro_start..-1] = ''
+        if not origin_format
+          while item[0] == '{'
+            macro_end = item.index('}')
+            item[0..macro_end] = ''
+          end
+          while item[-1] == '}'
+            macro_start = item.rindex('{')
+            item[macro_start..-1] = ''
+          end
         end
         index2item[index] = item
         index += length - 8
@@ -42,22 +45,24 @@ class EventFileUtil
 
       items = index2item.sort_by(&:first).map(&:last)
 
-      items.each_index do |index|
-        find_index = items.index(items[index])
-        if find_index < index
-          items[index] = "{Duplication #{fname_key} No.#{find_index + 1}}"
-        else
-          other = nil
-          all_items.each do |_fname, _items|
-            _index = _items.index(items[index])
-            if _index
-              other = _fname
-              find_index = _index
-              break
+      if not origin_format
+        items.each_index do |index|
+          find_index = items.index(items[index])
+          if find_index < index
+            items[index] = "{Duplication #{fname_key} No.#{find_index + 1}}"
+          else
+            other = nil
+            all_items.each do |_fname, _items|
+              _index = _items.index(items[index])
+              if _index
+                other = _fname
+                find_index = _index
+                break
+              end
             end
-          end
-          if other
-            items[index] = "{Duplication #{other} No.#{find_index + 1}}"
+            if other
+              items[index] = "{Duplication #{other} No.#{find_index + 1}}"
+            end
           end
         end
       end

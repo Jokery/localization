@@ -1,4 +1,3 @@
-require 'fileutils'
 load File.expand_path('../event_file_util.rb', __FILE__)
 
 NL = "\r\n"
