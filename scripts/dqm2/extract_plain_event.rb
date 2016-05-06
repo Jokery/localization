@@ -5,7 +5,6 @@ EVENT_DIR = 'Event'
 EXTRACT_DIR = '_extract_Event_txt_plain'
 
 Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
-fname = "#{EVENT_DIR}/Demo/demo036.e"
   decompress = fname.sub(/\.e$/, '')
   gzfile = decompress + '.gz'
 
