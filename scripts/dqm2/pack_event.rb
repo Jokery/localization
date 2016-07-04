@@ -23,9 +23,8 @@ SKIP_FUNC = [
 ]
 
 all_items = { }
-
 Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
-  sub_dir_indicator = fname.split('/')[1] + '/'
+  sub_dir_indicator = File.basename(fname).split('_')[0] + '/'
   lines = File.readlines(fname).map(&:chomp)
   size = lines.size
 
