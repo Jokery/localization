@@ -5,7 +5,7 @@ NL = "\r\n"
 ITEM_SPLITTER = "--------------------------------------#{NL}"
 TRAN_SPLITTER = "======================================#{NL}"
 
-EXTRACT_DIR = '_extract_Event_txt'
+EXTRACT_DIR = '_extract_Event_txt_new'
 
 all_items = EventFileUtil.export_from_event
 
