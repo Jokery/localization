@@ -8,7 +8,7 @@ NL = "\r\n"
 
 EVENT_DIR = 'Event'
 REPACK_EVENT_DIR = '_repack_Event'
-TRANS_DIR = '_trans_Event_txt'
+TRANS_DIR = '_trans_Event_txt_new'
 
 HEADER_SIZE = 4100
 DIALOGUE_FUNC = [
