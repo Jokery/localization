@@ -51,10 +51,9 @@ def gen_all_items(dir)
   all_items
 end
 extract_items_old = gen_all_items(EXTRACT_DIR)
-extract_items_new = gen_all_items(EXTRACT_DIR_NEW)
 trans_items = gen_all_items(TRANS_DIR)
 
-Dir.glob("#{TRANS_DIR_NEW}/**/*txt").each do |fname|
+Dir.glob("#{EXTRACT_DIR_NEW}/**/*txt").each do |fname|
   sub_dir_indicator = File.basename(fname).split('_')[0] + '/'
   lines = File.readlines(fname).map(&:chomp)
   size = lines.size
@@ -96,5 +95,5 @@ Dir.glob("#{TRANS_DIR_NEW}/**/*txt").each do |fname|
   replaces.reverse_each do |range, trans|
     lines[range] = trans
   end
-  File.open(fname, 'w') { |f| f.write lines.join("\r\n") }
+  File.open(fname.sub(EXTRACT_DIR_NEW, TRANS_DIR_NEW), 'w') { |f| f.write lines.join("\r\n") }
 end
