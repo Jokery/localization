@@ -74,14 +74,12 @@ class EventFileUtil
         item_data = content[index, length - 8]
         item = BinJSerializer.decode(item_data)
         if not origin_format
-          color_all_changed = false
           skip_macros = SKIP_MACROS
           while item[0] == '{'
             macro_end = item.index('}')
             if COLOR_MACROS[0] == item[0..macro_end]
               if item.scan(COLOR_MACROS[0]).length == 2 &&
-                  item[item.rindex(COLOR_MACROS[0])..-1] =~ /(\{[^\}]\})*$/
-                color_all_changed = true
+                  item[item.rindex(COLOR_MACROS[0])..-1] =~ /^(\{[^\}]*\})*$/
                 skip_macros += COLOR_MACROS
                 item[0..macro_end] = ''
               else
