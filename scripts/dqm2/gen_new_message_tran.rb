@@ -35,7 +35,7 @@ Dir.glob("#{EXTRACT_DIR_NEW}/*txt").each do |fname|
       id = number_str[/\d+/].to_i
 
       trans_start = item_lines.index(TRAN_SPLITTER) + 1
-      trans_end = item_lines.rindex(ITEM_SPLITTER) - 1
+      trans_end = item_lines.rindex(ITEM_SPLITTER)
 
       replaces << [ index + trans_start, index + trans_end, translations[id-1].split("{?e3-15}")]
       index = end_index
@@ -45,8 +45,8 @@ Dir.glob("#{EXTRACT_DIR_NEW}/*txt").each do |fname|
   end
 
   replaces.reverse_each do |tran_start, trans_end, trans|
-    lines[tran_start..trans_end] = trans
+    lines[tran_start...trans_end] = trans
   end
 
-  File.open(fname.sub(EXTRACT_DIR_NEW, TRANS_DIR_NEW), 'w') { |f| f.write lines.join(NL) }
+  File.open(fname.sub(EXTRACT_DIR_NEW, TRANS_DIR_NEW), 'w') { |f| f.write lines.join(NL) + NL }
 end

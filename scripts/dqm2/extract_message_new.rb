@@ -25,5 +25,5 @@ all_items.each do |fname, items|
       ''
     ]
   end
-  File.open("#{EXTRACT_DIR}/#{fname}.txt", 'w') { |f| f.write lines.join(NL) }
+  File.open("#{EXTRACT_DIR}/#{fname}.txt", 'w') { |f| f.write lines.join(NL) + NL }
 end
