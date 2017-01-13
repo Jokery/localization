@@ -3,6 +3,9 @@
 
 import os,sys,struct,re
 
+# 1 - 40
+NOR1 = "0123456789　　ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+
 '''
 if len(sys.argv) != 2:
     print("arg not correct.!")
@@ -54,11 +57,14 @@ def getStringData(str):
             result += getMacroData(macro)
             idx = endPos + 1
         else:
-            cVal = ord(c)
-            result += uCon
+            if NOR1.find(c) > -1:
+                result += struct.pack('B', 0x1 + NOR1.find(c))
+            else:
+                cVal = ord(c)
+                result += uCon
 
-            cbVal = struct.pack(">H",cVal)
-            result += cbVal
+                cbVal = struct.pack(">H",cVal)
+                result += cbVal
             idx += 1
     return result
 

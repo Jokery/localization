@@ -92,7 +92,11 @@ module BinJSerializer
         item_data += get_macro(item[index..end_index])
         index = end_index + 1
       else
-        item_data += options[:utf_prefix] + char.unpack('U').pack('n')
+        if ( nor1_index = NOR1.index(char) )
+          item_data += [ 0x1 + nor1_index ].pack('C')
+        else
+          item_data += options[:utf_prefix] + char.unpack('U').pack('n')
+        end
         index += 1
       end
     end
