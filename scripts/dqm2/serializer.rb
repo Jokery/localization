@@ -1,6 +1,7 @@
 #encoding: utf-8
 module BinJSerializer
   # 1 - 40
+  NUMBERS = '0123456789'
   NOR1 = "0123456789　　ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
   #NOR start with 6F
@@ -92,7 +93,7 @@ module BinJSerializer
         item_data += get_macro(item[index..end_index])
         index = end_index + 1
       else
-        if ( nor1_index = NOR1.index(char) )
+        if ( nor1_index = NUMBERS.index(char) )
           item_data += [ 0x1 + nor1_index ].pack('C')
         else
           item_data += options[:utf_prefix] + char.unpack('U').pack('n')

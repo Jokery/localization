@@ -4,7 +4,7 @@
 import os,sys,struct,re
 
 # 1 - 40
-NOR1 = "0123456789　　ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+NUMBERS = "0123456789"
 
 '''
 if len(sys.argv) != 2:
@@ -57,8 +57,8 @@ def getStringData(str):
             result += getMacroData(macro)
             idx = endPos + 1
         else:
-            if NOR1.find(c) > -1:
-                result += struct.pack('B', 0x1 + NOR1.find(c))
+            if NUMBERS.find(c) > -1:
+                result += struct.pack('B', 0x1 + NUMBERS.find(c))
             else:
                 cVal = ord(c)
                 result += uCon
