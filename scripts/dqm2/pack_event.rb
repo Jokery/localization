@@ -41,7 +41,7 @@ Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
           end_index += 1
         end
       end
-      item_lines = lines[index...end_index]
+      item_lines = lines[index..end_index]
 
       position_line = item_lines[0]
       filename, number_str = position_line.split(' ')
