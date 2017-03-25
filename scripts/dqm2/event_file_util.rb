@@ -74,30 +74,34 @@ class EventFileUtil
         item_data = content[index, length - 8]
         item = BinJSerializer.decode(item_data)
         if not origin_format
-          skip_macros = SKIP_MACROS
-          while item[0] == '{'
-            macro_end = item.index('}')
-            if COLOR_MACROS[0] == item[0..macro_end]
-              if item.scan(COLOR_MACROS[0]).length == 2 &&
-                  item[item.rindex(COLOR_MACROS[0])..-1] =~ /^(\{[^\}]*\})*$/
-                skip_macros += COLOR_MACROS
-                item[0..macro_end] = ''
+          splitted = item.split('{?e3-1b}')
+          splitted.each do |piece|
+            skip_macros = SKIP_MACROS
+            while piece[0] == '{'
+              macro_end = piece.index('}')
+              if COLOR_MACROS[0] == piece[0..macro_end]
+                if piece.scan(COLOR_MACROS[0]).length == 2 &&
+                    piece[piece.rindex(COLOR_MACROS[0])..-1] =~ /^(\{[^\}]*\})*$/
+                  skip_macros += COLOR_MACROS
+                  piece[0..macro_end] = ''
+                else
+                  break
+                end
               else
-                break
+                break unless skip_macros.include? piece[0..macro_end]
+                piece[0..macro_end] = ''
               end
-            else
-              break unless skip_macros.include? item[0..macro_end]
-              item[0..macro_end] = ''
+            end
+            while piece[-1] == '}'
+              macro_start = piece.rindex('{')
+              break unless skip_macros.include? piece[macro_start..-1]
+              piece[macro_start..-1] = ''
+            end
+            if piece =~ /^(\{[^\}]*\})*$/
+              piece.replace('')
             end
           end
-          while item[-1] == '}'
-            macro_start = item.rindex('{')
-            break unless skip_macros.include? item[macro_start..-1]
-            item[macro_start..-1] = ''
-          end
-          if item =~ /^(\{[^\}]*\})*$/
-            item = ''
-          end
+          item = splitted.join('{?e3-1b}')
         end
         index2item[index] = item
         index += length - 8

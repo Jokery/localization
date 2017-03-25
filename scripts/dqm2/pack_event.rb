@@ -138,31 +138,37 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
 
   x.each_index do |index|
     origin = items[index]
-    not_macro_start = 0
-    not_macro_end = -1
-    while origin[not_macro_start] == '{'
-      not_macro_start = origin.index('}', not_macro_start) + 1
-    end
-    while origin[not_macro_end] == '}'
-      not_macro_end = origin.rindex('{', not_macro_end) - 1
-      break if not_macro_end == -1
-    end
-    x[index] = origin[0...not_macro_start] + x[index] +
-      ( not_macro_end != -1 ?
-       origin[(not_macro_end+1)..-1] :
-       '' )
-      encoded = BinJSerializer.encode(x[index], utf_prefix: "\xe4", appendfix: "\x00", endmacro: "\xe3\x1b")
-      length = encoded.length + 8
-      position2length = arr_position2length[index]
-      origin_position, origin_length = position2length
-      content[origin_position, 4] = [ length ].pack('V')
-      replaces << [ origin_position + 4, origin_length - 8, encoded ]
-      diff = length - origin_length
-      arr_pointer2position.each do |p2p|
-        if ( p2p[2] + HEADER_SIZE ) > origin_position
-          p2p[1] += diff
-        end
+    trans = x[index]
+    splitted_origin = origin.split('{?e3-1b}')
+    splitted_trans = trans.split('{?e3-1b}')
+    splitted_trans << '' if splitted_trans.empty?
+    splitted_origin.each_index do |j|
+      origin_piece = splitted_origin[j]
+      not_macro_start = 0
+      not_macro_end = -1
+      while origin_piece[not_macro_start] == '{'
+        not_macro_start = origin_piece.index('}', not_macro_start) + 1
       end
+      while origin_piece[not_macro_end] == '}'
+        not_macro_end = origin_piece.rindex('{', not_macro_end) - 1
+        break if not_macro_end == -1
+      end
+      splitted_trans[j] = origin_piece[0...not_macro_start] + splitted_trans[j] +
+        ( not_macro_end != -1 ?  origin_piece[(not_macro_end+1)..-1] : '' )
+    end
+    x[index] = splitted_trans.join('{?e3-1b}')
+    encoded = BinJSerializer.encode(x[index], utf_prefix: "\xe4", appendfix: "\x00", endmacro: "\xe3\x1b")
+    length = encoded.length + 8
+    position2length = arr_position2length[index]
+    origin_position, origin_length = position2length
+    content[origin_position, 4] = [ length ].pack('V')
+    replaces << [ origin_position + 4, origin_length - 8, encoded ]
+    diff = length - origin_length
+    arr_pointer2position.each do |p2p|
+      if ( p2p[2] + HEADER_SIZE ) > origin_position
+        p2p[1] += diff
+      end
+    end
   end
 
   arr_pointer2position.each do |p2p|
