@@ -23,7 +23,12 @@ module BinJSerializer
       if c == 0xE3
         c2 = item_data[scan_index + 1, 1].unpack('C')[0]
         if c2 == 0x1B
-          break
+          c3 = item_data[scan_index + 2, 1].unpack('C')[0]
+          if c3 == 0xE3
+            str += '{?e3-1b}'
+          else
+            break
+          end
         elsif c2 == 0xB || c2 == 0x1C
           str += "{?%x-%x}" % [c, c2]
           c3 = item_data[scan_index + 2, 1].unpack('C')[0]

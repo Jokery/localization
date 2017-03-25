@@ -4,6 +4,7 @@ NL = "\r\n"
 
 ITEM_SPLITTER = "--------------------------------------#{NL}"
 TRAN_SPLITTER = "======================================#{NL}"
+ROLE_SPLITTER = "#{NL}++++++++++++++++++++++++++++++++++++++#{NL}"
 
 EXTRACT_DIR = '_extract_Event_txt_new'
 
@@ -25,6 +26,7 @@ end.each do |dirname, arr|
       end
       next if item.include?('{Duplication')
       item.gsub!('{?e3-15}', NL)
+      item.gsub!('{?e3-1b}', ROLE_SPLITTER)
       itemnum += 1
       f.write "#{NL}#{origin_filename} No.#{i+1}#{NL}"
       f.write ITEM_SPLITTER

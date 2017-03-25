@@ -4,6 +4,7 @@ load File.expand_path('../event_file_util.rb', __FILE__)
 
 ITEM_SPLITTER = "--------------------------------------"
 TRAN_SPLITTER = "======================================"
+ROLE_SPLITTER = "++++++++++++++++++++++++++++++++++++++"
 NL = "\r\n"
 
 EVENT_DIR = 'Event'
@@ -50,6 +51,7 @@ Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
       trans_start = item_lines.index(TRAN_SPLITTER) + 1
       trans_end = item_lines.rindex(ITEM_SPLITTER)
       trans = item_lines[ trans_start...trans_end ].join("{?e3-15}")
+      trans.gsub!("{?e3-15}#{ROLE_SPLITTER}{?e3-15}", '{?e3-1b}')
 
       all_items[ filename ] ||= { }
       all_items[ filename ][id] = trans
