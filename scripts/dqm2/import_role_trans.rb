@@ -8,7 +8,6 @@ NL = "\r\n"
 role_items = { }
 
 Dir.glob("#{ROLE_DIR}/**/*txt").each do |fname|
-  sub_dir_indicator = File.basename(fname).split('_')[0] + '/'
   lines = File.readlines(fname).map(&:chomp)
   size = lines.size
 
@@ -16,9 +15,9 @@ Dir.glob("#{ROLE_DIR}/**/*txt").each do |fname|
   loop do
     break if lines[index].nil?
 
-    if lines[index] =~ /^#{sub_dir_indicator}/
+    if lines[index] =~ /(Demo|Field)\//
       end_index = index + 1
-      while lines[end_index] !~ /^#{sub_dir_indicator}/
+      while lines[end_index] !~ /(Demo|Field)\//
         if end_index >= size - 1
           break
         else
@@ -83,6 +82,10 @@ Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
       updated << lines[index]
       index += 1
     end
+  end
+
+  if changed
+    File.open(fname, 'w') { |f| f.write updated.join(NL) }
   end
 end
 
