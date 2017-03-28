@@ -28,6 +28,8 @@ Dir.glob("#{ROLE_DIR}/**/*txt").each do |fname|
 
       position_line = item_lines[0]
       filename, number_str = position_line.split(' ')
+      filename =~ /(Demo|Field)\/(.*e)/
+      filename = "#{$1}/#{$2}"
       id = number_str[/\d+/].to_i
 
       role_items[ filename ] ||= { }

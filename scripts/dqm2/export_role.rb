@@ -8,7 +8,7 @@ NL = "\r\n"
 
 outputs = [ ]
 count = 0
-findex = 0
+findex = 1
 
 Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
   sub_dir_indicator = File.basename(fname).split('_')[0] + '/'
@@ -42,8 +42,8 @@ Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
 
       index = end_index
       if count == 50
-        findex += 1
         File.open("#{TRANS_ROLE_DIR}/role_#{findex}.txt", 'w') { |f| f.write outputs.join(NL) }
+        findex += 1
         outputs.clear
         count = 0
       end
@@ -53,3 +53,4 @@ Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
   end
 end
 
+File.open("#{TRANS_ROLE_DIR}/role_#{findex}.txt", 'w') { |f| f.write outputs.join(NL) }
