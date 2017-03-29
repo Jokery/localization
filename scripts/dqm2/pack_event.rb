@@ -23,6 +23,26 @@ SKIP_FUNC = [
   "\x0a\x04\x00\x00", # "\x10\x00\x00\x00",
 ]
 
+SKIP_MACROS = [
+  '{?e3-f5}',
+  '{?e3-f6}',
+  '{?e3-f8}',
+  '{?e3-8}',  # yinxiao
+  '{?e3-3}',  # yinxiao
+  '{?e3-7}',  # yinxiao
+  '{?e1-48}', # kuohao
+
+  '{?e1-4e}',
+  '{?e3-9}',
+  '{?e3-c}',
+]
+
+COLOR_MACROS = [
+  '{?e3-1c}', # bianse kaishi
+  '{?0}',     # baise
+  '{?2}',     # huangse
+]
+
 all_items = { }
 Dir.glob("#{TRANS_DIR}/**/*txt").each do |fname|
   sub_dir_indicator = File.basename(fname).split('_')[0] + '/'
@@ -146,13 +166,29 @@ Dir.glob("#{EVENT_DIR}/**/*.e").each do |fname|
       origin_piece = splitted_origin[j]
       not_macro_start = 0
       not_macro_end = -1
-      while origin_piece[not_macro_start] == '{'
-        not_macro_start = origin_piece.index('}', not_macro_start) + 1
-      end
-      while origin_piece[not_macro_end] == '}'
-        not_macro_end = origin_piece.rindex('{', not_macro_end) - 1
-        break if not_macro_end == -1
-      end
+
+            skip_macros = SKIP_MACROS
+            while origin_piece[not_macro_start] == '{'
+              macro_end = origin_piece.index('}', not_macro_start)
+              if COLOR_MACROS[0] == origin_piece[not_macro_start..macro_end]
+                if origin_piece.scan(COLOR_MACROS[0]).length == 2 &&
+                    origin_piece[origin_piece.rindex(COLOR_MACROS[0])..-1] =~ /^(\{[^\}]*\})*$/
+                  skip_macros += COLOR_MACROS
+                  not_macro_start = macro_end + 1
+                else
+                  break
+                end
+              else
+                break unless skip_macros.include? origin_piece[not_macro_start..macro_end]
+                not_macro_start = macro_end + 1
+              end
+            end
+            while origin_piece[not_macro_end] == '}'
+              macro_start = origin_piece.rindex('{', not_macro_end)
+              break unless skip_macros.include? origin_piece[macro_start..not_macro_end]
+              not_macro_end = macro_start - 1
+            end
+
       splitted_trans[j] = origin_piece[0...not_macro_start] + splitted_trans[j] +
         ( not_macro_end != -1 ?  origin_piece[(not_macro_end+1)..-1] : '' )
     end
